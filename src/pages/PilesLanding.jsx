@@ -82,25 +82,28 @@ export default function PilesLanding() {
       <section className="section lp-treat">
         <div className="container">
           <Reveal className="section-head center"><h2 className="h2">{t(LP.treat.title)}</h2></Reveal>
-          <div className="lp-treat-grid">
+          <div className="lp-treat-grid lp-treat-v2">
             {LP.treat.items.map((it, i) => {
               const inner = (
                 <>
                   <div className="lp-treat-img"><SmartImg src={it.img} alt={t(it.name)} emoji={it.icon} /></div>
-                  <h3><span className="tick">✓</span>{t(it.name)}</h3>
+                  <h3><span className="lp-check" aria-hidden="true">✓</span>{t(it.name)}</h3>
                   <p>{t(it.text)}</p>
                 </>
               )
               return (
-                <Reveal key={it.img} delay={(i % 4) * 70}>
+                <Reveal key={it.img} delay={(i % 2) * 80}>
                   {it.slug && DISEASE_LOADERS[it.slug]
                     ? <Link to={`/disease/${it.slug}`} className="lp-treat-card">{inner}</Link>
                     : <div className="lp-treat-card">{inner}</div>}
                 </Reveal>
               )
             })}
-            <Reveal className="lp-treat-card lp-online-card" delay={280}>
-              <div className="lp-online-doc">👩‍⚕️<span className="online-dot" /></div>
+            <Reveal className="lp-treat-card lp-online-card" delay={80}>
+              <div className="lp-online-doc">
+                <SmartImg src="/images/call-doctor.png" alt="" emoji="👩‍⚕️" />
+                <span className="online-dot" />
+              </div>
               <h3>{t({ en: 'Doctors are online', hi: 'डॉक्टर ऑनलाइन हैं' })}</h3>
               <CallButton />
             </Reveal>

@@ -35,7 +35,7 @@ export default function About() {
             <Reveal as="p" className="lead" delay={140}>{t(A.intro)}</Reveal>
           </div>
           <Reveal className="about-hero-photo" variant="right">
-            <div className="photo-frame"><SmartImg src={A.images.hero} alt="Jeewan Jyoti clinic, Panki, Kanpur" emoji="🏥" /></div>
+            <div className="photo-frame"><SmartImg src={A.images.hero} alt="Jeewan Jyoti clinic" emoji="🏥" /></div>
             <p className="caption">{t(A.heroCaption)}</p>
           </Reveal>
         </div>

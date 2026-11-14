@@ -60,7 +60,7 @@ export default function PilesLanding() {
       <section className="section">
         <div className="container welcome-grid">
           <Reveal className="welcome-media" variant="left">
-            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic, Panki, Kanpur" emoji="🏥" /></div>
+            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic" emoji="🏥" /></div>
           </Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(O.kicker)}</Reveal>

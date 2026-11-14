@@ -23,7 +23,6 @@ export default function Footer() {
           <p>{t(FOOTER.about)}</p>
           <ul className="footer-contact">
             <li>📍 {t(SITE.cities)}</li>
-            <li>🏥 {t(SITE.address)}</li>
             <li>🕘 {t(SITE.hours)}</li>
             <li>📞 <a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
             <li>✉️ <a href={`mailto:${SITE.email}`}>{SITE.email}</a></li>

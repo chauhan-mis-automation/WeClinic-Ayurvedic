@@ -2,7 +2,6 @@ import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { useLang } from '../i18n/LanguageContext'
 import { CONTACT as C } from '../data/pages'
-import { VISIT } from '../data/home'
 import { SITE } from '../config'
 import Reveal from '../components/Reveal'
 import LeadForm from '../components/LeadForm'
@@ -10,7 +9,6 @@ import LeadForm from '../components/LeadForm'
 export default function Contact() {
   const { t } = useLang()
   useEffect(() => { document.title = 'Contact Jeewan Jyoti Ayurvedic Sansthan — Kanpur & Noida Clinics' }, [])
-  const q = encodeURIComponent(VISIT.mapQuery)
 
   return (
     <div>
@@ -26,10 +24,6 @@ export default function Contact() {
         <div className="container contact-grid">
           <div className="contact-cards">
             <Reveal className="contact-card">
-              <span className="vi">📍</span>
-              <div><h3>{t(C.addressTitle)}</h3><p>{t(C.address)}</p><small>{t(C.noida)}</small></div>
-            </Reveal>
-            <Reveal className="contact-card" delay={60}>
               <span className="vi">📞</span>
               <div>
                 <h3>{t(C.phonesTitle)}</h3>
@@ -53,11 +47,6 @@ export default function Contact() {
           </div>
           <Reveal className="hero-form-wrap" variant="right">
             <LeadForm source="contact-page" title={C.formTitle} />
-          </Reveal>
-        </div>
-        <div className="container">
-          <Reveal className="visit-map contact-map">
-            <iframe title="Jeewan Jyoti map" src={`https://maps.google.com/maps?q=${q}&z=15&output=embed`} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen />
           </Reveal>
         </div>
       </section>

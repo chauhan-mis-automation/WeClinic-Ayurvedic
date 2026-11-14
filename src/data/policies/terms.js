@@ -102,7 +102,7 @@ export default {
 "li": "Some parts of the Services are interactive, and we encourage contributions by Users, which may or may not be subject to editorial control prior to being posted. The Company accepts no responsibility or liability for any material communicated by third parties in this way. The Company reserves the right at its sole discretion to remove, review, edit or delete any content. Similarly, We will not be responsible or liable for any content uploaded by Users directly on the Website, irrespective of whether We have certified any answer uploaded by the User. We would not be responsible to verify whether such questions/answers or contents placed by any User contain infringing materials or not. Interaction done among users will remain private and will not form a part of record and the Jeewan Jyoti Ayurvedic Sansthan will not be held responsible for any type of conversations/discussion amongst them.Any information shared by the teachers or coaches to the users will form a part of record and can be accessed by Jeewan Jyoti Ayurvedic Sansthan."
 },
 {
-"li": "The Company may, based on any form of access to the Application (including free download/trials) or Services or Website or registrations through any source whatsoever, contact the User through sms, email and call, to give information about its products as well as notifications on various important updates and/or to seek permission for demonstration of its products. The User expressly grants such permission to contact him/her through telephone, SMS, e-mail and holds the Company indemnified against any liabilities including financial penalties, damages, expenses in case the User’s mobile number is registered with Do not Call (DNC) database. By registering yourself, you agree to make your contact details available to Our employees, associates and partners so that you may be contacted for education information and promotions through telephone, SMS, email etc. In case You wish to stop receiving notifications from Us with regard to marketing and promotional calls/ with regard to any communication received from Us, You may do so by sending an email to info@weclinic.in"
+"li": "The Company may, based on any form of access to the Application (including free download/trials) or Services or Website or registrations through any source whatsoever, contact the User through sms, email and call, to give information about its products as well as notifications on various important updates and/or to seek permission for demonstration of its products. The User expressly grants such permission to contact him/her through telephone, SMS, e-mail and holds the Company indemnified against any liabilities including financial penalties, damages, expenses in case the User’s mobile number is registered with Do not Call (DNC) database. By registering yourself, you agree to make your contact details available to Our employees, associates and partners so that you may be contacted for education information and promotions through telephone, SMS, email etc. In case You wish to stop receiving notifications from Us with regard to marketing and promotional calls/ with regard to any communication received from Us, You may do so by sending an email to jeevanjyotiayurvedicsansthan@gmail.com"
 },
 {
 "p": "All the required information of Users will be accessed by us as and when required and no Third Party will be in access of the same."
@@ -165,7 +165,7 @@ export default {
 "p": "General Provisions:"
 },
 {
-"li": "Notice: All notices served by the Company shall be provided via email to Your account or as a general notification on the Application. Any notice to be provided to the Company should be sent to info@weclinic.in"
+"li": "Notice: All notices served by the Company shall be provided via email to Your account or as a general notification on the Application. Any notice to be provided to the Company should be sent to jeevanjyotiayurvedicsansthan@gmail.com"
 },
 {
 "li": "Entire Agreement: The Terms, along with the Privacy Policy, and any other guidelines made applicable to the Application from time to time, constitute the entire agreement between the Company and You with respect to Your access to or use of the Application, Website and the Services thereof."
@@ -198,7 +198,7 @@ export default {
 "p": "Customer Care:"
 },
 {
-"p": "We make all best endeavours to provide You with a pleasant experience. In the unlikely event that You face any issues, please contact us at info@weclinic.in"
+"p": "We make all best endeavours to provide You with a pleasant experience. In the unlikely event that You face any issues, please contact us at jeevanjyotiayurvedicsansthan@gmail.com"
 }
 ]
 }

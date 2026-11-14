@@ -156,13 +156,7 @@ export default {
 "p": "Grievance Officer: Mr. Deepak Yadav"
 },
 {
-"p": "3/84 F Block Panki, Kanpur,"
-},
-{
-"p": "Uttar Pradesh 208020"
-},
-{
-"p": "Reach out to us on info@weclinic.in, in case of any queries."
+"p": "Reach out to us on jeevanjyotiayurvedicsansthan@gmail.com, in case of any queries."
 }
 ]
 }

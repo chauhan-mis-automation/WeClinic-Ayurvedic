@@ -104,14 +104,12 @@ export function Awards() {
 export function VisitUs() {
   const { t } = useLang()
   const { openAppointment } = useAppointment()
-  const q = encodeURIComponent(VISIT.mapQuery)
   return (
     <section className="section visit">
       <div className="container visit-grid">
         <Reveal className="visit-copy" variant="left">
           <h2 className="h2">{t(VISIT.title)}</h2>
           <ul className="visit-list">
-            <li><span className="vi">📍</span>{t(VISIT.address)}</li>
             <li><span className="vi">🕘</span>{t(VISIT.hours)}</li>
             <li><span className="vi">📞</span><a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
           </ul>
@@ -120,14 +118,8 @@ export function VisitUs() {
             <button className="btn btn-ghost btn-lg" onClick={openAppointment}>{t(VISIT.book)}</button>
           </div>
         </Reveal>
-        <Reveal className="visit-map" variant="right">
-          <iframe
-            title="Jeewan Jyoti map"
-            src={`https://maps.google.com/maps?q=${q}&z=15&output=embed`}
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            allowFullScreen
-          />
+        <Reveal className="visit-logo" variant="right">
+          <img src="/images/logo@2x.webp" alt="Jeewan Jyoti Ayurvedic Sansthan" loading="lazy" />
         </Reveal>
       </div>
     </section>

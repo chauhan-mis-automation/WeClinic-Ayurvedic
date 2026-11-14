@@ -163,11 +163,9 @@ export const AWARDS = {
 // ---------- Visit us ----------
 export const VISIT = {
   title: { en: 'Visit Us in Kanpur & Noida', hi: 'कानपुर और नोएडा में हमसे मिलें' },
-  address: { en: 'Clinics in Kanpur and Noida. HQ: 3/84, F Block, Panki, Kanpur, Uttar Pradesh 208020', hi: 'कानपुर और नोएडा में क्लिनिक। मुख्यालय: 3/84, एफ ब्लॉक, पनकी, कानपुर, उत्तर प्रदेश 208020' },
   hours: { en: 'Open 10:00 AM – 9:00 PM (Monday Off)', hi: 'सुबह 10:00 – रात 9:00 (सोमवार बंद)' },
   book: { en: 'Book Appointment', hi: 'अपॉइंटमेंट बुक करें' },
   directions: { en: 'Get directions', hi: 'रास्ता देखें' },
-  mapQuery: '3/84 F Block Panki Kanpur Uttar Pradesh 208020',
 }
 
 // ---------- FAQ ----------
@@ -203,11 +201,11 @@ export const FAQ = {
     },
     {
       q: { en: 'Where is Jeewan Jyoti located?', hi: 'जीवन ज्योति कहां है?' },
-      a: { en: 'We have clinics in Kanpur and Noida. Our HQ is at 3/84, F Block, Panki, Kanpur, Uttar Pradesh 208020.', hi: 'हमारे क्लिनिक कानपुर और नोएडा में हैं। मुख्यालय: 3/84, एफ ब्लॉक, पनकी, कानपुर, उत्तर प्रदेश 208020।' },
+      a: { en: 'We have clinics in Kanpur and Noida.', hi: 'हमारे क्लिनिक कानपुर और नोएडा में हैं।' },
     },
     {
       q: { en: 'How can I book an appointment?', hi: 'अपॉइंटमेंट कैसे बुक करें?' },
-      a: { en: 'Fill the free consultation form on this page, tap "Make an Appointment", or call +91 79051 36461.', hi: 'इस पेज पर फ्री परामर्श फॉर्म भरें, "अपॉइंटमेंट लें" दबाएं, या +91 79051 36461 पर कॉल करें।' },
+      a: { en: 'Fill the free consultation form on this page, tap "Make an Appointment", or call +91 97117 66755.', hi: 'इस पेज पर फ्री परामर्श फॉर्म भरें, "अपॉइंटमेंट लें" दबाएं, या +91 97117 66755 पर कॉल करें।' },
     },
     {
       q: { en: 'Is Ayurvedic treatment safe?', hi: 'क्या आयुर्वेदिक उपचार सुरक्षित है?' },

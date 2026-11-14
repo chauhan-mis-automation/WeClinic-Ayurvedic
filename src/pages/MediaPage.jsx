@@ -6,7 +6,7 @@ import { Awards } from '../components/HomeSections'
 
 export default function MediaPage() {
   const { t } = useLang()
-  useEffect(() => { document.title = 'Media Mentions & Awards | WeClinic Ayurveda' }, [])
+  useEffect(() => { document.title = 'Media Mentions & Awards | Jeewan Jyoti Ayurvedic Sansthan' }, [])
   return (
     <div>
       <section className="page-hero">

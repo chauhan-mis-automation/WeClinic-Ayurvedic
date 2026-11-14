@@ -9,7 +9,7 @@ import LeadForm from '../components/LeadForm'
 
 export default function Contact() {
   const { t } = useLang()
-  useEffect(() => { document.title = 'Contact WeClinic Ayurveda — Kanpur & Noida Clinics' }, [])
+  useEffect(() => { document.title = 'Contact Jeewan Jyoti Ayurvedic Sansthan — Kanpur & Noida Clinics' }, [])
   const q = encodeURIComponent(VISIT.mapQuery)
 
   return (
@@ -57,7 +57,7 @@ export default function Contact() {
         </div>
         <div className="container">
           <Reveal className="visit-map contact-map">
-            <iframe title="WeClinic map" src={`https://maps.google.com/maps?q=${q}&z=15&output=embed`} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen />
+            <iframe title="Jeewan Jyoti map" src={`https://maps.google.com/maps?q=${q}&z=15&output=embed`} loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen />
           </Reveal>
         </div>
       </section>

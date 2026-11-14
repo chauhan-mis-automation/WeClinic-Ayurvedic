@@ -7,8 +7,8 @@ export default {
   "hi": "पीएमएस (पीरियड से पहले की तकलीफ)"
  },
  "seoTitle": {
-  "en": "PMS Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "पीएमएस (पीरियड से पहले की तकलीफ) का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "PMS Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "पीएमएस (पीरियड से पहले की तकलीफ) का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -576,15 +576,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised pms treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से पीएमएस (पीरियड से पहले की तकलीफ) का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised pms treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से पीएमएस (पीरियड से पहले की तकलीफ) का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

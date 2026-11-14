@@ -1,11 +1,11 @@
 // Home page ka saara text — {en, hi}. Yahan se badlo.
 export const HERO = {
   pill: { en: '8 Lakh+ Patients Treated · 98% Patient Satisfaction · Kanpur & Noida', hi: '8 लाख+ मरीज़ों का उपचार · 98% मरीज़ संतुष्ट · कानपुर और नोएडा' },
-  h1a: { en: 'WeClinic Ayurveda', hi: 'वीक्लिनिक आयुर्वेद' },
+  h1a: { en: 'Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान' },
   h1b: { en: "India's Trusted Ayurvedic Clinic", hi: 'भारत का भरोसेमंद आयुर्वेदिक क्लिनिक' },
   text: {
-    en: 'Suffering from piles, arthritis or skin problems? WeClinic (also written as We Clinic) offers personalised Ayurvedic care with natural, gentle medicines. Consult expert doctors in-person or online — medicines delivered across India.',
-    hi: 'बवासीर, गठिया या त्वचा की समस्या से परेशान हैं? वीक्लिनिक (We Clinic) प्राकृतिक और सौम्य दवाओं के साथ व्यक्तिगत आयुर्वेदिक देखभाल देता है। क्लिनिक में या ऑनलाइन विशेषज्ञ डॉक्टरों से परामर्श लें — दवा पूरे भारत में घर तक।',
+    en: 'Suffering from piles, arthritis or skin problems? Jeewan Jyoti offers personalised Ayurvedic care with natural, gentle medicines. Consult expert doctors in-person or online — medicines delivered across India.',
+    hi: 'बवासीर, गठिया या त्वचा की समस्या से परेशान हैं? जीवन ज्योति प्राकृतिक और सौम्य दवाओं के साथ व्यक्तिगत आयुर्वेदिक देखभाल देता है। क्लिनिक में या ऑनलाइन विशेषज्ञ डॉक्टरों से परामर्श लें — दवा पूरे भारत में घर तक।',
   },
   cta: { en: 'Get Free Consultation', hi: 'फ्री परामर्श लें' },
   talk: { en: 'Talk to a doctor now', hi: 'अभी डॉक्टर से बात करें' },
@@ -24,11 +24,11 @@ export const TRUST = [
 ]
 
 export const WELCOME = {
-  eyebrow: { en: 'Welcome to WeClinic™ Ayurveda', hi: 'वीक्लिनिक™ आयुर्वेद में आपका स्वागत है' },
+  eyebrow: { en: 'Welcome to Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान में आपका स्वागत है' },
   title: { en: 'A Trusted Ayurvedic Clinic — Treating Patients in Every State', hi: 'भरोसेमंद आयुर्वेदिक क्लिनिक — हर राज्य के मरीज़ों का उपचार' },
   p1: {
-    en: 'WeClinic™ Ayurveda (also popularly known as We Clinic) has cared for 8 Lakh+ patients, with 98% of patients reporting satisfaction. Our experienced doctors help with piles, arthritis, skin problems, gynaecological and other chronic conditions — browse our full list of treatments to find yours.',
-    hi: 'वीक्लिनिक™ आयुर्वेद (We Clinic) अब तक 8 लाख+ मरीज़ों की देखभाल कर चुका है, और 98% मरीज़ों ने संतुष्टि जताई है। हमारे अनुभवी डॉक्टर बवासीर, गठिया, त्वचा रोग, स्त्री रोग और अन्य पुरानी समस्याओं में मदद करते हैं — अपनी समस्या ढूंढने के लिए हमारे सभी उपचार देखें।',
+    en: 'Jeewan Jyoti Ayurvedic Sansthan has cared for 8 Lakh+ patients, with 98% of patients reporting satisfaction. Our experienced doctors help with piles, arthritis, skin problems, gynaecological and other chronic conditions — browse our full list of treatments to find yours.',
+    hi: 'जीवन ज्योति आयुर्वेदिक संस्थान अब तक 8 लाख+ मरीज़ों की देखभाल कर चुका है, और 98% मरीज़ों ने संतुष्टि जताई है। हमारे अनुभवी डॉक्टर बवासीर, गठिया, त्वचा रोग, स्त्री रोग और अन्य पुरानी समस्याओं में मदद करते हैं — अपनी समस्या ढूंढने के लिए हमारे सभी उपचार देखें।',
   },
   p2: {
     en: 'We combine modern physical clinics in Kanpur and Noida with a dedicated teleconsultation centre, so patients from metro cities to rural areas and the hill regions of Jammu & Kashmir and Uttarakhand get the same standard of care, with medicines delivered to their doorstep anywhere in India.',
@@ -49,7 +49,7 @@ export const WELCOME = {
 
 export const WHY = {
   eyebrow: { en: 'Why choose us', hi: 'हमें क्यों चुनें' },
-  title: { en: "Why WeClinic™ Ayurveda is India's Preferred Choice", hi: 'वीक्लिनिक™ आयुर्वेद लोगों की पसंद क्यों है' },
+  title: { en: "Why Jeewan Jyoti Ayurvedic Sansthan is India's Preferred Choice", hi: 'जीवन ज्योति आयुर्वेदिक संस्थान लोगों की पसंद क्यों है' },
   sub: { en: 'Real experience, real scale — care you can trust.', hi: 'असली अनुभव, बड़ा पैमाना — भरोसेमंद देखभाल।' },
   stats: [
     { num: 20, suffix: '+', label: { en: 'Specialist Doctors', hi: 'विशेषज्ञ डॉक्टर' } },
@@ -79,7 +79,7 @@ export const CTA_BAND = {
 // ---------- Departments ke neeche wala dark banner ----------
 export const NOT_SURE = {
   title: { en: 'Not sure which condition this is?', hi: 'पता नहीं आपकी समस्या किस रोग में आती है?' },
-  text: { en: 'Talk to a WeClinic doctor. First consultation is free — medicines delivered pan-India.', hi: 'वीक्लिनिक डॉक्टर से बात करें। पहला परामर्श फ्री — दवा पूरे भारत में।' },
+  text: { en: 'Talk to a Jeewan Jyoti doctor. First consultation is free — medicines delivered pan-India.', hi: 'जीवन ज्योति डॉक्टर से बात करें। पहला परामर्श फ्री — दवा पूरे भारत में।' },
   dept: { en: 'Full departments page', hi: 'सभी विभाग देखें' },
   call: { en: 'Call', hi: 'कॉल करें' },
 }
@@ -87,7 +87,7 @@ export const NOT_SURE = {
 // ---------- "Built Around You" — 3 photo cards ----------
 // Photos: public/images/why/why-1.webp, why-2.webp, why-3.webp
 export const BUILT = {
-  pill: { en: 'Why WeClinic™ Ayurveda', hi: 'वीक्लिनिक™ आयुर्वेद क्यों' },
+  pill: { en: 'Why Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान क्यों' },
   title1: { en: 'A Trusted Ayurvedic Clinic, ', hi: 'भरोसेमंद आयुर्वेदिक क्लिनिक, ' },
   title2: { en: 'Built Around You', hi: 'आपके लिए बना' },
   sub: {
@@ -114,8 +114,8 @@ export const BUILT = {
       badge: { en: '98% Patient Satisfaction', hi: '98% मरीज़ संतुष्ट' },
       title: { en: 'Personalised Ayurvedic Care', hi: 'व्यक्तिगत आयुर्वेदिक देखभाल' },
       text: {
-        en: 'WeClinic™ brings quality Ayurvedic care for your whole family — spotless clinics, well-trained staff and fully transparent pricing.',
-        hi: 'वीक्लिनिक™ पूरे परिवार के लिए अच्छी आयुर्वेदिक देखभाल लाता है — साफ-सुथरे क्लिनिक, प्रशिक्षित स्टाफ और पारदर्शी कीमत।',
+        en: 'Jeewan Jyoti brings quality Ayurvedic care for your whole family — spotless clinics, well-trained staff and fully transparent pricing.',
+        hi: 'जीवन ज्योति पूरे परिवार के लिए अच्छी आयुर्वेदिक देखभाल लाता है — साफ-सुथरे क्लिनिक, प्रशिक्षित स्टाफ और पारदर्शी कीमत।',
       },
       points: [
         { en: 'Tech-enabled paperless clinics', hi: 'टेक आधारित पेपरलेस क्लिनिक' },
@@ -144,7 +144,7 @@ export const BUILT = {
 // Photos: public/images/awards/award-1.webp ... award-8.webp
 export const AWARDS = {
   eyebrow: { en: 'Recognition of excellence', hi: 'उत्कृष्टता का सम्मान' },
-  title: { en: 'WeClinic™ Awards & Recognitions', hi: 'वीक्लिनिक™ पुरस्कार और सम्मान' },
+  title: { en: 'Jeewan Jyoti Awards & Recognitions', hi: 'जीवन ज्योति पुरस्कार और सम्मान' },
   sub: { en: 'Recognised by eminent personalities, government dignitaries and healthcare leaders.', hi: 'प्रतिष्ठित हस्तियों, सरकारी गणमान्य व्यक्तियों और स्वास्थ्य क्षेत्र के अग्रणियों द्वारा सम्मानित।' },
   items: [
     { img: '/images/awards/award-1.webp', title: { en: 'Award By Kapil Dev', hi: 'कपिल देव द्वारा सम्मान' }, text: { en: 'Honoured for outstanding contribution to healthcare and teleconsultation.', hi: 'स्वास्थ्य सेवा और टेली-परामर्श में उत्कृष्ट योगदान के लिए सम्मानित।' } },
@@ -157,7 +157,7 @@ export const AWARDS = {
     { img: '/images/awards/award-8.webp', title: { en: 'Award By Ayush Minister', hi: 'आयुष मंत्री द्वारा सम्मान' }, text: { en: 'Celebrating excellence in holistic wellness.', hi: 'समग्र वेलनेस में उत्कृष्टता का सम्मान।' } },
   ],
   closingTitle: { en: 'Trusted Care. Proven Excellence.', hi: 'भरोसेमंद देखभाल। साबित उत्कृष्टता।' },
-  closingText: { en: 'WeClinic™ continues to be recognised for its commitment to patient well-being, innovation and holistic healing.', hi: 'वीक्लिनिक™ को मरीज़ों की भलाई, इनोवेशन और समग्र स्वास्थ्य के प्रति प्रतिबद्धता के लिए लगातार सम्मान मिल रहा है।' },
+  closingText: { en: 'Jeewan Jyoti continues to be recognised for its commitment to patient well-being, innovation and holistic healing.', hi: 'जीवन ज्योति को मरीज़ों की भलाई, इनोवेशन और समग्र स्वास्थ्य के प्रति प्रतिबद्धता के लिए लगातार सम्मान मिल रहा है।' },
 }
 
 // ---------- Visit us ----------
@@ -175,38 +175,34 @@ export const VISIT = {
 export const FAQ = {
   eyebrow: { en: 'FAQs', hi: 'सवाल-जवाब' },
   title: { en: 'Frequently Asked Questions', hi: 'अक्सर पूछे जाने वाले सवाल' },
-  sub: { en: 'Common questions about WeClinic™ Ayurveda (We Clinic).', hi: 'वीक्लिनिक™ आयुर्वेद (We Clinic) के बारे में आम सवाल।' },
+  sub: { en: 'Common questions about Jeewan Jyoti Ayurvedic Sansthan.', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान के बारे में आम सवाल।' },
   items: [
     {
-      q: { en: 'What is WeClinic?', hi: 'वीक्लिनिक क्या है?' },
-      a: { en: 'WeClinic™ Ayurveda offers Ayurvedic care for piles, arthritis, skin problems, gynaecological issues and other chronic conditions through in-clinic and online video consultation, with medicines delivered anywhere in India. WeClinic has cared for 8 Lakh+ patients, with 98% reporting satisfaction.', hi: 'वीक्लिनिक™ आयुर्वेद बवासीर, गठिया, त्वचा रोग, स्त्री रोग और अन्य पुरानी समस्याओं के लिए क्लिनिक और ऑनलाइन वीडियो परामर्श के ज़रिए आयुर्वेदिक देखभाल देता है, और दवा भारत में कहीं भी पहुंचाता है। अब तक 8 लाख+ मरीज़ों की देखभाल की गई है, जिनमें 98% संतुष्ट हैं।' },
+      q: { en: 'What is Jeewan Jyoti?', hi: 'जीवन ज्योति क्या है?' },
+      a: { en: 'Jeewan Jyoti Ayurvedic Sansthan offers Ayurvedic care for piles, arthritis, skin problems, gynaecological issues and other chronic conditions through in-clinic and online video consultation, with medicines delivered anywhere in India. Jeewan Jyoti has cared for 8 Lakh+ patients, with 98% reporting satisfaction.', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान बवासीर, गठिया, त्वचा रोग, स्त्री रोग और अन्य पुरानी समस्याओं के लिए क्लिनिक और ऑनलाइन वीडियो परामर्श के ज़रिए आयुर्वेदिक देखभाल देता है, और दवा भारत में कहीं भी पहुंचाता है। अब तक 8 लाख+ मरीज़ों की देखभाल की गई है, जिनमें 98% संतुष्ट हैं।' },
     },
     {
-      q: { en: 'Is "We Clinic" the same as "WeClinic"?', hi: 'क्या "We Clinic" और "WeClinic" एक ही हैं?' },
-      a: { en: 'Yes. Many people write our name as "We Clinic" — it is the same WeClinic™ with clinics in Kanpur & Noida.', hi: 'हां। बहुत लोग हमारा नाम "We Clinic" लिखते हैं — यह वही वीक्लिनिक™ है जिसके क्लिनिक कानपुर और नोएडा में हैं।' },
+      q: { en: 'Is Jeewan Jyoti genuine and safe?', hi: 'क्या जीवन ज्योति भरोसेमंद और सुरक्षित है?' },
+      a: { en: 'Jeewan Jyoti runs physical clinics in Kanpur and Noida with qualified doctors, and has 4.6★ from 6,133+ Google reviews. Your details are kept private.', hi: 'जीवन ज्योति के कानपुर और नोएडा में योग्य डॉक्टरों वाले क्लिनिक हैं, और 6,133+ गूगल रिव्यू में 4.6★ रेटिंग है। आपकी जानकारी गोपनीय रखी जाती है।' },
     },
     {
-      q: { en: 'Is WeClinic genuine and safe?', hi: 'क्या वीक्लिनिक भरोसेमंद और सुरक्षित है?' },
-      a: { en: 'WeClinic runs physical clinics in Kanpur and Noida with qualified doctors, and has 4.6★ from 6,133+ Google reviews. Your details are kept private.', hi: 'वीक्लिनिक के कानपुर और नोएडा में योग्य डॉक्टरों वाले क्लिनिक हैं, और 6,133+ गूगल रिव्यू में 4.6★ रेटिंग है। आपकी जानकारी गोपनीय रखी जाती है।' },
-    },
-    {
-      q: { en: 'Why do patients choose WeClinic?', hi: 'मरीज़ वीक्लिनिक क्यों चुनते हैं?' },
+      q: { en: 'Why do patients choose Jeewan Jyoti?', hi: 'मरीज़ जीवन ज्योति क्यों चुनते हैं?' },
       a: { en: 'Experienced doctors, a dedicated health manager for follow-ups, diet charts, free doorstep medicine delivery and both clinic & online consultation.', hi: 'अनुभवी डॉक्टर, फॉलो-अप के लिए समर्पित हेल्थ मैनेजर, डाइट चार्ट, फ्री होम डिलीवरी और क्लिनिक व ऑनलाइन दोनों तरह का परामर्श।' },
     },
     {
-      q: { en: 'What diseases does WeClinic treat?', hi: 'वीक्लिनिक किन रोगों का उपचार करता है?' },
+      q: { en: 'What diseases does Jeewan Jyoti treat?', hi: 'जीवन ज्योति किन रोगों का उपचार करता है?' },
       a: { en: 'Skin & hair, women’s health, piles & digestion, men’s health, joints & spine, kidney & urinary, allergy & chest, and migraine — see the full list on our Diseases page.', hi: 'त्वचा और बाल, महिला स्वास्थ्य, बवासीर और पाचन, पुरुष स्वास्थ्य, जोड़ और रीढ़, किडनी और मूत्र, एलर्जी और छाती, और माइग्रेन — पूरी सूची रोग पेज पर देखें।' },
     },
     {
-      q: { en: 'Does WeClinic offer online consultation across India?', hi: 'क्या वीक्लिनिक पूरे भारत में ऑनलाइन परामर्श देता है?' },
+      q: { en: 'Does Jeewan Jyoti offer online consultation across India?', hi: 'क्या जीवन ज्योति पूरे भारत में ऑनलाइन परामर्श देता है?' },
       a: { en: 'Yes. You can consult our doctors on a phone or video call from anywhere in India, and medicines are delivered to your home.', hi: 'हां। भारत में कहीं से भी फोन या वीडियो कॉल पर परामर्श लें, दवा घर पहुंचती है।' },
     },
     {
-      q: { en: 'How much does a consultation at WeClinic cost?', hi: 'वीक्लिनिक में परामर्श का खर्च कितना है?' },
+      q: { en: 'How much does a consultation at Jeewan Jyoti cost?', hi: 'जीवन ज्योति में परामर्श का खर्च कितना है?' },
       a: { en: 'Your first consultation is free. Treatment cost depends on your condition and plan — the doctor explains it clearly before you start.', hi: 'पहला परामर्श फ्री है। उपचार का खर्च आपकी समस्या और प्लान पर निर्भर करता है — डॉक्टर शुरू करने से पहले साफ बताते हैं।' },
     },
     {
-      q: { en: 'Where is WeClinic located?', hi: 'वीक्लिनिक कहां है?' },
+      q: { en: 'Where is Jeewan Jyoti located?', hi: 'जीवन ज्योति कहां है?' },
       a: { en: 'We have clinics in Kanpur and Noida. Our HQ is at 3/84, F Block, Panki, Kanpur, Uttar Pradesh 208020.', hi: 'हमारे क्लिनिक कानपुर और नोएडा में हैं। मुख्यालय: 3/84, एफ ब्लॉक, पनकी, कानपुर, उत्तर प्रदेश 208020।' },
     },
     {
@@ -222,15 +218,15 @@ export const FAQ = {
       a: { en: 'Yes. Our doctors and health managers speak Hindi and English.', hi: 'हां। हमारे डॉक्टर और हेल्थ मैनेजर हिंदी और अंग्रेज़ी दोनों बोलते हैं।' },
     },
     {
-      q: { en: 'Who are the doctors at WeClinic?', hi: 'वीक्लिनिक के डॉक्टर कौन हैं?' },
+      q: { en: 'Who are the doctors at Jeewan Jyoti?', hi: 'जीवन ज्योति के डॉक्टर कौन हैं?' },
       a: { en: 'A team of 20+ qualified, experienced doctors. You can see their profiles on the Our Doctors page.', hi: '20+ योग्य और अनुभवी डॉक्टरों की टीम। उनकी प्रोफ़ाइल "हमारे डॉक्टर" पेज पर देखें।' },
     },
     {
-      q: { en: 'Does WeClinic have a full-fledged hospital?', hi: 'क्या वीक्लिनिक का पूरा अस्पताल है?' },
-      a: { en: 'WeClinic runs clinics in Kanpur and Noida along with a teleconsultation centre. For any emergency, please visit your nearest hospital.', hi: 'वीक्लिनिक के कानपुर और नोएडा में क्लिनिक और एक टेली-परामर्श केंद्र है। किसी भी इमरजेंसी में नज़दीकी अस्पताल जाएं।' },
+      q: { en: 'Does Jeewan Jyoti have a full-fledged hospital?', hi: 'क्या जीवन ज्योति का पूरा अस्पताल है?' },
+      a: { en: 'Jeewan Jyoti runs clinics in Kanpur and Noida along with a teleconsultation centre. For any emergency, please visit your nearest hospital.', hi: 'जीवन ज्योति के कानपुर और नोएडा में क्लिनिक और एक टेली-परामर्श केंद्र है। किसी भी इमरजेंसी में नज़दीकी अस्पताल जाएं।' },
     },
     {
-      q: { en: "What are WeClinic's clinic timings?", hi: 'वीक्लिनिक का समय क्या है?' },
+      q: { en: "What are Jeewan Jyoti's clinic timings?", hi: 'जीवन ज्योति का समय क्या है?' },
       a: { en: 'Tuesday to Sunday, 10:00 AM – 9:00 PM. Monday closed.', hi: 'मंगलवार से रविवार, सुबह 10:00 – रात 9:00। सोमवार बंद।' },
     },
   ],

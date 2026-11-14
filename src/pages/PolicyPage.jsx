@@ -12,7 +12,7 @@ export default function PolicyPage({ name }) {
   const { t } = useLang()
   const [doc, setDoc] = useState(null)
   useEffect(() => { setDoc(null); LOADERS[name]().then((m) => setDoc(m.default)) }, [name])
-  useEffect(() => { if (doc) document.title = `${doc.title.en} | WeClinic Ayurveda` }, [doc])
+  useEffect(() => { if (doc) document.title = `${doc.title.en} | Jeewan Jyoti Ayurvedic Sansthan` }, [doc])
   if (!doc) return <div className="page-loading"><span className="spinner" /></div>
 
   // consecutive li -> ul

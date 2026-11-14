@@ -7,8 +7,8 @@ export default {
   "hi": "एसिडिटी / एसिड रिफ्लक्स"
  },
  "seoTitle": {
-  "en": "GERD & Acid Reflux Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "एसिडिटी / एसिड रिफ्लक्स का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "GERD & Acid Reflux Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "एसिडिटी / एसिड रिफ्लक्स का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -122,7 +122,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "GERD (Gastroesophageal Reflux Disease) is a chronic digestive disorder in which stomach acid repeatedly flows back into the food pipe (esophagus), irritating its lining. It happens when the lower esophageal sphincter - the ring of muscle that normally keeps stomach contents from moving upward - weakens or relaxes at the wrong time. GERD is different from occasional heartburn: it's generally diagnosed when acid reflux occurs more than twice a week, or when it starts to damage the esophageal lining. At WeClinic™ in Kanpur, Dr."
+     "en": "GERD (Gastroesophageal Reflux Disease) is a chronic digestive disorder in which stomach acid repeatedly flows back into the food pipe (esophagus), irritating its lining. It happens when the lower esophageal sphincter - the ring of muscle that normally keeps stomach contents from moving upward - weakens or relaxes at the wrong time. GERD is different from occasional heartburn: it's generally diagnosed when acid reflux occurs more than twice a week, or when it starts to damage the esophageal lining. At Jeewan Jyoti in Kanpur, Dr."
     }
    ],
    "id": "what-is-gerd",
@@ -184,7 +184,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The presentations we commonly see at WeClinic™ include -"
+    "en": "The presentations we commonly see at Jeewan Jyoti include -"
    }
   },
   {
@@ -680,15 +680,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised gerd / acid reflux treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से एसिडिटी / एसिड रिफ्लक्स का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised gerd / acid reflux treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से एसिडिटी / एसिड रिफ्लक्स का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

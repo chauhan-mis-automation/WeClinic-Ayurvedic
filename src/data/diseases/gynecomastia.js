@@ -7,8 +7,8 @@ export default {
   "hi": "गाइनेकोमेस्टिया"
  },
  "seoTitle": {
-  "en": "Gynecomastia Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "गाइनेकोमेस्टिया का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Gynecomastia Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "गाइनेकोमेस्टिया का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -114,7 +114,7 @@ export default {
     "en": "Safety note"
    },
    "v": {
-    "en": "Persistent, firm, fibrous or severe gynecomastia is best evaluated for surgery, which remains a well-established option WeClinic™ doctors will recommend honestly when needed."
+    "en": "Persistent, firm, fibrous or severe gynecomastia is best evaluated for surgery, which remains a well-established option Jeewan Jyoti doctors will recommend honestly when needed."
    }
   }
  ],
@@ -185,7 +185,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "It is important to distinguish true gynecomastia from simple chest fat, and to identify which type you have, since this determines the right course of action. The presentations we commonly see at WeClinic™ in Kanpur include -"
+    "en": "It is important to distinguish true gynecomastia from simple chest fat, and to identify which type you have, since this determines the right course of action. The presentations we commonly see at Jeewan Jyoti in Kanpur include -"
    }
   },
   {
@@ -637,15 +637,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised gynecomastia treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से गाइनेकोमेस्टिया का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised gynecomastia treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से गाइनेकोमेस्टिया का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

@@ -120,7 +120,7 @@ export const REVIEWS = [
 "ago": "1 month ago",
 "platform": "Google",
 "stars": 5,
-"text": "Very good WeClinic. Thank you so much to all of you.",
+"text": "Very good Jeewan Jyoti. Thank you so much to all of you.",
 "tag": "General"
 },
 {
@@ -262,12 +262,12 @@ export const VIDEOS = [
 "id": ""
 },
 {
-"title": "Cured Case of Arthritis by WeClinic™ Homeopathy",
+"title": "Cured Case of Arthritis by Jeewan Jyoti Homeopathy",
 "tag": "Arthritis",
 "id": ""
 },
 {
-"title": "Cured Case of Bone TB by WeClinic™ Homeopathy",
+"title": "Cured Case of Bone TB by Jeewan Jyoti Homeopathy",
 "tag": "Arthritis",
 "id": ""
 },

@@ -122,7 +122,7 @@ export function VisitUs() {
         </Reveal>
         <Reveal className="visit-map" variant="right">
           <iframe
-            title="WeClinic map"
+            title="Jeewan Jyoti map"
             src={`https://maps.google.com/maps?q=${q}&z=15&output=embed`}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"

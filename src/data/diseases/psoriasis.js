@@ -5,7 +5,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'psoriasis',
   name: b('Psoriasis', 'सोरायसिस'),
-  seoTitle: b('Psoriasis Ayurvedic Treatment | WeClinic Ayurveda', 'सोरायसिस का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Psoriasis Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'सोरायसिस का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
   closing: { title: b('Start Your Journey to Clearer Skin Today', 'आज ही साफ़ त्वचा की ओर पहला कदम उठाएं') },
 
   hero: {
@@ -50,7 +50,7 @@ export default {
       type: 'text', id: 'what-is', title: b('What Is Psoriasis?', 'सोरायसिस क्या है?'),
       paras: [
         b('Psoriasis is a chronic, immune-mediated skin disease in which the immune system speeds up the skin cell life cycle, causing cells to build up rapidly on the surface instead of shedding normally. This build-up forms raised, red patches covered with silvery-white scales that can itch, burn or crack. It\'s a long-term condition that tends to flare up and settle down in cycles, and while it isn\'t curable in the conventional sense, symptoms can be managed well with the right treatment.', 'सोरायसिस में इम्यून सिस्टम त्वचा की कोशिकाओं का चक्र तेज़ कर देता है, जिससे कोशिकाएं सामान्य रूप से झड़ने के बजाय सतह पर जमा हो जाती हैं। इससे चांदी जैसी सफ़ेद पपड़ी वाले उभरे, लाल चकत्ते बनते हैं जिनमें खुजली, जलन या दरार हो सकती है। यह लंबी बीमारी है जो बार-बार उभरती और शांत होती है; इसे सामान्य अर्थ में "ठीक" नहीं कहा जाता, पर सही उपचार से लक्षण अच्छी तरह संभाले जा सकते हैं।'),
-        b('Psoriasis shows up differently depending on where and how it affects the skin. The most common types we see at WeClinic™ are:', 'सोरायसिस इस पर अलग दिखता है कि वह त्वचा पर कहां और कैसे असर करता है। वीक्लिनिक™ में सबसे आम प्रकार:'),
+        b('Psoriasis shows up differently depending on where and how it affects the skin. The most common types we see at Jeewan Jyoti are:', 'सोरायसिस इस पर अलग दिखता है कि वह त्वचा पर कहां और कैसे असर करता है। जीवन ज्योति में सबसे आम प्रकार:'),
       ],
     },
     {
@@ -143,9 +143,9 @@ export default {
         b('Our doctors don\'t treat psoriasis as an isolated "skin problem". They take a detailed case history: which areas are affected, what makes the itching or scaling better or worse (heat, cold, stress, scratching), the nature of the eruption (dry, oozing, cracked), your digestion, diet, sleep and stress levels. Based on this, a personalised plan of medicine, diet and skincare is prescribed for your specific case.', 'हमारे डॉक्टर सोरायसिस को सिर्फ़ "त्वचा की समस्या" नहीं मानते। वे विस्तृत केस हिस्ट्री लेते हैं: कौन से हिस्से प्रभावित हैं, खुजली या पपड़ी किससे बढ़ती-घटती है (गर्मी, ठंड, तनाव, खुजलाना), चकत्ते कैसे हैं (सूखे, रिसते, फटे), और आपका पाचन, खान-पान, नींद और तनाव। इसके आधार पर आपके लिए दवा, डाइट और स्किनकेयर का व्यक्तिगत प्लान बनता है।'),
         b('Psoriasis is a long-term condition, so we set honest expectations and review your progress regularly. If you develop joint symptoms or a severe flare, our doctors will tell you plainly when you need additional medical care.', 'सोरायसिस लंबी बीमारी है, इसलिए हम सच्ची उम्मीदें रखते हैं और नियमित रूप से प्रगति देखते हैं। जोड़ों में लक्षण या गंभीर उभार होने पर हमारे डॉक्टर साफ़ बताएंगे कि कब अतिरिक्त चिकित्सा देखभाल ज़रूरी है।'),
       ],
-      note: b('Important: Please do not self-medicate. WeClinic™ doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — कोई भी उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
+      note: b('Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — कोई भी उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
     },
-    { type: 'cta', title: b('Get a personalised psoriasis treatment plan from WeClinic™\'s experienced doctors.', 'वीक्लिनिक™ के अनुभवी डॉक्टरों से अपना व्यक्तिगत सोरायसिस प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a personalised psoriasis treatment plan from Jeewan Jyoti\'s experienced doctors.', 'जीवन ज्योति के अनुभवी डॉक्टरों से अपना व्यक्तिगत सोरायसिस प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
     {
       type: 'list', id: 'complications', title: b('Possible Complications of Untreated Psoriasis', 'बिना उपचार के सोरायसिस की जटिलताएं'),
       intro: b('Untreated or poorly controlled psoriasis can lead to complications beyond the skin, because it is a whole-body inflammatory condition rather than a purely cosmetic one. Being aware of these risks is a reason to seek care early rather than wait -', 'बिना उपचार का सोरायसिस त्वचा से आगे भी जटिलताएं कर सकता है, क्योंकि यह पूरे शरीर की सूजन वाली बीमारी है, सिर्फ़ दिखावट की नहीं। इसलिए जल्दी देखभाल लेना बेहतर है -'),

@@ -1,17 +1,17 @@
-// WeClinic™ Media Mentions — weclinic.in se. Links asli news articles ke hain.
+// Jeewan Jyoti Media Mentions — weclinic.in se. Links asli news articles ke hain.
 const b = (en, hi) => ({ en, hi })
 
 export const MEDIA_HEAD = {
   eyebrow: b('In the news', 'मीडिया में'),
-  title: b('WeClinic™ Media Mentions', 'वीक्लिनिक™ मीडिया में'),
+  title: b('Jeewan Jyoti Media Mentions', 'जीवन ज्योति मीडिया में'),
   sub: b('Featured by leading business, health and news publications.', 'प्रमुख बिज़नेस, हेल्थ और न्यूज़ प्रकाशनों में चर्चा।'),
   read: b('Read More', 'और पढ़ें'),
 }
 
 export const MEDIA = [
-  { name: 'ET Edge', url: 'https://etedge-insights.com/trending/weclinic-homoeopathy-targets-%E2%82%B950-crore-revenue-in-fy-25-26-with-ncr-expansion-digital-push/?amp=1', text: b('WeClinic™ targets ₹50 Crore revenue growth in FY 2025-26 with NCR expansion and a strong digital healthcare strategy.', 'वीक्लिनिक™ का FY 2025-26 में NCR विस्तार और डिजिटल हेल्थकेयर रणनीति के साथ ₹50 करोड़ राजस्व का लक्ष्य।') },
-  { name: 'SugerMint', url: 'https://sugermint.com/weclinic-homeopathy/', text: b('The inspiring startup journey of WeClinic™ and its mission to modernise healthcare with technology.', 'वीक्लिनिक™ की प्रेरक स्टार्टअप यात्रा और टेक्नोलॉजी से स्वास्थ्य सेवा को आधुनिक बनाने का मिशन।') },
-  { name: 'BW People', url: 'https://www.bwpeople.in/article/weclinic-to-expand-workforce-by-100-in-2025-to-strengthen-operations-544678', text: b('WeClinic™ plans 100% workforce expansion in 2025 to strengthen operations and enhance patient care services.', 'वीक्लिनिक™ की 2025 में संचालन और मरीज़ सेवा मज़बूत करने के लिए टीम दोगुनी करने की योजना।') },
+  { name: 'ET Edge', url: 'https://etedge-insights.com/trending/weclinic-homoeopathy-targets-%E2%82%B950-crore-revenue-in-fy-25-26-with-ncr-expansion-digital-push/?amp=1', text: b('Jeewan Jyoti targets ₹50 Crore revenue growth in FY 2025-26 with NCR expansion and a strong digital healthcare strategy.', 'जीवन ज्योति का FY 2025-26 में NCR विस्तार और डिजिटल हेल्थकेयर रणनीति के साथ ₹50 करोड़ राजस्व का लक्ष्य।') },
+  { name: 'SugerMint', url: 'https://sugermint.com/weclinic-homeopathy/', text: b('The inspiring startup journey of Jeewan Jyoti and its mission to modernise healthcare with technology.', 'जीवन ज्योति की प्रेरक स्टार्टअप यात्रा और टेक्नोलॉजी से स्वास्थ्य सेवा को आधुनिक बनाने का मिशन।') },
+  { name: 'BW People', url: 'https://www.bwpeople.in/article/weclinic-to-expand-workforce-by-100-in-2025-to-strengthen-operations-544678', text: b('Jeewan Jyoti plans 100% workforce expansion in 2025 to strengthen operations and enhance patient care services.', 'जीवन ज्योति की 2025 में संचालन और मरीज़ सेवा मज़बूत करने के लिए टीम दोगुनी करने की योजना।') },
   { name: 'BW Healthcare', url: 'https://www.bwhealthcareworld.com/article/the-homeopathy-angle-of-trumps-tariff-decision-what-the-world-forgot-to-notice-553901', text: b('Expert commentary on how international trade decisions may impact healthcare systems.', 'अंतरराष्ट्रीय व्यापार फ़ैसलों का स्वास्थ्य व्यवस्था पर असर — विशेषज्ञ टिप्पणी।') },
   { name: 'Only My Health', url: 'https://www.onlymyhealth.com/debunking-myths-around-homeopathy-12977826119', text: b('Expert discussion debunking common health myths and spreading awareness about safe healthcare choices.', 'स्वास्थ्य से जुड़े आम मिथकों पर विशेषज्ञ चर्चा और सुरक्षित विकल्पों के प्रति जागरूकता।') },
   { name: 'The HealthSite', url: 'https://www.thehealthsite.com/hindi/author/drdeekshakatiyar/', text: b('Health and wellness articles by Dr Deeksha Katiyar covering lifestyle, nutrition, and preventive healthcare.', 'डॉ. दीक्षा कटियार के जीवनशैली, पोषण और बचाव से जुड़े स्वास्थ्य लेख।') },

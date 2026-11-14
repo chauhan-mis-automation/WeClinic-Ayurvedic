@@ -7,8 +7,8 @@ export default {
   "hi": "अनियमित पीरियड्स"
  },
  "seoTitle": {
-  "en": "Irregular Periods Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "अनियमित पीरियड्स का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Irregular Periods Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "अनियमित पीरियड्स का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -176,7 +176,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The most common patterns we see at WeClinic™ are:"
+    "en": "The most common patterns we see at Jeewan Jyoti are:"
    }
   },
   {
@@ -503,7 +503,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "Several everyday situations commonly bring patients to WeClinic™ in Kanpur asking whether their irregularity is \"normal\" - here is what our doctors, including Dr. Laxmi, typically explain -"
+    "en": "Several everyday situations commonly bring patients to Jeewan Jyoti in Kanpur asking whether their irregularity is \"normal\" - here is what our doctors, including Dr. Laxmi, typically explain -"
    },
    "id": "irregular-periods-special-situations-wor",
    "title": {
@@ -617,15 +617,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised irregular periods treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से अनियमित पीरियड्स का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised irregular periods treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से अनियमित पीरियड्स का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

@@ -7,8 +7,8 @@ export default {
   "hi": "मस्से"
  },
  "seoTitle": {
-  "en": "Warts Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "मस्से का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Warts Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "मस्से का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -111,7 +111,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Warts are small, benign skin growths caused by infection with the human papillomavirus (HPV). The virus triggers extra, rapid growth of cells in the outer layer of skin, forming a raised, textured bump that can appear anywhere on the body but is most common on the hands, fingers and feet. Warts are non-cancerous and usually harmless, but they can be unsightly, occasionally uncomfortable, and are mildly contagious through skin-to-skin contact or contact with contaminated surfaces. At WeClinic™ in Kanpur, Dr."
+     "en": "Warts are small, benign skin growths caused by infection with the human papillomavirus (HPV). The virus triggers extra, rapid growth of cells in the outer layer of skin, forming a raised, textured bump that can appear anywhere on the body but is most common on the hands, fingers and feet. Warts are non-cancerous and usually harmless, but they can be unsightly, occasionally uncomfortable, and are mildly contagious through skin-to-skin contact or contact with contaminated surfaces. At Jeewan Jyoti in Kanpur, Dr."
     }
    ],
    "id": "what-are-warts",
@@ -173,7 +173,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "There are several types of warts, each caused by a different HPV strain and appearing in a distinct pattern. The types we most commonly see and treat at WeClinic™ are:"
+    "en": "There are several types of warts, each caused by a different HPV strain and appearing in a distinct pattern. The types we most commonly see and treat at Jeewan Jyoti are:"
    }
   },
   {
@@ -556,8 +556,8 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
@@ -601,7 +601,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Because these growths can look alike, it is safest to have any new or changing skin lesion examined rather than treated blindly at home. Our doctors at WeClinic™ in Kanpur can confirm whether a growth is a wart before starting treatment."
+     "en": "Because these growths can look alike, it is safest to have any new or changing skin lesion examined rather than treated blindly at home. Our doctors at Jeewan Jyoti in Kanpur can confirm whether a growth is a wart before starting treatment."
     }
    ]
   },
@@ -647,8 +647,8 @@ export default {
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised warts treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से मस्से का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised warts treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से मस्से का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

@@ -940,3 +940,43 @@ a.lp-treat-card:hover, .lp-treat-card:hover { transform: translateY(-5px); box-s
 .rv-videos .body { color: #d6e9de; margin: 10px 0 20px; }
 @media (max-width: 1024px) { .rv-hero { grid-template-columns: minmax(0,1fr); } .rv-grid { columns: 2; } }
 @media (max-width: 768px) { .rv-grid { columns: 1; } .rv-platforms { grid-template-columns: 1fr; } .rv-score > b { font-size: 46px; } }
+
+/* ================= Jeewan Jyoti brand ================= */
+.logo-mark { width: 54px; height: 54px; flex: none; display: grid; place-items: center; }
+.logo-mark img { width: 54px; height: auto; display: block; transition: transform .5s; }
+.logo:hover .logo-mark img { transform: rotate(-6deg) scale(1.05); }
+.logo-text b { color: #166534; letter-spacing: -.01em; }
+.logo-text small { color: #b45309; letter-spacing: .12em; font-size: 11.5px; }
+.logo-light .logo-mark { background: #fff; border-radius: 50%; width: 62px; height: 62px; }
+.logo-light .logo-mark img { width: 52px; }
+.logo-light .logo-text b { color: #fff; }
+.logo-light .logo-text small { color: #fcd34d; }
+.fc1 { display: flex; align-items: center; gap: 10px; }
+.fc-logo { width: 46px; height: auto; }
+.fc1 span { font-family: var(--f-head); font-weight: 700; color: #166534; font-size: 15px; max-width: 140px; line-height: 1.2; }
+.why-icon { font-size: 40px !important; line-height: 1.2 !important; margin-bottom: 6px; }
+.why-stat span { font-family: var(--f-head); font-weight: 600; font-size: 18px; color: #fff; }
+.hero-stat b { font-size: 30px; }
+.visit-logo { display: grid; place-items: center; background: radial-gradient(circle, #fff 55%, #fff7ec); border-radius: var(--r-lg); padding: 30px; box-shadow: var(--shadow); }
+.visit-logo img { width: min(340px, 80%); height: auto; animation: float 7s ease-in-out infinite; }
+.about-logo { display: grid; place-items: center; }
+.about-logo img { width: min(380px, 85%); height: auto; filter: drop-shadow(0 20px 40px rgba(21,128,61,.18)); animation: float 7s ease-in-out infinite; }
+@media (max-width: 768px) {
+  .logo-mark, .logo-mark img { width: 46px; }
+  .logo-mark { height: 46px; }
+  .logo-text b { font-size: 18px; }
+  .logo-text small { font-size: 10px; }
+  .hero-stat b { font-size: 22px; }
+  .why-icon { font-size: 32px !important; }
+  .why-stat span { font-size: 15px; }
+}
+
+/* Wide logo (v2) */
+:root { --head-h: 96px; }
+.logo-img { height: 80px; width: auto; display: block; transition: transform .4s; }
+.logo:hover .logo-img { transform: scale(1.03); }
+.logo-light { background: #fff; border-radius: 18px; padding: 8px 14px; display: inline-flex; }
+.logo-light .logo-img { height: 84px; }
+.fc-logo { width: 70px; }
+@media (max-width: 1024px) { :root { --head-h: 76px; } .logo-img { height: 60px; } }
+@media (max-width: 768px) { .logo-img { height: 54px; } .logo-light .logo-img { height: 70px; } }

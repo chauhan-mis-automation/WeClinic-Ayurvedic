@@ -1,4 +1,4 @@
-// weclinic.in se — brand naam 'WeClinic™ Ayurveda' kiya gaya. Legal text: client/lawyer se confirm karwa lein.
+// weclinic.in se — brand naam 'Jeewan Jyoti Ayurvedic Sansthan' kiya gaya. Legal text: client/lawyer se confirm karwa lein.
 export default {
 "title": {
 "en": "Privacy Policy",
@@ -6,10 +6,10 @@ export default {
 },
 "blocks": [
 {
-"p": "We value your trust. In order to honour that trust, WeClinic™ Ayurveda adheres to ethical standards in gathering, using, and safeguarding any information you provide."
+"p": "We value your trust. In order to honour that trust, Jeewan Jyoti Ayurvedic Sansthan adheres to ethical standards in gathering, using, and safeguarding any information you provide."
 },
 {
-"p": "This privacy policy governs your use of the application ‘WeClinic™ Ayurveda’ ( “Application”), www.weclinic.in ( “Website”) and the other associated applications, products, websites and services managed by the Company."
+"p": "This privacy policy governs your use of the application ‘Jeewan Jyoti Ayurvedic Sansthan’ ( “Application”), www.weclinic.in ( “Website”) and the other associated applications, products, websites and services managed by the Company."
 },
 {
 "p": "Please read this privacy policy (“ Policy”) carefully before using the Application, Website, our services and products, along with the Terms of Use (“ ToU”) provided on the Application and the Website. Your use of the Website, Application, or services in connection with the Application, Website or products (“ Services”), or registrations with us through any modes or other storage/transmitting device shall signify your acceptance of this Policy and your agreement to be legally bound by the same."
@@ -51,7 +51,7 @@ export default {
 "p": "We may use the individual data and behaviour patterns combined with personal information to provide you with personalized content, and better your learning objectives. Third parties provide certain services which we may use to analyse the data and information to personalize, drive insights and help us better your experience or reach out to you with more value added applications, products, information and services. However, these third party companies do not have any independent right to share this information. We do not sell, trade or rent your Information to any third party unless, we have been expressly authorized by you either in writing or electronically to do so. We may at times provide aggregate statistics about our customers, traffic patterns, and related site information to reputable third parties, however this information when disclosed will be in an aggregate form and does not contain any of your Personally Identifiable Information."
 },
 {
-"p": "WeClinic™ Ayurveda will occasionally send email notices or contact you to communicate about our Services, products and benefits, as they are considered an essential part of the Services/products you have chosen."
+"p": "Jeewan Jyoti Ayurvedic Sansthan will occasionally send email notices or contact you to communicate about our Services, products and benefits, as they are considered an essential part of the Services/products you have chosen."
 },
 {
 "p": "We may disclose Information:"
@@ -69,7 +69,7 @@ export default {
 "li": "with our trusted service providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this Policy;"
 },
 {
-"li": "to protect against imminent harm to the rights, property or safety of the Application/Website/ WeClinic Mediperfect LLP or its users or the public as required or permitted by law;"
+"li": "to protect against imminent harm to the rights, property or safety of the Application/Website/ Jeewan Jyoti Mediperfect LLP or its users or the public as required or permitted by law;"
 },
 {
 "li": "with third party service providers in order to personalize the Application/Website/Services/products for a better user experience and to perform behavioural analysis;"

@@ -26,8 +26,13 @@ function Online() {
 }
 
 export default function PilesLanding() {
-  const { t } = useLang()
-  useEffect(() => { document.title = 'Piles, Fistula & Fissure Ayurvedic Treatment | WeClinic Ayurveda' }, [])
+  const { t, setLang } = useLang()
+  useEffect(() => { document.title = 'Piles, Fistula & Fissure Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan' }, [])
+  // Ads landing page Hindi mein khule (URL mein ?lang=en ho to English)
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search).get('lang')
+    setLang(q === 'en' ? 'en' : 'hi')
+  }, [setLang])
   const H = LP.hero, O = LP.offer
 
   return (
@@ -55,7 +60,7 @@ export default function PilesLanding() {
       <section className="section">
         <div className="container welcome-grid">
           <Reveal className="welcome-media" variant="left">
-            <div className="photo-frame"><SmartImg src={O.image} alt="WeClinic clinic, Panki, Kanpur" emoji="🏥" /></div>
+            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic, Panki, Kanpur" emoji="🏥" /></div>
           </Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(O.kicker)}</Reveal>
@@ -106,7 +111,7 @@ export default function PilesLanding() {
       {/* 4. Plan */}
       <section className="section dz-plan">
         <div className="container welcome-grid">
-          <Reveal className="photo-frame plan-photo" variant="left"><SmartImg src={LP.plan.image} alt="WeClinic doctors team" emoji="👩‍⚕️" /></Reveal>
+          <Reveal className="photo-frame plan-photo" variant="left"><SmartImg src={LP.plan.image} alt="Jeewan Jyoti doctors team" emoji="👩‍⚕️" /></Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(LP.plan.title)}</Reveal>
             <Reveal as="h2" className="h2">{t(LP.plan.sub)}</Reveal>

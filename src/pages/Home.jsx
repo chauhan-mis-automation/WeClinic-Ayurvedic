@@ -68,11 +68,11 @@ function TrustStrip() {
 
 function ClinicPhoto() {
   const [ok, setOk] = useState(true)
-  if (ok) return <img src="/images/clinic.webp" alt="WeClinic clinic building, Panki, Kanpur" onError={() => setOk(false)} loading="lazy" />
+  if (ok) return <img src="/images/clinic.webp" alt="Jeewan Jyoti clinic building, Panki, Kanpur" onError={() => setOk(false)} loading="lazy" />
   return (
     <div className="clinic-fallback">
       <span className="cf-emoji">🏥</span>
-      <b>WeClinic™ Ayurveda</b>
+      <b>Jeewan Jyoti Ayurvedic Sansthan</b>
       <small>3/84 F Block, Panki, Kanpur</small>
     </div>
   )

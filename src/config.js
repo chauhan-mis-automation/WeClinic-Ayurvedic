@@ -1,7 +1,9 @@
 // ====== Site-wide settings (yahan badlo, poori site mein update ho jayega) ======
 export const SITE = {
-  brand: { en: 'WeClinic Ayurveda', hi: 'वीक्लिनिक आयुर्वेद' },
-  brandTM: { en: 'WeClinic™ Ayurveda', hi: 'वीक्लिनिक™ आयुर्वेद' },
+  brand: { en: 'Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान' },
+  brandShort: { en: 'Jeewan Jyoti', hi: 'जीवन ज्योति' },
+  tagline: { en: 'Healthy life, our commitment', hi: 'स्वस्थ जीवन, हमारा संकल्प' },
+  brandTM: { en: 'Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान' },
   phone: '+917905136461',          // Call button ka number
   phoneDisplay: '+91 79051 36461',
   phoneOffice: '+91 93363 25590',

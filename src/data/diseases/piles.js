@@ -5,7 +5,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'piles',
   name: b('Piles', 'बवासीर'),
-  seoTitle: b('Piles (Haemorrhoids) Ayurvedic Treatment | WeClinic Ayurveda', 'बवासीर (पाइल्स) का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Piles (Haemorrhoids) Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'बवासीर (पाइल्स) का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
   closing: { title: b('Start Your Piles Care Today', 'बवासीर से राहत के लिए आज ही शुरुआत करें') },
 
   hero: {
@@ -49,7 +49,7 @@ export default {
       type: 'text', id: 'what-is', title: b('What Are Piles?', 'बवासीर (पाइल्स) क्या है?'),
       paras: [
         b('The anus and lower rectum contain a network of blood vessels that normally help control stools. When chronic constipation, repeated straining or pressure on the abdomen keeps these veins under strain, they swell into clusters or lumps (piles / haemorrhoids).', 'मलद्वार और मलाशय के निचले हिस्से में रक्त वाहिकाओं का एक जाल होता है जो सामान्य रूप से मल को रोकने में मदद करता है। जब पुरानी कब्ज़, बार-बार ज़ोर लगाने या पेट पर दबाव से इन नसों पर लगातार दबाव पड़ता है, तो ये फूलकर गुच्छे या मस्से बना लेती हैं। यही बवासीर है।'),
-        b('Internal piles sit inside the anus — they are usually painless but cause bright red bleeding with stools. External piles lie under the skin outside the anus and cause more pain, swelling and itching; if a clot forms (thrombosed pile) the pain can be severe. Around 4 in 10 adults in India face piles at some point, but many delay treatment out of embarrassment and the problem grows. At WeClinic™, every consultation is completely confidential.', 'भीतरी बवासीर मलद्वार के अंदर होती है — इसमें प्रायः दर्द नहीं होता पर शौच के साथ चमकीला लाल खून आता है। बाहरी बवासीर मलद्वार के बाहर त्वचा के नीचे होती है — इसमें दर्द, सूजन और खुजली ज़्यादा होती है, और थक्का जमने पर असहनीय दर्द हो सकता है। भारत में लगभग हर 10 में से 4 वयस्क कभी न कभी इससे गुज़रते हैं, पर शर्म के कारण इलाज में देरी करते हैं और समस्या बढ़ जाती है। वीक्लिनिक™ में हर परामर्श पूरी तरह गोपनीय है।'),
+        b('Internal piles sit inside the anus — they are usually painless but cause bright red bleeding with stools. External piles lie under the skin outside the anus and cause more pain, swelling and itching; if a clot forms (thrombosed pile) the pain can be severe. Around 4 in 10 adults in India face piles at some point, but many delay treatment out of embarrassment and the problem grows. At Jeewan Jyoti, every consultation is completely confidential.', 'भीतरी बवासीर मलद्वार के अंदर होती है — इसमें प्रायः दर्द नहीं होता पर शौच के साथ चमकीला लाल खून आता है। बाहरी बवासीर मलद्वार के बाहर त्वचा के नीचे होती है — इसमें दर्द, सूजन और खुजली ज़्यादा होती है, और थक्का जमने पर असहनीय दर्द हो सकता है। भारत में लगभग हर 10 में से 4 वयस्क कभी न कभी इससे गुज़रते हैं, पर शर्म के कारण इलाज में देरी करते हैं और समस्या बढ़ जाती है। जीवन ज्योति में हर परामर्श पूरी तरह गोपनीय है।'),
       ],
     },
     { type: 'cta', title: b('Troubled by piles, lumps or bleeding during stools?', 'क्या आप बवासीर, मस्सों या शौच में खून से परेशान हैं?'), button: b('Call Now - Free Consultation', 'अभी कॉल करें - मुफ़्त परामर्श') },
@@ -129,10 +129,10 @@ export default {
         b('Our doctors see piles not just as a local problem but as linked to digestion and the constipation tendency. They take a detailed, confidential case history — how much and how you bleed, pain, whether lumps come out, your constipation or diarrhoea pattern, gas, appetite, sitting work and pregnancy — and build a personalised plan of medicine, diet and habits.', 'हमारे डॉक्टर बवासीर को सिर्फ़ मलद्वार की समस्या नहीं, बल्कि पाचन और कब्ज़ की प्रवृत्ति से जुड़ा मानते हैं। वे विस्तृत, गोपनीय केस-हिस्ट्री लेते हैं — खून कितना और कैसे आता है, दर्द, मस्से बाहर आते हैं या नहीं, कब्ज़ या दस्त का पैटर्न, गैस, भूख, बैठने का काम, गर्भावस्था — और दवा, डाइट व आदतों का व्यक्तिगत प्लान बनाते हैं।'),
         b('Grade 4 piles, complex fistula or a large abscess may need a surgeon — our doctors will tell you honestly, and can continue diet and constipation care afterwards to help prevent recurrence.', 'ग्रेड 4 बवासीर, जटिल भगंदर या बड़ी पस वाली गांठ में सर्जन की ज़रूरत हो सकती है — हमारे डॉक्टर ईमानदारी से बताएंगे, और बाद में दोबारा न हो इसके लिए डाइट व कब्ज़ की देखभाल जारी रख सकते हैं।'),
       ],
-      note: b('Important: Please do not self-medicate. WeClinic™ doctors decide medicine only after reviewing your symptoms and grade.', 'ज़रूरी: खुद से कोई दवा न लें। वीक्लिनिक™ के डॉक्टर आपके लक्षणों और ग्रेड के आधार पर ही दवा तय करते हैं।'),
+      note: b('Important: Please do not self-medicate. Jeewan Jyoti doctors decide medicine only after reviewing your symptoms and grade.', 'ज़रूरी: खुद से कोई दवा न लें। जीवन ज्योति के डॉक्टर आपके लक्षणों और ग्रेड के आधार पर ही दवा तय करते हैं।'),
     },
     {
-      type: 'cards', id: 'benefits', icon: 'check', title: b('What You Get at WeClinic™', 'वीक्लिनिक™ में आपको क्या मिलता है'),
+      type: 'cards', id: 'benefits', icon: 'check', title: b('What You Get at Jeewan Jyoti', 'जीवन ज्योति में आपको क्या मिलता है'),
       items: [
         { t: b('Care for piles, fissure and fistula', 'बवासीर, फिशर व भगंदर तीनों की देखभाल') },
         { t: b('No time off work needed for consultation', 'परामर्श के लिए छुट्टी की ज़रूरत नहीं') },
@@ -141,7 +141,7 @@ export default {
         { t: b('Diet chart and follow-up included', 'डाइट चार्ट व फॉलो-अप साथ में') },
       ],
     },
-    { type: 'cta', title: b('Get a free, confidential piles consultation with WeClinic™ doctors today.', 'वीक्लिनिक™ के डॉक्टरों से आज ही बवासीर पर मुफ़्त और गोपनीय परामर्श लें।'), button: b('Book Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a free, confidential piles consultation with Jeewan Jyoti doctors today.', 'जीवन ज्योति के डॉक्टरों से आज ही बवासीर पर मुफ़्त और गोपनीय परामर्श लें।'), button: b('Book Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
   ],
 
   faqs: [
@@ -150,7 +150,7 @@ export default {
     { q: b('Is blood in stools always piles?', 'शौच में खून आ रहा है, क्या यह हमेशा बवासीर है?'), a: b('No. Bright red blood dripping after stools is usually piles or fissure. Dark or black blood, blood mixed with stool, weight loss, ongoing abdominal pain or changed bowel habits need tests for other causes, including bowel cancer, especially after 45.', 'नहीं। शौच के बाद टपकने वाला चमकीला लाल खून प्रायः बवासीर या फिशर का होता है। गहरा या काला खून, मल में मिला खून, वज़न घटना, लगातार पेट दर्द या मल की आदत बदलना हो तो आंत के कैंसर सहित दूसरे कारणों की जांच ज़रूरी है, खासकर 45 के बाद।') },
     { q: b('Is treatment safe during pregnancy?', 'क्या गर्भावस्था में बवासीर का उपचार सुरक्षित है?'), a: b('Piles are very common in pregnancy and often improve after delivery. Never start any medicine during pregnancy without your doctor\'s advice.', 'गर्भावस्था में बवासीर बहुत आम है और प्रसव के बाद अक्सर सुधरती है। गर्भावस्था में डॉक्टर की सलाह के बिना कोई दवा शुरू न करें।') },
     { q: b('What should I eat and avoid in piles?', 'बवासीर में क्या खाएं और क्या नहीं?'), a: b('Eat greens, papaya, guava, pear, oats, dalia, whole pulses, curd, isabgol and plenty of water. Avoid chilli, fried food, maida, fast food, gas-forming foods, excess tea-coffee, alcohol and smoking. Keeping stools soft matters most.', 'खाएं: हरी सब्ज़ियां, पपीता, अमरूद, नाशपाती, ओट्स, दलिया, छिलके वाली दालें, दही, ईसबगोल और खूब पानी। न खाएं: मिर्च-मसाला, तला-भुना, मैदा, फास्ट फूड, गैस बढ़ाने वाली चीज़ें, ज़्यादा चाय-कॉफी, शराब और धूम्रपान। सबसे ज़रूरी है मल को नरम रखना।') },
-    { q: b('What is the process and cost at WeClinic™?', 'वीक्लिनिक™ में उपचार की प्रक्रिया और खर्च क्या है?'), a: b('Call us and a doctor takes your history confidentially. Medicine is couriered across India in plain packing with no mention of the condition. Treatment starts at ₹1599 for 30 days of medicine; the total depends on grade and duration.', 'हमें कॉल करें, डॉक्टर पूरी गोपनीयता से केस-हिस्ट्री लेंगे। दवा पूरे भारत में सादी पैकिंग में भेजी जाती है, जिस पर बीमारी का कोई उल्लेख नहीं होता। उपचार ₹1599 में 30 दिन की दवा से शुरू होता है; कुल खर्च ग्रेड और अवधि पर निर्भर है।') },
+    { q: b('What is the process and cost at Jeewan Jyoti?', 'जीवन ज्योति में उपचार की प्रक्रिया और खर्च क्या है?'), a: b('Call us and a doctor takes your history confidentially. Medicine is couriered across India in plain packing with no mention of the condition. Treatment starts at ₹1599 for 30 days of medicine; the total depends on grade and duration.', 'हमें कॉल करें, डॉक्टर पूरी गोपनीयता से केस-हिस्ट्री लेंगे। दवा पूरे भारत में सादी पैकिंग में भेजी जाती है, जिस पर बीमारी का कोई उल्लेख नहीं होता। उपचार ₹1599 में 30 दिन की दवा से शुरू होता है; कुल खर्च ग्रेड और अवधि पर निर्भर है।') },
     { q: b('Can fistula be treated without surgery?', 'क्या भगंदर (फिस्टुला) बिना ऑपरेशन ठीक हो सकता है?'), a: b('Fistula is more complex than piles because a tunnel forms. Simple fistulas may be managed with medicine and care, but complex, branched or high fistulas often need surgery. Our doctors will assess and tell you honestly.', 'भगंदर बवासीर से जटिल है क्योंकि इसमें सुरंग बन जाती है। सरल भगंदर में दवा और देखभाल से मदद मिल सकती है, पर जटिल, कई शाखाओं वाले या ऊंचे भगंदर में अक्सर सर्जरी की ज़रूरत होती है। हमारे डॉक्टर जांचकर ईमानदारी से बताएंगे।') },
   ],
 

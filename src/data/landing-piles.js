@@ -62,7 +62,7 @@ export const LP = {
     image: '/images/piles/doctors-team.webp',
   },
   why: {
-    title: b('Why choose WeClinic™ for treatment?', 'उपचार के लिए वीक्लिनिक क्यों चुनें?'),
+    title: b('Why choose Jeewan Jyoti for treatment?', 'उपचार के लिए जीवन ज्योति क्यों चुनें?'),
     items: [
       { icon: '🛡️', name: b('Completely Confidential', 'पूर्ण रूप से गुप्त'), text: b('We never share your personal information with any third party.', 'आपकी निजी जानकारी कभी किसी को नहीं दी जाती।') },
       { icon: '📦', name: b('Home Delivery', 'घर तक डिलीवरी'), text: b('Medicines delivered in a discreet, secure box.', 'दवा सादे, सुरक्षित पैकेट में घर तक।') },
@@ -73,9 +73,9 @@ export const LP = {
   kits: {
     image: '/images/piles/treatment-kit.webp',
     items: [
-      { title: b('WeClinic™ Piles Treatment Kit', 'वीक्लिनिक™ बवासीर उपचार किट'), name: b('piles', 'बवासीर') },
-      { title: b('WeClinic™ Fissure Treatment Kit', 'वीक्लिनिक™ फिशर उपचार किट'), name: b('fissure', 'फिशर') },
-      { title: b('WeClinic™ Fistula Treatment Kit', 'वीक्लिनिक™ भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
+      { title: b('Jeewan Jyoti Piles Treatment Kit', 'जीवन ज्योति बवासीर उपचार किट'), name: b('piles', 'बवासीर') },
+      { title: b('Jeewan Jyoti Fissure Treatment Kit', 'जीवन ज्योति फिशर उपचार किट'), name: b('fissure', 'फिशर') },
+      { title: b('Jeewan Jyoti Fistula Treatment Kit', 'जीवन ज्योति भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
     ],
     text: b(
       'Care for {name} usually needs a course of about 3 to 4 months; the duration may be shorter or longer depending on severity. Taking the medicines regularly and following the diet chart and routine we give helps you see results sooner.',

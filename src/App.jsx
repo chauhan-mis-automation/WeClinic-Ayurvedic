@@ -36,6 +36,7 @@ export default function App() {
               <Route path="contact" element={<Contact />} />
               <Route path="media" element={<MediaPage />} />
               <Route path="piles-fistula-fissure" element={<PilesLanding />} />
+              <Route path="piles-fistula-fissure-new" element={<PilesLanding />} />
               <Route path="reviews" element={<Reviews />} />
               <Route path="terms" element={<PolicyPage key="terms" name="terms" />} />
               <Route path="privacy-policy" element={<PolicyPage key="privacy" name="privacy" />} />

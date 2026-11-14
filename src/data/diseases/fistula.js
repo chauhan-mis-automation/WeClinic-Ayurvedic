@@ -7,8 +7,8 @@ export default {
   "hi": "भगन्दर"
  },
  "seoTitle": {
-  "en": "Fistula Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "भगन्दर का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Fistula Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "भगन्दर का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -828,15 +828,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised fistula treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से भगन्दर का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised fistula treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से भगन्दर का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",
@@ -872,7 +872,7 @@ export default {
   },
   {
    "q": {
-    "en": "How much does fistula treatment cost at WeClinic?"
+    "en": "How much does fistula treatment cost at Jeewan Jyoti?"
    },
    "a": {
     "en": "Medicine courses start at ₹1599, with the final plan depending on whether yours is a first episode, post-operative recovery, or a recurrent complex fistula. The first consultation is free, online or in-clinic, and home delivery of medicines across India is free and confidential."

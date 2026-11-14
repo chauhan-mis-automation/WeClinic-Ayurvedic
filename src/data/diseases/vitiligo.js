@@ -5,7 +5,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'vitiligo',
   name: b('Vitiligo', 'सफ़ेद दाग'),
-  seoTitle: b('Vitiligo (Leucoderma) Ayurvedic Treatment | WeClinic Ayurveda', 'सफ़ेद दाग (ल्यूकोडर्मा) का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Vitiligo (Leucoderma) Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'सफ़ेद दाग (ल्यूकोडर्मा) का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
   closing: { title: b('Start Your Journey to Healthier, More Even Skin Today', 'आज ही स्वस्थ, एक समान त्वचा की ओर पहला कदम उठाएं') },
 
   hero: {
@@ -159,7 +159,7 @@ export default {
       ],
       note: b('Important: No system of medicine can guarantee complete repigmentation in every case. Our treatment aims to slow progression and support the skin\'s natural repigmentation process over a sustained course, and outcomes vary depending on the type, duration and extent of your vitiligo. Please do not self-medicate — book your free consultation before starting any treatment.', 'ज़रूरी: कोई भी चिकित्सा पद्धति हर मामले में पूरा रंग लौटने की गारंटी नहीं दे सकती। हमारा उपचार लंबे कोर्स में फैलाव धीमा करने और रंग लौटने की प्राकृतिक प्रक्रिया में मदद का लक्ष्य रखता है; परिणाम दाग के प्रकार, अवधि और फैलाव पर निर्भर करते हैं। खुद से दवा न लें — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
     },
-    { type: 'cta', title: b('Get a personalised, doctor-reviewed vitiligo treatment plan from WeClinic™.', 'वीक्लिनिक™ से अपना व्यक्तिगत, डॉक्टर द्वारा जांचा गया प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a personalised, doctor-reviewed vitiligo treatment plan from Jeewan Jyoti.', 'जीवन ज्योति से अपना व्यक्तिगत, डॉक्टर द्वारा जांचा गया प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
   ],
 
   faqs: [

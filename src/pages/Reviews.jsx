@@ -11,7 +11,7 @@ export default function Reviews() {
   const { t } = useLang()
   const [filter, setFilter] = useState('All')
   const [q, setQ] = useState('')
-  useEffect(() => { document.title = 'Patient Reviews — 4.6★ | WeClinic Ayurveda' }, [])
+  useEffect(() => { document.title = 'Patient Reviews — 4.6★ | Jeewan Jyoti Ayurvedic Sansthan' }, [])
 
   const list = useMemo(() => REVIEWS.filter((r) =>
     (filter === 'All' || r.platform === filter) &&
@@ -25,7 +25,7 @@ export default function Reviews() {
           <div>
             <nav className="crumbs"><Link to="/">{t({ en: 'Home', hi: 'होम' })}</Link> / {t({ en: 'Reviews', hi: 'समीक्षाएं' })}</nav>
             <span className="pill"><span className="dot pulse" />{S.total}+ {t({ en: 'Patient Ratings', hi: 'मरीज़ रेटिंग' })} · {S.avg}★</span>
-            <h1 className="h1" style={{ marginTop: 14 }}>{t({ en: 'What Patients Say About ', hi: 'मरीज़ वीक्लिनिक™ के बारे में ' })}<span className="text-grad">WeClinic™</span>{t({ en: '', hi: ' क्या कहते हैं' })}</h1>
+            <h1 className="h1" style={{ marginTop: 14 }}>{t({ en: 'What Patients Say About ', hi: 'मरीज़ जीवन ज्योति के बारे में ' })}<span className="text-grad">Jeewan Jyoti</span>{t({ en: '', hi: ' क्या कहते हैं' })}</h1>
             <p className="lead" style={{ marginLeft: 0 }}>{t({ en: 'Genuine reviews from Google & JustDial. We show critical reviews too, so you get the full picture.', hi: 'गूगल और जस्टडायल से असली रिव्यू। हम आलोचनात्मक रिव्यू भी दिखाते हैं, ताकि आपको पूरी तस्वीर मिले।' })}</p>
           </div>
           <Reveal className="rv-score" variant="right">

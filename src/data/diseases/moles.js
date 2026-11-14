@@ -7,8 +7,8 @@ export default {
   "hi": "तिल"
  },
  "seoTitle": {
-  "en": "Moles Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "तिल का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Moles Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "तिल का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -254,7 +254,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The types we most commonly discuss with patients at WeClinic™ are:"
+    "en": "The types we most commonly discuss with patients at Jeewan Jyoti are:"
    }
   },
   {
@@ -631,7 +631,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "We mention these methods for educational context only - WeClinic™ does not perform surgical, laser or cautery mole removal."
+     "en": "We mention these methods for educational context only - Jeewan Jyoti does not perform surgical, laser or cautery mole removal."
     }
    ]
   },
@@ -653,15 +653,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised moles treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से तिल का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised moles treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से तिल का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",
@@ -732,7 +732,7 @@ export default {
     "en": "What are the medical options if I want an unwanted mole physically removed?"
    },
    "a": {
-    "en": "Surgical excision removes the mole along with a tissue sample for lab testing and is preferred for any suspicious mole. Laser and cauterisation are generally reserved for small, already-confirmed-benign moles, since neither preserves a tissue sample for biopsy. WeClinic™ does not perform these procedures and can guide you to appropriate medical care if physical removal is needed."
+    "en": "Surgical excision removes the mole along with a tissue sample for lab testing and is preferred for any suspicious mole. Laser and cauterisation are generally reserved for small, already-confirmed-benign moles, since neither preserves a tissue sample for biopsy. Jeewan Jyoti does not perform these procedures and can guide you to appropriate medical care if physical removal is needed."
    }
   },
   {

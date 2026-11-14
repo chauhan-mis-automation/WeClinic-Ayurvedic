@@ -5,7 +5,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'eczema',
   name: b('Eczema', 'एक्ज़िमा'),
-  seoTitle: b('Eczema Ayurvedic Treatment | WeClinic Ayurveda', 'एक्ज़िमा का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Eczema Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'एक्ज़िमा का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
   closing: { title: b('Start Your Journey to Clearer, Calmer Skin Today', 'आज ही साफ़ और शांत त्वचा की ओर पहला कदम उठाएं') },
 
   hero: {
@@ -49,7 +49,7 @@ export default {
       type: 'text', id: 'what-is', title: b('What Is Eczema?', 'एक्ज़िमा क्या है?'),
       paras: [
         b('Eczema is a chronic, inflammatory skin condition that causes the skin to become dry, intensely itchy, red, inflamed and sometimes cracked, oozing or crusted. Also known as dermatitis, it is not a single disease but a group of related conditions; atopic dermatitis is the most common form and is a long-term condition that tends to flare up periodically before settling down again, often alongside a personal or family history of allergies, asthma or hay fever.', 'एक्ज़िमा एक पुरानी सूजन वाली त्वचा समस्या है जिसमें त्वचा सूखी, बहुत खुजली वाली, लाल, सूजी और कभी-कभी फटी, रिसती या पपड़ीदार हो जाती है। इसे डर्मेटाइटिस भी कहते हैं; यह एक बीमारी नहीं बल्कि मिलती-जुलती समस्याओं का समूह है। एटोपिक डर्मेटाइटिस सबसे आम रूप है, जो समय-समय पर उभरता और शांत होता है, अक्सर एलर्जी, अस्थमा या हे फीवर के इतिहास के साथ।'),
-        b("Understanding which type of eczema you're dealing with is the first step towards effective, individualised treatment. The most common types we see at WeClinic™ are:", 'आपका एक्ज़िमा किस प्रकार का है, यह समझना सही उपचार का पहला कदम है। वीक्लिनिक™ में सबसे आम प्रकार:'),
+        b("Understanding which type of eczema you're dealing with is the first step towards effective, individualised treatment. The most common types we see at Jeewan Jyoti are:", 'आपका एक्ज़िमा किस प्रकार का है, यह समझना सही उपचार का पहला कदम है। जीवन ज्योति में सबसे आम प्रकार:'),
       ],
     },
     {
@@ -187,9 +187,9 @@ export default {
       paras: [
         b('Our doctors don\'t treat eczema as an isolated "skin problem". They take a detailed case history: which areas are affected, what makes the itching better or worse (heat, cold, scratching, stress), the nature of the eruption (dry, oozing, blistered), allergies in you or your family, digestion, diet and sleep. Based on this, a personalised plan of medicine, diet and skincare is prescribed for your specific case.', 'हमारे डॉक्टर एक्ज़िमा को सिर्फ़ "त्वचा की समस्या" नहीं मानते। वे विस्तृत केस हिस्ट्री लेते हैं: कौन से हिस्से प्रभावित हैं, खुजली किससे बढ़ती-घटती है (गर्मी, ठंड, खुजलाना, तनाव), चकत्ते कैसे हैं (सूखे, रिसते, छाले वाले), आपकी या परिवार की एलर्जी, पाचन, खान-पान और नींद। इसके आधार पर आपके लिए दवा, डाइट और स्किनकेयर का व्यक्तिगत प्लान बनता है।'),
       ],
-      note: b('Important: Please do not self-medicate, especially for children. WeClinic™ doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें, खासकर बच्चों के लिए। वीक्लिनिक™ के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
+      note: b('Important: Please do not self-medicate, especially for children. Jeewan Jyoti doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें, खासकर बच्चों के लिए। जीवन ज्योति के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
     },
-    { type: 'cta', title: b('Get a personalised eczema treatment plan from WeClinic™\'s experienced doctors.', 'वीक्लिनिक™ के अनुभवी डॉक्टरों से अपना व्यक्तिगत एक्ज़िमा प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a personalised eczema treatment plan from Jeewan Jyoti\'s experienced doctors.', 'जीवन ज्योति के अनुभवी डॉक्टरों से अपना व्यक्तिगत एक्ज़िमा प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
   ],
 
   faqs: [

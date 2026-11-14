@@ -6,7 +6,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'hair-fall',
   name: b('Hair Fall', 'बाल झड़ना'),
-  seoTitle: b('Hair Fall & Hair Loss Ayurvedic Treatment | WeClinic Ayurveda', 'बाल झड़ने का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Hair Fall & Hair Loss Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'बाल झड़ने का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
   closing: { title: b('Start Your Journey to Healthier Hair Today', 'आज ही स्वस्थ बालों की ओर पहला कदम उठाएं') },
 
   hero: {
@@ -49,7 +49,7 @@ export default {
       type: 'text', id: 'what-is', title: b('What Is Hair Fall?', 'बाल झड़ना क्या है?'),
       paras: [
         b("Hair fall is a symptom in which hair sheds from the scalp faster than it is replaced, resulting in thinning beyond the normal daily loss of 50-100 strands and causing reduced hair density, a widening parting or bald patches over time. It isn't a single condition - it can result from genetics, hormones, nutrition, stress or scalp health, and the underlying cause determines both the pattern of hair loss and the right treatment approach.", 'बाल झड़ना एक लक्षण है जिसमें बाल नए आने से तेज़ झड़ते हैं — रोज़ के सामान्य 50-100 बालों से ज़्यादा — जिससे समय के साथ बाल कम, मांग चौड़ी या गंजे पैच बनते हैं। यह एक बीमारी नहीं है — जेनेटिक्स, हार्मोन, पोषण, तनाव या सिर की सेहत से हो सकता है, और असली कारण ही झड़ने का पैटर्न और सही उपचार तय करता है।'),
-        b('Every hair on the scalp moves through a growth cycle: a long growing (anagen) phase, a short transitional (catagen) phase, and a resting and shedding (telogen) phase. Hair fall becomes visible when too many hairs enter the shedding phase at once, or when regrowth slows. The most common presentations we see at WeClinic™ are:', 'हर बाल एक चक्र से गुज़रता है: लंबा बढ़ने का चरण (एनाजेन), छोटा बदलाव का चरण (कैटाजेन), और आराम व झड़ने का चरण (टेलोजन)। जब एक साथ बहुत सारे बाल झड़ने के चरण में जाते हैं या नए बाल धीरे आते हैं, तब झड़ना दिखता है। वीक्लिनिक™ में सबसे आम प्रकार:'),
+        b('Every hair on the scalp moves through a growth cycle: a long growing (anagen) phase, a short transitional (catagen) phase, and a resting and shedding (telogen) phase. Hair fall becomes visible when too many hairs enter the shedding phase at once, or when regrowth slows. The most common presentations we see at Jeewan Jyoti are:', 'हर बाल एक चक्र से गुज़रता है: लंबा बढ़ने का चरण (एनाजेन), छोटा बदलाव का चरण (कैटाजेन), और आराम व झड़ने का चरण (टेलोजन)। जब एक साथ बहुत सारे बाल झड़ने के चरण में जाते हैं या नए बाल धीरे आते हैं, तब झड़ना दिखता है। जीवन ज्योति में सबसे आम प्रकार:'),
       ],
     },
     {
@@ -160,9 +160,9 @@ export default {
         b('Our doctors don\'t treat hair fall as an isolated "scalp problem". They take a detailed case history: the pattern and duration of hair fall, associated hormonal or health factors, stress levels, diet, scalp condition, digestion and sleep. Based on this, a personalised plan of medicine, diet and hair care is prescribed for your specific case.', 'हमारे डॉक्टर बाल झड़ने को सिर्फ़ "सिर की समस्या" नहीं मानते। वे विस्तृत केस हिस्ट्री लेते हैं: झड़ने का पैटर्न और अवधि, हार्मोनल या सेहत से जुड़े कारण, तनाव, खान-पान, सिर की हालत, पाचन और नींद। इसके आधार पर आपके लिए दवा, डाइट और बालों की देखभाल का व्यक्तिगत प्लान बनता है।'),
         b('Genetic pattern baldness is progressive by nature, so we set honest expectations and recommend ongoing follow-up to maintain results.', 'जेनेटिक पैटर्न गंजापन समय के साथ बढ़ने वाला होता है, इसलिए हम सच्ची उम्मीदें रखते हैं और परिणाम बनाए रखने के लिए नियमित फॉलो-अप की सलाह देते हैं।'),
       ],
-      note: b('Important: Please do not self-medicate. WeClinic™ doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
+      note: b('Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
     },
-    { type: 'cta', title: b('Get a personalised hair fall treatment plan from WeClinic™\'s experienced doctors.', 'वीक्लिनिक™ के अनुभवी डॉक्टरों से बाल झड़ने का व्यक्तिगत प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a personalised hair fall treatment plan from Jeewan Jyoti\'s experienced doctors.', 'जीवन ज्योति के अनुभवी डॉक्टरों से बाल झड़ने का व्यक्तिगत प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
   ],
 
   faqs: [

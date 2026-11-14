@@ -7,8 +7,8 @@ export default {
   "hi": "गोखरू / कॉर्न"
  },
  "seoTitle": {
-  "en": "Corns & Callosities Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "गोखरू / कॉर्न का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Corns & Callosities Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "गोखरू / कॉर्न का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -158,7 +158,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The most common presentations we see at WeClinic™ are:"
+    "en": "The most common presentations we see at Jeewan Jyoti are:"
    }
   },
   {
@@ -526,7 +526,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "If you are unsure whether you have a corn or a wart, it is best to have it examined rather than guessing, as our doctors at WeClinic™ in Kanpur can confirm the diagnosis and direct you to the right line of treatment."
+     "en": "If you are unsure whether you have a corn or a wart, it is best to have it examined rather than guessing, as our doctors at Jeewan Jyoti in Kanpur can confirm the diagnosis and direct you to the right line of treatment."
     }
    ]
   },
@@ -641,15 +641,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised corns & callosities treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से गोखरू / कॉर्न का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised corns & callosities treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से गोखरू / कॉर्न का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

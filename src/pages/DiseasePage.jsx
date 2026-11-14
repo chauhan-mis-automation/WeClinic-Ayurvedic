@@ -97,7 +97,7 @@ function Plan({ d }) {
       <div className="container welcome-grid">
         <Reveal className="photo-frame plan-photo" variant="left">
           {ok ? <img src={PLAN.image} alt="" loading="lazy" onError={() => setOk(false)} />
-            : <div className="clinic-fallback"><span className="cf-emoji">🌿</span><b>WeClinic™ Ayurveda</b><small>{t({ en: 'Complete healthcare, naturally & personally', hi: 'संपूर्ण स्वास्थ्य देखभाल, प्राकृतिक और व्यक्तिगत' })}</small></div>}
+            : <div className="clinic-fallback"><span className="cf-emoji">🌿</span><b>Jeewan Jyoti Ayurvedic Sansthan</b><small>{t({ en: 'Complete healthcare, naturally & personally', hi: 'संपूर्ण स्वास्थ्य देखभाल, प्राकृतिक और व्यक्तिगत' })}</small></div>}
         </Reveal>
         <div>
           <Reveal className="eyebrow-bar">{fill(t(PLAN.eyebrow), name)}</Reveal>
@@ -336,7 +336,7 @@ export default function DiseasePage({ d }) {
       entries.forEach((e) => { if (e.isIntersecting) setActive(e.target.id) })
     }, { rootMargin: '-30% 0px -60% 0px' })
     els.forEach((el) => io.observe(el))
-    return () => { io.disconnect(); document.title = 'WeClinic Ayurveda | Trusted Ayurvedic Clinic — Kanpur & Noida' }
+    return () => { io.disconnect(); document.title = 'Jeewan Jyoti Ayurvedic Sansthan | Trusted Ayurvedic Clinic — Kanpur & Noida' }
   }, [d, t]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const related = (d.related || []).map((s) => ALL_CONDITIONS.find((c) => c.slug === s)).filter(Boolean)

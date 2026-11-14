@@ -7,8 +7,8 @@ export default {
   "hi": "रूसी"
  },
  "seoTitle": {
-  "en": "Dandruff Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "रूसी का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Dandruff Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "रूसी का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -176,7 +176,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "Dandruff isn't a single, uniform condition - it shows up differently depending on the underlying cause. The types we commonly see at WeClinic™ include -"
+    "en": "Dandruff isn't a single, uniform condition - it shows up differently depending on the underlying cause. The types we commonly see at Jeewan Jyoti include -"
    }
   },
   {
@@ -541,8 +541,8 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
@@ -608,7 +608,7 @@ export default {
     "en": "A dandruff-friendly diet limits foods that drive oil production and inflammation while supplying nutrients that support healthy skin and scalp. Diet alone will not clear dandruff, but it can meaningfully reduce how often and how severely it flares."
    },
    "note": {
-    "en": "Our WeClinic™ doctors provide a personalised diet chart alongside your prescribed medicine, tailored to your scalp type and general health."
+    "en": "Our Jeewan Jyoti doctors provide a personalised diet chart alongside your prescribed medicine, tailored to your scalp type and general health."
    },
    "id": "dandruff-diet-what-to-eat-and-avoid",
    "title": {
@@ -664,15 +664,15 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "These signs do not always mean something serious, but they need a proper scalp examination so the correct condition is treated. Book a free consultation with WeClinic™, Kanpur if any of these apply to you."
+     "en": "These signs do not always mean something serious, but they need a proper scalp examination so the correct condition is treated. Book a free consultation with Jeewan Jyoti, Kanpur if any of these apply to you."
     }
    ]
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised dandruff treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से रूसी का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised dandruff treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से रूसी का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",

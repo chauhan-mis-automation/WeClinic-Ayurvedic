@@ -61,8 +61,8 @@ export const FORM = {
 
 export const FOOTER = {
   about: {
-    en: 'WeClinic™ Ayurveda offers personalised Ayurvedic care through clinics in Kanpur & Noida and online consultation, with medicines delivered across India.',
-    hi: 'वीक्लिनिक™ आयुर्वेद कानपुर और नोएडा के क्लिनिक तथा ऑनलाइन परामर्श के ज़रिए व्यक्तिगत आयुर्वेदिक देखभाल देता है, और पूरे भारत में दवा पहुंचाता है।',
+    en: 'Jeewan Jyoti Ayurvedic Sansthan offers personalised Ayurvedic care through clinics in Kanpur & Noida and online consultation, with medicines delivered across India.',
+    hi: 'जीवन ज्योति आयुर्वेदिक संस्थान कानपुर और नोएडा के क्लिनिक तथा ऑनलाइन परामर्श के ज़रिए व्यक्तिगत आयुर्वेदिक देखभाल देता है, और पूरे भारत में दवा पहुंचाता है।',
   },
   cols: [
     {
@@ -110,7 +110,7 @@ export const FOOTER = {
     },
   ],
   connect: { en: 'Connect with us', hi: 'हमसे जुड़ें' },
-  connectText: { en: 'Follow WeClinic for health tips, patient stories & clinic updates.', hi: 'हेल्थ टिप्स, मरीज़ों की कहानियां और क्लिनिक अपडेट के लिए वीक्लिनिक को फॉलो करें।' },
+  connectText: { en: 'Follow Jeewan Jyoti for health tips, patient stories & clinic updates.', hi: 'हेल्थ टिप्स, मरीज़ों की कहानियां और क्लिनिक अपडेट के लिए जीवन ज्योति को फॉलो करें।' },
   bottomLinks: [
     { to: '/terms', label: { en: 'Terms', hi: 'शर्तें' } },
     { to: '/privacy-policy', label: { en: 'Privacy', hi: 'गोपनीयता' } },

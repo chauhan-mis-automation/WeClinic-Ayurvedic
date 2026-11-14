@@ -7,7 +7,7 @@ const b = (en, hi) => ({ en, hi })
 export default {
   slug: 'acne-pimples',
   name: b('Acne', 'मुंहासे'),
-  seoTitle: b('Acne & Pimples Ayurvedic Treatment | WeClinic Ayurveda', 'मुंहासों का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद'),
+  seoTitle: b('Acne & Pimples Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan', 'मुंहासों का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान'),
 
   closing: { title: b('Start Your Journey to Clearer Skin Today', 'आज ही साफ़ त्वचा की ओर पहला कदम उठाएं') },
 
@@ -86,8 +86,8 @@ export default {
       paras: [
         b('Acne (acne vulgaris) is a common skin condition that develops when hair follicles become clogged with oil (sebum) and dead skin cells, creating an environment where acne-causing bacteria can thrive and trigger inflammation. It most often appears on the face, forehead, chest, upper back and shoulders, and while it\'s most common during the teenage years, it can affect people well into adulthood.',
           'मुंहासे (एक्ने वल्गैरिस) तब होते हैं जब रोमछिद्र तेल (सीबम) और मृत कोशिकाओं से बंद हो जाते हैं, जिससे बैक्टीरिया बढ़ते हैं और सूजन होती है। ये ज़्यादातर चेहरे, माथे, छाती, ऊपरी पीठ और कंधों पर होते हैं। किशोरावस्था में सबसे आम हैं, पर बड़ी उम्र तक भी रह सकते हैं।'),
-        b('Understanding which type of acne lesion you\'re dealing with is the first step towards effective, individualised treatment. The most common presentations we see at WeClinic™ are:',
-          'आपके मुंहासे किस प्रकार के हैं, यह समझना सही और व्यक्तिगत उपचार का पहला कदम है। वीक्लिनिक™ में सबसे ज़्यादा दिखने वाले प्रकार:'),
+        b('Understanding which type of acne lesion you\'re dealing with is the first step towards effective, individualised treatment. The most common presentations we see at Jeewan Jyoti are:',
+          'आपके मुंहासे किस प्रकार के हैं, यह समझना सही और व्यक्तिगत उपचार का पहला कदम है। जीवन ज्योति में सबसे ज़्यादा दिखने वाले प्रकार:'),
       ],
     },
     {
@@ -206,10 +206,10 @@ export default {
         b('If your acne is severe or scarring quickly, our doctors will tell you plainly when a dermatologist\'s treatment is needed alongside our care.',
           'अगर मुंहासे गंभीर हैं या तेज़ी से निशान छोड़ रहे हैं, तो हमारे डॉक्टर साफ़ बताएंगे कि कब हमारे उपचार के साथ त्वचा विशेषज्ञ का इलाज भी ज़रूरी है।'),
       ],
-      note: b('Important: Please do not self-medicate. WeClinic™ doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — कोई भी उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
+      note: b('Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe the right medicine and dosage only after a detailed personal case-history consultation, so book your free consultation before starting any treatment.', 'ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत केस-हिस्ट्री के बाद ही सही दवा और खुराक बताते हैं — कोई भी उपचार शुरू करने से पहले फ्री परामर्श बुक करें।'),
     },
     {
-      type: 'cards', id: 'benefits', icon: 'check', title: b('What You Get with WeClinic™ Acne Care', 'वीक्लिनिक™ एक्ने केयर में आपको क्या मिलता है'),
+      type: 'cards', id: 'benefits', icon: 'check', title: b('What You Get with Jeewan Jyoti Acne Care', 'जीवन ज्योति एक्ने केयर में आपको क्या मिलता है'),
       items: [
         { t: b('A personalised plan built around your skin and triggers', 'आपकी त्वचा और कारणों के अनुसार व्यक्तिगत प्लान') },
         { t: b('Diet chart and skincare do-and-don\'t list included', 'डाइट चार्ट और स्किनकेयर क्या करें/क्या न करें सूची शामिल') },
@@ -217,10 +217,10 @@ export default {
         { t: b('Suitable for teenagers & adults, under doctor guidance', 'डॉक्टर की देखरेख में किशोरों और वयस्कों के लिए') },
       ],
     },
-    { type: 'cta', title: b('Get a personalised acne treatment plan from WeClinic™\'s experienced doctors.', 'वीक्लिनिक™ के अनुभवी डॉक्टरों से अपना व्यक्तिगत एक्ने प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
+    { type: 'cta', title: b('Get a personalised acne treatment plan from Jeewan Jyoti\'s experienced doctors.', 'जीवन ज्योति के अनुभवी डॉक्टरों से अपना व्यक्तिगत एक्ने प्लान पाएं।'), button: b('Book Your Free Consultation', 'फ्री परामर्श बुक करें'), action: 'form' },
     {
-      type: 'steps', id: 'course', title: b('How WeClinic™ Treats Acne - The Course, Week by Week', 'वीक्लिनिक™ में मुंहासों का उपचार — हफ्ते-दर-हफ्ते'),
-      intro: b('Acne is a tendency, not an infection, so the aim of our course is to change how often and how hard your skin breaks out - and then to keep it that way after the medicine stops. The plan below is what every acne patient at WeClinic™ goes through; the medicine inside it changes with the person.', 'मुंहासे एक प्रवृत्ति हैं, संक्रमण नहीं — इसलिए हमारे कोर्स का लक्ष्य है कि मुंहासे कम और हल्के निकलें, और दवा बंद होने के बाद भी ऐसा ही रहे। नीचे का प्लान हर मरीज़ के लिए है; दवा हर व्यक्ति के अनुसार बदलती है।'),
+      type: 'steps', id: 'course', title: b('How Jeewan Jyoti Treats Acne - The Course, Week by Week', 'जीवन ज्योति में मुंहासों का उपचार — हफ्ते-दर-हफ्ते'),
+      intro: b('Acne is a tendency, not an infection, so the aim of our course is to change how often and how hard your skin breaks out - and then to keep it that way after the medicine stops. The plan below is what every acne patient at Jeewan Jyoti goes through; the medicine inside it changes with the person.', 'मुंहासे एक प्रवृत्ति हैं, संक्रमण नहीं — इसलिए हमारे कोर्स का लक्ष्य है कि मुंहासे कम और हल्के निकलें, और दवा बंद होने के बाद भी ऐसा ही रहे। नीचे का प्लान हर मरीज़ के लिए है; दवा हर व्यक्ति के अनुसार बदलती है।'),
       steps: [
         { title: b('Free case-taking call (20-30 min)', 'फ्री केस-हिस्ट्री कॉल (20-30 मिनट)'), text: b('The doctor maps your acne: where it sits (jawline and chin, forehead, cheeks, back), lesion type (blackheads, pustules, deep cysts), whether it flares before periods, your cycle regularity, PCOS or thyroid history, medicines and supplements, skincare in use, diet, sleep and stress. Photos help and are kept confidential.', 'डॉक्टर आपके मुंहासों को समझते हैं: कहां हैं (जबड़ा-ठुड्डी, माथा, गाल, पीठ), किस तरह के दाने हैं, पीरियड्स से पहले बढ़ते हैं या नहीं, चक्र की नियमितता, PCOS या थायराइड, दवाएं-सप्लीमेंट, स्किनकेयर, डाइट, नींद और तनाव। फोटो मददगार हैं और गोपनीय रहती हैं।') },
         { title: b('Grade & cause check', 'ग्रेड और कारण की जांच'), text: b('Grade 1-4 is assigned. Women with jawline acne, irregular cycles or hair growth are advised on hormonal tests (and our PCOS care programme if relevant); anyone on steroids, protein supplements or isotretinoin is told how that changes the plan.', 'ग्रेड 1-4 तय होता है। जबड़े के मुंहासे, अनियमित पीरियड्स या अनचाहे बाल वाली महिलाओं को हार्मोन टेस्ट (और ज़रूरत हो तो PCOS केयर प्रोग्राम) की सलाह दी जाती है; स्टेरॉयड, प्रोटीन सप्लीमेंट या आइसोट्रेटिनॉइन लेने वालों को बताया जाता है कि प्लान कैसे बदलेगा।') },
@@ -271,7 +271,7 @@ export default {
     { q: b('Why does popping pimples make acne worse?', 'दाने फोड़ने से मुंहासे क्यों बढ़ते हैं?'), a: b('Squeezing pushes inflammation and bacteria deeper into the skin, increasing redness, infection and the risk of permanent scars.', 'दबाने से सूजन और बैक्टीरिया त्वचा में गहरे जाते हैं, जिससे लालिमा, संक्रमण और स्थायी निशान का खतरा बढ़ता है।') },
     { q: b('Why do adults over 25 still get acne?', '25 के बाद भी मुंहासे क्यों होते हैं?'), a: b('Common reasons are hormonal changes (especially in women), stress, certain medicines or supplements, and heavy cosmetics.', 'आम कारण हैं हार्मोनल बदलाव (खासकर महिलाओं में), तनाव, कुछ दवाएं या सप्लीमेंट, और भारी कॉस्मेटिक्स।') },
     { q: b('How do I treat acne on my back and chest?', 'पीठ और छाती के मुंहासों का क्या करें?'), a: b('Shower promptly after sweating, wear breathable clothing, review protein supplements, and consult our doctor for a personalised plan.', 'पसीने के बाद तुरंत नहाएं, हवादार कपड़े पहनें, प्रोटीन सप्लीमेंट पर ध्यान दें, और व्यक्तिगत प्लान के लिए हमारे डॉक्टर से मिलें।') },
-    { q: b('How much does acne treatment cost at WeClinic™?', 'वीक्लिनिक™ में मुंहासों के उपचार का खर्च कितना है?'), a: b('Courses start at ₹1599 per month, including consultation, follow-ups, diet chart and delivery. The first consultation is free.', 'कोर्स ₹1599 प्रति माह से शुरू, जिसमें परामर्श, फॉलो-अप, डाइट चार्ट और डिलीवरी शामिल है। पहला परामर्श फ्री है।') },
+    { q: b('How much does acne treatment cost at Jeewan Jyoti?', 'जीवन ज्योति में मुंहासों के उपचार का खर्च कितना है?'), a: b('Courses start at ₹1599 per month, including consultation, follow-ups, diet chart and delivery. The first consultation is free.', 'कोर्स ₹1599 प्रति माह से शुरू, जिसमें परामर्श, फॉलो-अप, डाइट चार्ट और डिलीवरी शामिल है। पहला परामर्श फ्री है।') },
   ],
 
   related: ['psoriasis', 'eczema', 'skin-allergy', 'melasma'],

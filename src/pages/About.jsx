@@ -22,7 +22,7 @@ export default function About() {
   const { t } = useLang()
   const { openAppointment } = useAppointment()
   const A = ABOUT
-  useEffect(() => { document.title = 'About WeClinic Ayurveda | Clinics in Kanpur & Noida' }, [])
+  useEffect(() => { document.title = 'About Jeewan Jyoti Ayurvedic Sansthan | Clinics in Kanpur & Noida' }, [])
 
   return (
     <div className="about">
@@ -35,7 +35,7 @@ export default function About() {
             <Reveal as="p" className="lead" delay={140}>{t(A.intro)}</Reveal>
           </div>
           <Reveal className="about-hero-photo" variant="right">
-            <div className="photo-frame"><SmartImg src={A.images.hero} alt="WeClinic clinic, Panki, Kanpur" emoji="🏥" /></div>
+            <div className="photo-frame"><SmartImg src={A.images.hero} alt="Jeewan Jyoti clinic, Panki, Kanpur" emoji="🏥" /></div>
             <p className="caption">{t(A.heroCaption)}</p>
           </Reveal>
         </div>
@@ -51,7 +51,7 @@ export default function About() {
       <section className="section">
         <div className="container welcome-grid">
           <Reveal className="welcome-media" variant="left">
-            <div className="photo-frame"><SmartImg src={A.images.doctors} alt="WeClinic doctors" emoji="👩‍⚕️" /></div>
+            <div className="photo-frame"><SmartImg src={A.images.doctors} alt="Jeewan Jyoti doctors" emoji="👩‍⚕️" /></div>
           </Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(A.who.eyebrow)}</Reveal>
@@ -86,7 +86,7 @@ export default function About() {
             <p className="lead">{t(A.team.p)}</p>
           </Reveal>
           <Reveal className="wide-photo">
-            <SmartImg src={A.images.team} alt="WeClinic team" emoji="🤝" />
+            <SmartImg src={A.images.team} alt="Jeewan Jyoti team" emoji="🤝" />
           </Reveal>
           <p className="caption center-text">{t(A.team.caption)}</p>
         </div>
@@ -101,7 +101,7 @@ export default function About() {
             <Reveal as="p" className="body">{t(A.culture.p2)}</Reveal>
           </div>
           <Reveal className="welcome-media" variant="right">
-            <div className="photo-frame"><SmartImg src={A.images.culture} alt="Life at WeClinic" emoji="🎉" /></div>
+            <div className="photo-frame"><SmartImg src={A.images.culture} alt="Life at Jeewan Jyoti" emoji="🎉" /></div>
           </Reveal>
         </div>
       </section>

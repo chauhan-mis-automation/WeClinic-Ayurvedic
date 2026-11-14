@@ -7,8 +7,8 @@ export default {
   "hi": "प्रोस्टेट स्राव"
  },
  "seoTitle": {
-  "en": "Prostate Discharge Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "प्रोस्टेट स्राव का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Prostate Discharge Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "प्रोस्टेट स्राव का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -460,7 +460,7 @@ export default {
      "en": "The anxiety-symptom cycle describes how worrying about discharge can itself make the perceived problem worse, creating a loop that feels physical but is largely driven by attention and stress. A man who fears semen loss starts monitoring his body closely, checks urine for a whitish tinge, and interprets ordinary bodily sensations as signs of \"weakness\". This heightened vigilance disturbs sleep and increases stress hormones, which in turn genuinely does cause fatigue, poor concentration and low mood - symptoms that are then misread as proof that semen loss is depleting the body, deepening the anxiety further."
     },
     {
-     "en": "Recognising this cycle is often the single most helpful step in recovery. Medical and psychiatric literature on Dhat syndrome consistently finds that reassurance and correcting mistaken beliefs about semen loss, alongside treatment of any genuine anxiety or low mood, brings meaningful relief for most men - which is why WeClinic™ doctors spend as much time addressing the worry as they do addressing the physical symptom itself."
+     "en": "Recognising this cycle is often the single most helpful step in recovery. Medical and psychiatric literature on Dhat syndrome consistently finds that reassurance and correcting mistaken beliefs about semen loss, alongside treatment of any genuine anxiety or low mood, brings meaningful relief for most men - which is why Jeewan Jyoti doctors spend as much time addressing the worry as they do addressing the physical symptom itself."
     }
    ],
    "id": "the-anxiety-symptom-cycle",
@@ -635,15 +635,15 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised prostate discharge treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से प्रोस्टेट स्राव का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised prostate discharge treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से प्रोस्टेट स्राव का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",
@@ -690,7 +690,7 @@ export default {
     "en": "Is it confidential to discuss this problem with a doctor?"
    },
    "a": {
-    "en": "Yes, completely. We understand this is a sensitive subject for most men, so every consultation, case history and medicine delivery at WeClinic™ is handled with strict privacy and discretion - your information is never shared, and medicines are couriered in plain, unmarked packaging."
+    "en": "Yes, completely. We understand this is a sensitive subject for most men, so every consultation, case history and medicine delivery at Jeewan Jyoti is handled with strict privacy and discretion - your information is never shared, and medicines are couriered in plain, unmarked packaging."
    }
   },
   {
@@ -730,7 +730,7 @@ export default {
     "en": "Can this problem lead to depression or other mental health issues if untreated?"
    },
    "a": {
-    "en": "Yes - medical literature on Dhat syndrome reports that unaddressed anxiety about semen loss is commonly associated with depression, generalised health anxiety, and sometimes related sexual difficulties like erectile dysfunction or premature ejaculation. This is exactly why WeClinic™ treats the emotional and physical sides of the concern together rather than in isolation."
+    "en": "Yes - medical literature on Dhat syndrome reports that unaddressed anxiety about semen loss is commonly associated with depression, generalised health anxiety, and sometimes related sexual difficulties like erectile dysfunction or premature ejaculation. This is exactly why Jeewan Jyoti treats the emotional and physical sides of the concern together rather than in isolation."
    }
   },
   {
@@ -746,7 +746,7 @@ export default {
     "en": "Do I need to stop masturbating or change my sexual habits to recover?"
    },
    "a": {
-    "en": "There is no medical requirement to stop normal sexual activity, and doing so out of fear rarely resolves the underlying anxiety. WeClinic™ doctors focus on correcting misconceptions about semen loss, managing any genuine anxiety, and treating physical causes where present, rather than recommending restrictive or guilt-based lifestyle rules."
+    "en": "There is no medical requirement to stop normal sexual activity, and doing so out of fear rarely resolves the underlying anxiety. Jeewan Jyoti doctors focus on correcting misconceptions about semen loss, managing any genuine anxiety, and treating physical causes where present, rather than recommending restrictive or guilt-based lifestyle rules."
    }
   }
  ],

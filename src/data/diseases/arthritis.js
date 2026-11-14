@@ -7,8 +7,8 @@ export default {
   "hi": "गठिया"
  },
  "seoTitle": {
-  "en": "Arthritis & Knee Joint Pain Ayurvedic Treatment | WeClinic Ayurveda",
-  "hi": "गठिया का आयुर्वेदिक उपचार | वीक्लिनिक आयुर्वेद"
+  "en": "Arthritis & Knee Joint Pain Ayurvedic Treatment | Jeewan Jyoti Ayurvedic Sansthan",
+  "hi": "गठिया का आयुर्वेदिक उपचार | जीवन ज्योति आयुर्वेदिक संस्थान"
  },
  "hero": {
   "eyebrow": {
@@ -106,7 +106,7 @@ export default {
     "en": "Where to start"
    },
    "v": {
-    "en": "WeClinic™ offers a free consultation, home delivery of medicines and a personalised diet chart with every arthritis treatment plan."
+    "en": "Jeewan Jyoti offers a free consultation, home delivery of medicines and a personalised diet chart with every arthritis treatment plan."
    }
   }
  ],
@@ -177,7 +177,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The most common types we see at WeClinic™ are:"
+    "en": "The most common types we see at Jeewan Jyoti are:"
    }
   },
   {
@@ -562,8 +562,8 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Please do not self-medicate. WeClinic™ doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
-    "hi": "ज़रूरी: खुद से दवा न लें। वीक्लिनिक™ के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
+    "en": "Important: Please do not self-medicate. Jeewan Jyoti doctors prescribe medicine and dosage only after a detailed personal consultation — book your free consultation before starting any treatment.",
+    "hi": "ज़रूरी: खुद से दवा न लें। जीवन ज्योति के डॉक्टर विस्तृत परामर्श के बाद ही दवा और खुराक बताते हैं — उपचार शुरू करने से पहले फ्री परामर्श बुक करें।"
    }
   },
   {
@@ -824,8 +824,8 @@ export default {
   {
    "type": "cta",
    "title": {
-    "en": "Get a personalised arthritis treatment plan from WeClinic™'s experienced doctors.",
-    "hi": "वीक्लिनिक™ के अनुभवी डॉक्टरों से गठिया का व्यक्तिगत प्लान पाएं।"
+    "en": "Get a personalised arthritis treatment plan from Jeewan Jyoti's experienced doctors.",
+    "hi": "जीवन ज्योति के अनुभवी डॉक्टरों से गठिया का व्यक्तिगत प्लान पाएं।"
    },
    "button": {
     "en": "Book Your Free Consultation",
@@ -893,7 +893,7 @@ export default {
   },
   {
    "q": {
-    "en": "How much does arthritis treatment cost at WeClinic?"
+    "en": "How much does arthritis treatment cost at Jeewan Jyoti?"
    },
    "a": {
     "en": "Medicine courses start at ₹1599, with the plan depending on the type of arthritis and how many joints are involved. The first consultation is free, online or in-clinic, and medicines are delivered free across India. Bringing your X-rays and blood work — RA factor, anti-CCP, ESR, CRP, uric acid and vitamin D — makes the first consultation considerably more useful."

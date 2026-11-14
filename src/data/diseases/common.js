@@ -1,7 +1,7 @@
 // Har disease page par same rehne wale sections (plan steps, why choose).
 // {name} ki jagah disease ka naam apne aap aa jata hai.
 export const PLAN = {
-  eyebrow: { en: "WeClinic's Complete {name} Treatment Plan", hi: 'वीक्लिनिक का संपूर्ण {name} उपचार प्लान' },
+  eyebrow: { en: "Jeewan Jyoti's Complete {name} Treatment Plan", hi: 'जीवन ज्योति का संपूर्ण {name} उपचार प्लान' },
   title: { en: 'How our plan works', hi: 'हमारा प्लान कैसे काम करता है' },
   steps: [
     { en: 'Call our specialists on the number above.', hi: 'ऊपर दिए नंबर पर हमारे विशेषज्ञों को कॉल करें।' },
@@ -17,8 +17,8 @@ export const PLAN = {
 }
 
 export const WHY_CHOOSE = {
-  eyebrow: { en: 'Why WeClinic', hi: 'वीक्लिनिक क्यों' },
-  title: { en: 'Why Choose WeClinic™ for {name} Care?', hi: '{name} के लिए वीक्लिनिक™ क्यों चुनें?' },
+  eyebrow: { en: 'Why Jeewan Jyoti', hi: 'जीवन ज्योति क्यों' },
+  title: { en: 'Why Choose Jeewan Jyoti for {name} Care?', hi: '{name} के लिए जीवन ज्योति क्यों चुनें?' },
   cards: [
     { icon: '🛡️', title: { en: 'Completely Confidential', hi: 'पूरी तरह गोपनीय' }, text: { en: 'All the information you share with us stays completely private.', hi: 'आपकी दी हुई हर जानकारी पूरी तरह गोपनीय रहती है।' } },
     { icon: '🛵', title: { en: 'Home Delivery', hi: 'होम डिलीवरी' }, text: { en: 'Your medicines are couriered to your doorstep in discreet, unmarked packaging.', hi: 'दवा बिना नाम वाले, गोपनीय पैकेट में आपके घर तक पहुंचती है।' } },
@@ -62,7 +62,7 @@ export const HERO_DEFAULTS = {
 // Page ke end mein closing banner
 export const CLOSING = {
   title: { en: 'Start Your Journey to Better Health Today', hi: 'आज ही बेहतर सेहत की ओर पहला कदम उठाएं' },
-  text: { en: "Book a free consultation with WeClinic™'s experienced doctors and get a treatment plan made for your specific case.", hi: 'वीक्लिनिक™ के अनुभवी डॉक्टरों से फ्री परामर्श लें और अपने केस के लिए बना उपचार प्लान पाएं।' },
+  text: { en: "Book a free consultation with Jeewan Jyoti's experienced doctors and get a treatment plan made for your specific case.", hi: 'जीवन ज्योति के अनुभवी डॉक्टरों से फ्री परामर्श लें और अपने केस के लिए बना उपचार प्लान पाएं।' },
   call: { en: 'Call Now - Book Free Consultation', hi: 'अभी कॉल करें - फ्री परामर्श' },
   visit: { en: 'Prefer to visit in person? Book a Clinic Appointment', hi: 'क्लिनिक आना चाहते हैं? अपॉइंटमेंट बुक करें' },
 }

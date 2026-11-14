@@ -175,7 +175,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "UTIs aren't a single condition - the exact site and pattern of infection matters for treatment. The presentations we regularly see at Jeewan Jyoti in Kanpur include -"
+    "en": "UTIs aren't a single condition - the exact site and pattern of infection matters for treatment. The presentations we regularly see at Jeewan Jyoti include -"
    }
   },
   {

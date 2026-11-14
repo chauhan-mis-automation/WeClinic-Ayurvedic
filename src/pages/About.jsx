@@ -22,7 +22,7 @@ export default function About() {
   const { t } = useLang()
   const { openAppointment } = useAppointment()
   const A = ABOUT
-  useEffect(() => { document.title = 'About Jeewan Jyoti Ayurvedic Sansthan | Clinics in Kanpur & Noida' }, [])
+  useEffect(() => { document.title = 'About Jeewan Jyoti Ayurvedic Sansthan' }, [])
 
   return (
     <div className="about">

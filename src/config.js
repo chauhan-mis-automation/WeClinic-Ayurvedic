@@ -7,7 +7,7 @@ export const SITE = {
   phone: '+919711766755',          // Call button ka number
   phoneDisplay: '+91 97117 66755',
   email: 'jeevanjyotiayurvedicsansthan@gmail.com',
-  cities: { en: 'Kanpur & Noida', hi: 'कानपुर और नोएडा' },
+  cities: { en: 'Serving patients across India', hi: 'पूरे भारत में सेवा' },
   hours: { en: 'Tue–Sun 10 AM – 9 PM (Mon closed)', hi: 'मंगल–रवि सुबह 10 – रात 9 (सोमवार बंद)' },
   // Social links — sahi URL yahan daalo (khali ho to icon nahi dikhega)
   social: {

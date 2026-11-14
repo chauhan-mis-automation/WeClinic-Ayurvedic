@@ -167,7 +167,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "Chronic constipation isn't a single condition - it can present in several different ways depending on the underlying cause. The presentations we most commonly see at Jeewan Jyoti in Kanpur are:"
+    "en": "Chronic constipation isn't a single condition - it can present in several different ways depending on the underlying cause. The presentations we most commonly see at Jeewan Jyoti are:"
    }
   },
   {

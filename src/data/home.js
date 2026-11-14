@@ -1,6 +1,6 @@
 // Home page ka saara text — {en, hi}. Yahan se badlo.
 export const HERO = {
-  pill: { en: '8 Lakh+ Patients Treated · 98% Patient Satisfaction · Kanpur & Noida', hi: '8 लाख+ मरीज़ों का उपचार · 98% मरीज़ संतुष्ट · कानपुर और नोएडा' },
+  pill: { en: '8 Lakh+ Patients Treated · 98% Patient Satisfaction', hi: '8 लाख+ मरीज़ों का उपचार · 98% मरीज़ संतुष्ट' },
   h1a: { en: 'Jeewan Jyoti Ayurvedic Sansthan', hi: 'जीवन ज्योति आयुर्वेदिक संस्थान' },
   h1b: { en: "India's Trusted Ayurvedic Clinic", hi: 'भारत का भरोसेमंद आयुर्वेदिक क्लिनिक' },
   text: {
@@ -31,8 +31,8 @@ export const WELCOME = {
     hi: 'जीवन ज्योति आयुर्वेदिक संस्थान अब तक 8 लाख+ मरीज़ों की देखभाल कर चुका है, और 98% मरीज़ों ने संतुष्टि जताई है। हमारे अनुभवी डॉक्टर बवासीर, गठिया, त्वचा रोग, स्त्री रोग और अन्य पुरानी समस्याओं में मदद करते हैं — अपनी समस्या ढूंढने के लिए हमारे सभी उपचार देखें।',
   },
   p2: {
-    en: 'We combine modern physical clinics in Kanpur and Noida with a dedicated teleconsultation centre, so patients from metro cities to rural areas and the hill regions of Jammu & Kashmir and Uttarakhand get the same standard of care, with medicines delivered to their doorstep anywhere in India.',
-    hi: 'कानपुर और नोएडा के आधुनिक क्लिनिक और समर्पित टेली-परामर्श केंद्र के साथ, महानगरों से लेकर गांवों और जम्मू-कश्मीर व उत्तराखंड के पहाड़ी इलाकों तक के मरीज़ों को एक जैसी देखभाल मिलती है, और दवा भारत में कहीं भी घर तक पहुंचती है।',
+    en: 'We combine modern physical clinics with a dedicated teleconsultation centre, so patients from metro cities to rural areas and the hill regions of Jammu & Kashmir and Uttarakhand get the same standard of care, with medicines delivered to their doorstep anywhere in India.',
+    hi: 'आधुनिक क्लिनिक और समर्पित टेली-परामर्श केंद्र के साथ, महानगरों से लेकर गांवों और जम्मू-कश्मीर व उत्तराखंड के पहाड़ी इलाकों तक के मरीज़ों को एक जैसी देखभाल मिलती है, और दवा भारत में कहीं भी घर तक पहुंचती है।',
   },
   linkText: { en: 'See all treatments', hi: 'सभी उपचार देखें' },
   points: [
@@ -128,11 +128,11 @@ export const BUILT = {
       badge: { en: 'Pan-India Delivery', hi: 'पूरे भारत में डिलीवरी' },
       title: { en: 'Physical & Online Consultation', hi: 'क्लिनिक और ऑनलाइन परामर्श' },
       text: {
-        en: 'Visit our clinics in Kanpur & Noida, or consult online from anywhere in India — medicines are delivered to your doorstep at no extra charge.',
-        hi: 'कानपुर और नोएडा के क्लिनिक आएं, या भारत में कहीं से भी ऑनलाइन परामर्श लें — दवा बिना अतिरिक्त शुल्क घर तक।',
+        en: 'Visit our clinic, or consult online from anywhere in India — medicines are delivered to your doorstep at no extra charge.',
+        hi: 'क्लिनिक आएं, या भारत में कहीं से भी ऑनलाइन परामर्श लें — दवा बिना अतिरिक्त शुल्क घर तक।',
       },
       points: [
-        { en: 'In-clinic: Kanpur & Noida', hi: 'क्लिनिक: कानपुर और नोएडा' },
+        { en: 'In-clinic consultation', hi: 'क्लिनिक में परामर्श' },
         { en: 'Video consult, pan-India', hi: 'वीडियो परामर्श, पूरे भारत में' },
         { en: 'Free doorstep medicine delivery', hi: 'फ्री होम डिलीवरी' },
       ],
@@ -162,7 +162,7 @@ export const AWARDS = {
 
 // ---------- Visit us ----------
 export const VISIT = {
-  title: { en: 'Visit Us in Kanpur & Noida', hi: 'कानपुर और नोएडा में हमसे मिलें' },
+  title: { en: 'Visit Us', hi: 'हमसे मिलें' },
   hours: { en: 'Open 10:00 AM – 9:00 PM (Monday Off)', hi: 'सुबह 10:00 – रात 9:00 (सोमवार बंद)' },
   book: { en: 'Book Appointment', hi: 'अपॉइंटमेंट बुक करें' },
   directions: { en: 'Get directions', hi: 'रास्ता देखें' },
@@ -181,7 +181,7 @@ export const FAQ = {
     },
     {
       q: { en: 'Is Jeewan Jyoti genuine and safe?', hi: 'क्या जीवन ज्योति भरोसेमंद और सुरक्षित है?' },
-      a: { en: 'Jeewan Jyoti runs physical clinics in Kanpur and Noida with qualified doctors, and has 4.6★ from 6,133+ Google reviews. Your details are kept private.', hi: 'जीवन ज्योति के कानपुर और नोएडा में योग्य डॉक्टरों वाले क्लिनिक हैं, और 6,133+ गूगल रिव्यू में 4.6★ रेटिंग है। आपकी जानकारी गोपनीय रखी जाती है।' },
+      a: { en: 'Jeewan Jyoti runs physical clinics with qualified doctors, and has 4.6★ from 6,133+ Google reviews. Your details are kept private.', hi: 'जीवन ज्योति के योग्य डॉक्टरों वाले क्लिनिक हैं, और 6,133+ गूगल रिव्यू में 4.6★ रेटिंग है। आपकी जानकारी गोपनीय रखी जाती है।' },
     },
     {
       q: { en: 'Why do patients choose Jeewan Jyoti?', hi: 'मरीज़ जीवन ज्योति क्यों चुनते हैं?' },
@@ -201,7 +201,7 @@ export const FAQ = {
     },
     {
       q: { en: 'Where is Jeewan Jyoti located?', hi: 'जीवन ज्योति कहां है?' },
-      a: { en: 'We have clinics in Kanpur and Noida.', hi: 'हमारे क्लिनिक कानपुर और नोएडा में हैं।' },
+      a: { en: 'Call +91 97117 66755 for clinic details. You can also consult our doctors by phone or video from anywhere in India.', hi: 'क्लिनिक की जानकारी के लिए +91 97117 66755 पर कॉल करें। आप भारत में कहीं से भी फोन या वीडियो पर डॉक्टर से परामर्श ले सकते हैं।' },
     },
     {
       q: { en: 'How can I book an appointment?', hi: 'अपॉइंटमेंट कैसे बुक करें?' },
@@ -221,7 +221,7 @@ export const FAQ = {
     },
     {
       q: { en: 'Does Jeewan Jyoti have a full-fledged hospital?', hi: 'क्या जीवन ज्योति का पूरा अस्पताल है?' },
-      a: { en: 'Jeewan Jyoti runs clinics in Kanpur and Noida along with a teleconsultation centre. For any emergency, please visit your nearest hospital.', hi: 'जीवन ज्योति के कानपुर और नोएडा में क्लिनिक और एक टेली-परामर्श केंद्र है। किसी भी इमरजेंसी में नज़दीकी अस्पताल जाएं।' },
+      a: { en: 'Jeewan Jyoti runs clinics along with a teleconsultation centre. For any emergency, please visit your nearest hospital.', hi: 'जीवन ज्योति के क्लिनिक और एक टेली-परामर्श केंद्र है। किसी भी इमरजेंसी में नज़दीकी अस्पताल जाएं।' },
     },
     {
       q: { en: "What are Jeewan Jyoti's clinic timings?", hi: 'जीवन ज्योति का समय क्या है?' },

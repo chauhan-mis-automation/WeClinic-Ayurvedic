@@ -458,7 +458,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Because hormone levels swing up and down rather than steadily declining, perimenopause is frequently more symptomatic and unpredictable than menopause itself, and many women find it more confusing to identify. At Jeewan Jyoti in Kanpur, our doctors, including Dr."
+     "en": "Because hormone levels swing up and down rather than steadily declining, perimenopause is frequently more symptomatic and unpredictable than menopause itself, and many women find it more confusing to identify. At Jeewan Jyoti, our doctors, including Dr."
     }
    ]
   },

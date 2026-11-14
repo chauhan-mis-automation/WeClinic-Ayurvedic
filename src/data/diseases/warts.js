@@ -111,7 +111,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Warts are small, benign skin growths caused by infection with the human papillomavirus (HPV). The virus triggers extra, rapid growth of cells in the outer layer of skin, forming a raised, textured bump that can appear anywhere on the body but is most common on the hands, fingers and feet. Warts are non-cancerous and usually harmless, but they can be unsightly, occasionally uncomfortable, and are mildly contagious through skin-to-skin contact or contact with contaminated surfaces. At Jeewan Jyoti in Kanpur, Dr."
+     "en": "Warts are small, benign skin growths caused by infection with the human papillomavirus (HPV). The virus triggers extra, rapid growth of cells in the outer layer of skin, forming a raised, textured bump that can appear anywhere on the body but is most common on the hands, fingers and feet. Warts are non-cancerous and usually harmless, but they can be unsightly, occasionally uncomfortable, and are mildly contagious through skin-to-skin contact or contact with contaminated surfaces. At Jeewan Jyoti, Dr."
     }
    ],
    "id": "what-are-warts",
@@ -601,7 +601,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Because these growths can look alike, it is safest to have any new or changing skin lesion examined rather than treated blindly at home. Our doctors at Jeewan Jyoti in Kanpur can confirm whether a growth is a wart before starting treatment."
+     "en": "Because these growths can look alike, it is safest to have any new or changing skin lesion examined rather than treated blindly at home. Our doctors at Jeewan Jyoti can confirm whether a growth is a wart before starting treatment."
     }
    ]
   },

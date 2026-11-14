@@ -498,7 +498,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "Chronic stress and anxiety worsen gastric trouble through the well-documented gut-brain connection, which can slow digestion, increase stomach acid production and heighten sensitivity to bloating and discomfort. People with high-stress routines or ongoing anxiety often notice their gas, acidity and indigestion flare up during particularly stressful periods, even without any change in diet. At Jeewan Jyoti in Kanpur, Dr."
+     "en": "Chronic stress and anxiety worsen gastric trouble through the well-documented gut-brain connection, which can slow digestion, increase stomach acid production and heighten sensitivity to bloating and discomfort. People with high-stress routines or ongoing anxiety often notice their gas, acidity and indigestion flare up during particularly stressful periods, even without any change in diet. At Jeewan Jyoti, Dr."
     }
    ]
   },

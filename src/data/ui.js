@@ -61,8 +61,8 @@ export const FORM = {
 
 export const FOOTER = {
   about: {
-    en: 'Jeewan Jyoti Ayurvedic Sansthan offers personalised Ayurvedic care through clinics in Kanpur & Noida and online consultation, with medicines delivered across India.',
-    hi: 'जीवन ज्योति आयुर्वेदिक संस्थान कानपुर और नोएडा के क्लिनिक तथा ऑनलाइन परामर्श के ज़रिए व्यक्तिगत आयुर्वेदिक देखभाल देता है, और पूरे भारत में दवा पहुंचाता है।',
+    en: 'Jeewan Jyoti Ayurvedic Sansthan offers personalised Ayurvedic care through in-clinic and online consultation, with medicines delivered across India.',
+    hi: 'जीवन ज्योति आयुर्वेदिक संस्थान क्लिनिक तथा ऑनलाइन परामर्श के ज़रिए व्यक्तिगत आयुर्वेदिक देखभाल देता है, और पूरे भारत में दवा पहुंचाता है।',
   },
   cols: [
     {

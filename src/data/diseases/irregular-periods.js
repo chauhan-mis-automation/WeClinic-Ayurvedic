@@ -503,7 +503,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "Several everyday situations commonly bring patients to Jeewan Jyoti in Kanpur asking whether their irregularity is \"normal\" - here is what our doctors, including Dr. Laxmi, typically explain -"
+    "en": "Several everyday situations commonly bring patients to Jeewan Jyoti asking whether their irregularity is \"normal\" - here is what our doctors, including Dr. Laxmi, typically explain -"
    },
    "id": "irregular-periods-special-situations-wor",
    "title": {

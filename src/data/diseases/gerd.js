@@ -122,7 +122,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "GERD (Gastroesophageal Reflux Disease) is a chronic digestive disorder in which stomach acid repeatedly flows back into the food pipe (esophagus), irritating its lining. It happens when the lower esophageal sphincter - the ring of muscle that normally keeps stomach contents from moving upward - weakens or relaxes at the wrong time. GERD is different from occasional heartburn: it's generally diagnosed when acid reflux occurs more than twice a week, or when it starts to damage the esophageal lining. At Jeewan Jyoti in Kanpur, Dr."
+     "en": "GERD (Gastroesophageal Reflux Disease) is a chronic digestive disorder in which stomach acid repeatedly flows back into the food pipe (esophagus), irritating its lining. It happens when the lower esophageal sphincter - the ring of muscle that normally keeps stomach contents from moving upward - weakens or relaxes at the wrong time. GERD is different from occasional heartburn: it's generally diagnosed when acid reflux occurs more than twice a week, or when it starts to damage the esophageal lining. At Jeewan Jyoti, Dr."
     }
    ],
    "id": "what-is-gerd",

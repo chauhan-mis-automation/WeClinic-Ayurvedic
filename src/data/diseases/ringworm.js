@@ -577,7 +577,7 @@ export default {
     }
    ],
    "note": {
-    "en": "Important: Never apply steroid creams or unlabelled \"all-in-one\" skin creams to a ring-shaped rash. If you have already used them and the rash has spread, tell your doctor - Dr. Sonali Verma and the team at Jeewan Jyoti in Kanpur regularly manage steroid-modified, hard-to-treat ringworm and will factor this history into your case."
+    "en": "Important: Never apply steroid creams or unlabelled \"all-in-one\" skin creams to a ring-shaped rash. If you have already used them and the rash has spread, tell your doctor - Dr. Sonali Verma and the team at Jeewan Jyoti regularly manage steroid-modified, hard-to-treat ringworm and will factor this history into your case."
    }
   },
   {

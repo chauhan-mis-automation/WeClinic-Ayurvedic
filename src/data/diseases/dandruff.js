@@ -664,7 +664,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "These signs do not always mean something serious, but they need a proper scalp examination so the correct condition is treated. Book a free consultation with Jeewan Jyoti, Kanpur if any of these apply to you."
+     "en": "These signs do not always mean something serious, but they need a proper scalp examination so the correct condition is treated. Book a free consultation with Jeewan Jyoti if any of these apply to you."
     }
    ]
   },

@@ -175,7 +175,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "The most common presentations we see at Jeewan Jyoti in Kanpur, under the care of Dr. Dheeraj Sharma, are:"
+    "en": "The most common presentations we see at Jeewan Jyoti, under the care of Dr. Dheeraj Sharma, are:"
    }
   },
   {

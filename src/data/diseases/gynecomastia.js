@@ -185,7 +185,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "It is important to distinguish true gynecomastia from simple chest fat, and to identify which type you have, since this determines the right course of action. The presentations we commonly see at Jeewan Jyoti in Kanpur include -"
+    "en": "It is important to distinguish true gynecomastia from simple chest fat, and to identify which type you have, since this determines the right course of action. The presentations we commonly see at Jeewan Jyoti include -"
    }
   },
   {

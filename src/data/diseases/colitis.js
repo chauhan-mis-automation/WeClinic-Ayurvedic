@@ -176,7 +176,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "Colitis isn't one single disease - the term covers several distinct conditions with very different causes and outlooks. The types we most commonly see at Jeewan Jyoti in Kanpur are:"
+    "en": "Colitis isn't one single disease - the term covers several distinct conditions with very different causes and outlooks. The types we most commonly see at Jeewan Jyoti are:"
    }
   },
   {

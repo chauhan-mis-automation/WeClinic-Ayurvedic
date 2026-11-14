@@ -798,7 +798,7 @@ export default {
       "en": "In person"
      },
      "t": {
-      "en": "for examination or if you need a surgical opinion, our Kanpur clinic sees fistula cases directly."
+      "en": "for examination or if you need a surgical opinion, our clinic sees fistula cases directly."
      }
     }
    ],

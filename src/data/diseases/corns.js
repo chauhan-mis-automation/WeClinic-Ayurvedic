@@ -526,7 +526,7 @@ export default {
    "type": "text",
    "paras": [
     {
-     "en": "If you are unsure whether you have a corn or a wart, it is best to have it examined rather than guessing, as our doctors at Jeewan Jyoti in Kanpur can confirm the diagnosis and direct you to the right line of treatment."
+     "en": "If you are unsure whether you have a corn or a wart, it is best to have it examined rather than guessing, as our doctors at Jeewan Jyoti can confirm the diagnosis and direct you to the right line of treatment."
     }
    ]
   },

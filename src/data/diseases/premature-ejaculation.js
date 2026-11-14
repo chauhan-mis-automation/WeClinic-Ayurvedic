@@ -628,7 +628,7 @@ export default {
     "en": "Do I need to visit the clinic in person for treatment?"
    },
    "a": {
-    "en": "No. Given the sensitive nature of this condition, most patients prefer a confidential online consultation, and our doctors are able to take a complete case history and prescribe treatment remotely, with medicines couriered directly to your home. In-clinic appointments in Kanpur are also available if you prefer to consult in person."
+    "en": "No. Given the sensitive nature of this condition, most patients prefer a confidential online consultation, and our doctors are able to take a complete case history and prescribe treatment remotely, with medicines couriered directly to your home. In-clinic appointments are also available if you prefer to consult in person."
    }
   },
   {

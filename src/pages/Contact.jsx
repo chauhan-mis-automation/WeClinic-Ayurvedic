@@ -8,7 +8,7 @@ import LeadForm from '../components/LeadForm'
 
 export default function Contact() {
   const { t } = useLang()
-  useEffect(() => { document.title = 'Contact Jeewan Jyoti Ayurvedic Sansthan — Kanpur & Noida Clinics' }, [])
+  useEffect(() => { document.title = 'Contact Jeewan Jyoti Ayurvedic Sansthan' }, [])
 
   return (
     <div>

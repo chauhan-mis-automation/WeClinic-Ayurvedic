@@ -160,7 +160,7 @@ export default {
     }
    ],
    "intro": {
-    "en": "IBS is generally grouped into subtypes based on the predominant stool pattern, which helps guide diagnosis and management. The main subtypes we see at Jeewan Jyoti in Kanpur are:"
+    "en": "IBS is generally grouped into subtypes based on the predominant stool pattern, which helps guide diagnosis and management. The main subtypes we see at Jeewan Jyoti are:"
    }
   },
   {

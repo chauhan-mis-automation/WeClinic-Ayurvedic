@@ -336,7 +336,7 @@ export default function DiseasePage({ d }) {
       entries.forEach((e) => { if (e.isIntersecting) setActive(e.target.id) })
     }, { rootMargin: '-30% 0px -60% 0px' })
     els.forEach((el) => io.observe(el))
-    return () => { io.disconnect(); document.title = 'Jeewan Jyoti Ayurvedic Sansthan | Trusted Ayurvedic Clinic — Kanpur & Noida' }
+    return () => { io.disconnect(); document.title = 'Jeewan Jyoti Ayurvedic Sansthan | Trusted Ayurvedic Clinic' }
   }, [d, t]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const related = (d.related || []).map((s) => ALL_CONDITIONS.find((c) => c.slug === s)).filter(Boolean)

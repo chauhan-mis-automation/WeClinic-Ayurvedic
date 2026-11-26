@@ -756,7 +756,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Pubertal Gynecomastia"
     },
@@ -765,7 +765,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Adult-Onset Gynecomastia"
     },
@@ -774,7 +774,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Obesity-Related (Pseudogynecomastia)"
     },
@@ -783,7 +783,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Medication-Induced Gynecomastia"
     },

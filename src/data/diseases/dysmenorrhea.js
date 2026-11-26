@@ -662,7 +662,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Primary Dysmenorrhea"
     },
@@ -671,7 +671,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Secondary Dysmenorrhea"
     },
@@ -680,7 +680,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Cramping & Lower Abdominal Pain"
     },
@@ -689,7 +689,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "PMS-Related Pain"
     },
@@ -698,7 +698,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Endometriosis-Related Pain"
     },

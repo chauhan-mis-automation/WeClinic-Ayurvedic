@@ -24,7 +24,7 @@ export default function Management() {
 
       <section className="section" style={{ paddingTop: 50 }}>
         <div className="container">
-          <Reveal className="wide-photo"><SmartImg src={M.teamImage} alt="Jeewan Jyoti leadership team" emoji="👥" /></Reveal>
+          <Reveal className="wide-photo"><SmartImg src={M.teamImage} alt="Jeewan Jyoti leadership team" emoji="" /></Reveal>
           <p className="caption center-text">{t(M.teamCaption)}</p>
 
           <Reveal className="section-head center" style={{ marginTop: 70 }}>

@@ -764,7 +764,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Perimenopause"
     },
@@ -773,7 +773,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Hot Flashes & Night Sweats"
     },
@@ -782,7 +782,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Mood & Sleep Changes"
     },
@@ -791,7 +791,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Vaginal Dryness"
     },
@@ -800,7 +800,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Irregular Periods (Perimenopausal)"
     },
@@ -809,7 +809,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Early / Premature Menopause"
     },

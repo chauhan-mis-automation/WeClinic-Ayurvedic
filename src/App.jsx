@@ -11,6 +11,11 @@ import MediaPage from './pages/MediaPage'
 import PilesLanding from './pages/PilesLanding'
 import Reviews from './pages/Reviews'
 import PolicyPage from './pages/PolicyPage'
+import { LANDING_SUBDOMAINS } from './config'
+
+// piles.divyajeewan.com jaise subdomain par home ki jagah landing page khulega
+const SUB = typeof window !== 'undefined' ? window.location.hostname.split('.')[0].toLowerCase() : ''
+const IS_LANDING_HOST = LANDING_SUBDOMAINS.includes(SUB)
 
 // Jo pages abhi bane nahi — content aane par inki jagah asli page aayega
 const SOON = [
@@ -28,7 +33,7 @@ export default function App() {
         <AppointmentProvider>
           <Routes>
             <Route element={<Layout />}>
-              <Route index element={<Home />} />
+              <Route index element={IS_LANDING_HOST ? <PilesLanding /> : <Home />} />
               <Route path="diseases" element={<DiseasesPage />} />
               <Route path="disease/:slug" element={<DiseaseDetail />} />
               <Route path="about" element={<About />} />

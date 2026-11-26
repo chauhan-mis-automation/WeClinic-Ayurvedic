@@ -947,7 +947,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Pelvic Pain"
     },
@@ -956,7 +956,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Painful Periods"
     },
@@ -965,7 +965,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Painful Intercourse"
     },
@@ -974,7 +974,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Endometriosis-Related Infertility"
     },
@@ -983,7 +983,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Ovarian Endometrioma"
     },

@@ -688,7 +688,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Emotional PMS Symptoms"
     },
@@ -697,7 +697,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Physical PMS Symptoms"
     },
@@ -706,7 +706,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "PMS-Related Headaches"
     },
@@ -715,7 +715,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Bloating & Breast Tenderness"
     },
@@ -724,7 +724,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Severe PMS (PMDD)"
     },

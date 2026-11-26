@@ -1003,7 +1003,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Simple Fistula"
     },
@@ -1012,7 +1012,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Complex Fistula"
     },
@@ -1021,7 +1021,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Recurrent Fistula"
     },
@@ -1030,7 +1030,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Post-Surgical Care & Recovery"
     },

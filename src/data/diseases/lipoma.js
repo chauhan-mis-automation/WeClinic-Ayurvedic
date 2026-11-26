@@ -708,7 +708,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Single Lipoma"
     },
@@ -717,7 +717,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Multiple Lipomas (Lipomatosis)"
     },
@@ -726,7 +726,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Angiolipoma"
     },
@@ -735,7 +735,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Neck & Shoulder Lipoma"
     },
@@ -744,7 +744,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Back & Arm Lipoma"
     },

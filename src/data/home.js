@@ -17,10 +17,10 @@ export const HERO = {
 }
 
 export const TRUST = [
-  { icon: '🌿', label: { en: 'Natural & Gentle Care', hi: 'प्राकृतिक और सौम्य देखभाल' } },
-  { icon: '🚚', label: { en: 'Medicine Delivered Pan-India', hi: 'पूरे भारत में दवा डिलीवरी' } },
-  { icon: '🩺', label: { en: 'In-Person & Online', hi: 'क्लिनिक और ऑनलाइन' } },
-  { icon: '⭐', label: { en: '4.6★ from 6,133 Google reviews', hi: '6,133 गूगल रिव्यू में 4.6★' }, to: '/reviews' },
+  { icon: '', label: { en: 'Natural & Gentle Care', hi: 'प्राकृतिक और सौम्य देखभाल' } },
+  { icon: '', label: { en: 'Medicine Delivered Pan-India', hi: 'पूरे भारत में दवा डिलीवरी' } },
+  { icon: '', label: { en: 'In-Person & Online', hi: 'क्लिनिक और ऑनलाइन' } },
+  { icon: '', label: { en: '4.6★ from 6,133 Google reviews', hi: '6,133 गूगल रिव्यू में 4.6★' }, to: '/reviews' },
 ]
 
 export const WELCOME = {
@@ -96,7 +96,7 @@ export const BUILT = {
   },
   cards: [
     {
-      img: '/images/why/why-1.webp', emoji: '👩‍⚕️', badgeIcon: '👥',
+      img: '/images/why/why-1.webp', emoji: '', badgeIcon: '',
       badge: { en: '20+ Specialist Doctors', hi: '20+ विशेषज्ञ डॉक्टर' },
       title: { en: 'Qualified & Experienced Doctors', hi: 'योग्य और अनुभवी डॉक्टर' },
       text: {
@@ -110,7 +110,7 @@ export const BUILT = {
       ],
     },
     {
-      img: '/images/why/why-2.webp', emoji: '🌿', badgeIcon: '⭐',
+      img: '/images/why/why-2.webp', emoji: '', badgeIcon: '',
       badge: { en: '98% Patient Satisfaction', hi: '98% मरीज़ संतुष्ट' },
       title: { en: 'Personalised Ayurvedic Care', hi: 'व्यक्तिगत आयुर्वेदिक देखभाल' },
       text: {
@@ -124,7 +124,7 @@ export const BUILT = {
       ],
     },
     {
-      img: '/images/why/why-3.webp', emoji: '🏥', badgeIcon: '🚚',
+      img: '/images/why/why-3.webp', emoji: '', badgeIcon: '',
       badge: { en: 'Pan-India Delivery', hi: 'पूरे भारत में डिलीवरी' },
       title: { en: 'Physical & Online Consultation', hi: 'क्लिनिक और ऑनलाइन परामर्श' },
       text: {

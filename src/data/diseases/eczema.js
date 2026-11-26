@@ -23,12 +23,12 @@ export default {
     title: b('Types of Eczema & Skin Conditions We Treat', 'एक्ज़िमा के प्रकार जिनका हम उपचार करते हैं'),
     sub: b('From everyday dry, itchy patches to chronic, allergy-linked flare-ups, our doctors design a treatment plan for every stage.', 'रोज़ के सूखे, खुजली वाले चकत्तों से लेकर पुराने, एलर्जी से जुड़े उभार तक — हर स्टेज के लिए हमारे डॉक्टर प्लान बनाते हैं।'),
     items: [
-      { icon: '🧴', name: b('Atopic Dermatitis', 'एटोपिक डर्मेटाइटिस'), desc: b('The most common, chronic form of eczema', 'एक्ज़िमा का सबसे आम, पुराना रूप') },
-      { icon: '🧼', name: b('Contact Dermatitis', 'कॉन्टैक्ट डर्मेटाइटिस'), desc: b('Reaction to an irritant or allergen', 'किसी जलन वाली चीज़ या एलर्जन से प्रतिक्रिया') },
-      { icon: '✋', name: b('Dyshidrotic Eczema', 'डिसहाइड्रोटिक एक्ज़िमा'), desc: b('Itchy blisters on hands & feet', 'हाथ-पैर पर खुजली वाले छाले') },
-      { icon: '🪙', name: b('Nummular Eczema', 'न्यूमुलर एक्ज़िमा'), desc: b('Coin-shaped, itchy skin patches', 'सिक्के जैसे गोल, खुजली वाले चकत्ते') },
-      { icon: '💆', name: b('Seborrheic Dermatitis', 'सेबोरिक डर्मेटाइटिस'), desc: b('Scaly patches on scalp, face & chest', 'सिर, चेहरे और छाती पर पपड़ीदार चकत्ते') },
-      { icon: '👶', name: b('Childhood Eczema', 'बच्चों का एक्ज़िमा'), desc: b('Gentle, age-appropriate care for kids', 'बच्चों के लिए उम्र के अनुसार सौम्य देखभाल') },
+      { icon: '', name: b('Atopic Dermatitis', 'एटोपिक डर्मेटाइटिस'), desc: b('The most common, chronic form of eczema', 'एक्ज़िमा का सबसे आम, पुराना रूप') },
+      { icon: '', name: b('Contact Dermatitis', 'कॉन्टैक्ट डर्मेटाइटिस'), desc: b('Reaction to an irritant or allergen', 'किसी जलन वाली चीज़ या एलर्जन से प्रतिक्रिया') },
+      { icon: '', name: b('Dyshidrotic Eczema', 'डिसहाइड्रोटिक एक्ज़िमा'), desc: b('Itchy blisters on hands & feet', 'हाथ-पैर पर खुजली वाले छाले') },
+      { icon: '', name: b('Nummular Eczema', 'न्यूमुलर एक्ज़िमा'), desc: b('Coin-shaped, itchy skin patches', 'सिक्के जैसे गोल, खुजली वाले चकत्ते') },
+      { icon: '', name: b('Seborrheic Dermatitis', 'सेबोरिक डर्मेटाइटिस'), desc: b('Scaly patches on scalp, face & chest', 'सिर, चेहरे और छाती पर पपड़ीदार चकत्ते') },
+      { icon: '', name: b('Childhood Eczema', 'बच्चों का एक्ज़िमा'), desc: b('Gentle, age-appropriate care for kids', 'बच्चों के लिए उम्र के अनुसार सौम्य देखभाल') },
     ],
   },
 

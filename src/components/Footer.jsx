@@ -22,10 +22,10 @@ export default function Footer() {
           <Logo light />
           <p>{t(FOOTER.about)}</p>
           <ul className="footer-contact">
-            <li>📍 {t(SITE.cities)}</li>
-            <li>🕘 {t(SITE.hours)}</li>
-            <li>📞 <a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
-            <li>✉️ <a href={`mailto:${SITE.email}`}>{SITE.email}</a></li>
+            <li>{t(SITE.cities)}</li>
+            <li>{t(SITE.hours)}</li>
+            <li><a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
+            <li><a href={`mailto:${SITE.email}`}>{SITE.email}</a></li>
           </ul>
         </div>
         {FOOTER.cols.map((col) => (

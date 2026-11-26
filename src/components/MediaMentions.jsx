@@ -16,7 +16,7 @@ export default function MediaMentions({ limit }) {
         <div className="media-grid">
           {items.map((m, i) => (
             <Reveal key={m.name} className="media-card" delay={(i % 4) * 70}>
-              <span className="media-icon" aria-hidden="true">📰</span>
+              <span className="media-icon" aria-hidden="true"></span>
               <h3>{m.name}</h3>
               <p>{t(m.text)}</p>
               <a href={m.url} target="_blank" rel="noopener noreferrer" className="link-arrow">{t(MEDIA_HEAD.read)} ↗</a>

@@ -816,7 +816,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Occasional Heartburn"
     },
@@ -825,7 +825,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Chronic GERD"
     },
@@ -834,7 +834,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Hiatal Hernia-Related Reflux"
     },
@@ -843,7 +843,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Pregnancy-Related Reflux"
     },
@@ -852,7 +852,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Night-Time Reflux"
     },

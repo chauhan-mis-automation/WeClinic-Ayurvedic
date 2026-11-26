@@ -853,7 +853,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Athlete's Foot"
     },
@@ -862,7 +862,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Jock Itch"
     },
@@ -871,7 +871,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Candidiasis"
     },
@@ -880,7 +880,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Tinea Versicolor"
     },
@@ -889,7 +889,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Nail Fungus"
     },
@@ -898,7 +898,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Recurring Fungal Infections"
     },

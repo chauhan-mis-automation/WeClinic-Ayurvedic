@@ -907,7 +907,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Psychological ED"
     },
@@ -916,7 +916,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Physical / Vascular ED"
     },
@@ -925,7 +925,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Diabetes-Related ED"
     },
@@ -934,7 +934,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Age-Related ED"
     },
@@ -943,7 +943,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Occasional / Situational ED"
     },

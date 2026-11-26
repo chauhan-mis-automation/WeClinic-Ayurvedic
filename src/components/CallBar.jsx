@@ -15,11 +15,11 @@ export default function CallBar() {
   const [imgOk, setImgOk] = useState(true)
   return (
     <div className="call-bar">
-      <div className="call-bar-doc">
-        {imgOk
-          ? <img src="/images/call-doctor.png" alt="" onError={() => setImgOk(false)} />
-          : <div className="doc-fallback" aria-hidden="true">👩‍⚕️</div>}
-      </div>
+      {imgOk && (
+        <div className="call-bar-doc">
+          <img src="/images/call-doctor.png" alt="" onError={() => setImgOk(false)} />
+        </div>
+      )}
       <div className="call-bar-center">
         <a className="call-pill" href={`tel:${SITE.phone}`}>
           <span className="call-pill-icon"><PhoneIcon /></span>

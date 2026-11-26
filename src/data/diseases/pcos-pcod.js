@@ -789,7 +789,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Irregular/Missed Periods"
     },
@@ -798,7 +798,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Ovarian Cysts"
     },
@@ -807,7 +807,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Hormonal Acne & Hair Growth"
     },
@@ -816,7 +816,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Weight Gain & Insulin Resistance"
     },
@@ -825,7 +825,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "PCOS-Related Infertility"
     },
@@ -834,7 +834,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Hair Thinning"
     },

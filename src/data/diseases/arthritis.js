@@ -951,7 +951,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Osteoarthritis"
     },
@@ -960,7 +960,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Rheumatoid Arthritis"
     },
@@ -969,7 +969,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Gout / High Uric Acid"
     },
@@ -978,7 +978,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Psoriatic Arthritis"
     },
@@ -987,7 +987,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Cervical & Spinal Arthritis"
     },
@@ -996,7 +996,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Knee & Joint Pain"
     },
@@ -1005,7 +1005,7 @@ export default {
     }
    },
    {
-    "icon": "🧬",
+    "icon": "",
     "name": {
      "en": "Frozen Shoulder & Hip"
     },
@@ -1014,7 +1014,7 @@ export default {
     }
    },
    {
-    "icon": "🔁",
+    "icon": "",
     "name": {
      "en": "Juvenile Arthritis"
     },

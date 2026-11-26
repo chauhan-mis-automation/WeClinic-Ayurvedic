@@ -749,7 +749,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Localized Granuloma Annulare"
     },
@@ -758,7 +758,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Generalized Granuloma Annulare"
     },
@@ -767,7 +767,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Subcutaneous Granuloma Annulare"
     },
@@ -776,7 +776,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Perforating Granuloma Annulare"
     },

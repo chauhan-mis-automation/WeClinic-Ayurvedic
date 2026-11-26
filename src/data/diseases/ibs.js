@@ -796,7 +796,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "IBS-C (Constipation-Predominant)"
     },
@@ -805,7 +805,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "IBS-D (Diarrhea-Predominant)"
     },
@@ -814,7 +814,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "IBS-M (Mixed)"
     },
@@ -823,7 +823,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Stress-Triggered IBS"
     },
@@ -832,7 +832,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Post-Infectious IBS"
     },

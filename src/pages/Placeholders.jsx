@@ -87,7 +87,7 @@ export function ComingSoon({ title }) {
       <section className="section">
         <div className="container split">
           <Reveal className="soon-card">
-            <span className="soon-emoji">🌿</span>
+            <span className="soon-emoji"></span>
             <h2 className="h3">{t({ en: 'This page is being prepared', hi: 'यह पेज तैयार हो रहा है' })}</h2>
             <p className="body">{t({ en: 'Meanwhile, book a free consultation and our expert will call you back.', hi: 'तब तक फ्री परामर्श बुक करें, हमारे विशेषज्ञ आपको कॉल करेंगे।' })}</p>
             <Link to="/" className="link-arrow">← {t({ en: 'Back to Home', hi: 'होम पर जाएं' })}</Link>

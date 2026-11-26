@@ -726,7 +726,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Centrofacial Melasma"
     },
@@ -735,7 +735,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Malar (Cheek) Melasma"
     },
@@ -744,7 +744,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Mandibular Melasma"
     },
@@ -753,7 +753,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Pregnancy-Related Melasma"
     },
@@ -762,7 +762,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Hormonal Melasma"
     },

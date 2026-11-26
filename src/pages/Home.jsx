@@ -19,7 +19,7 @@ function Hero() {
     <section className="hero">
       <div className="hero-bg" aria-hidden="true">
         <span className="blob b1" /><span className="blob b2" /><span className="blob b3" />
-        <span className="leaf l1">🌿</span><span className="leaf l2">🍃</span><span className="leaf l3">🌱</span>
+        <span className="leaf l1"></span><span className="leaf l2"></span><span className="leaf l3"></span>
       </div>
       <div className="container hero-grid">
         <div className="hero-copy">
@@ -71,13 +71,7 @@ function TrustStrip() {
 function ClinicPhoto() {
   const [ok, setOk] = useState(true)
   if (ok) return <img src="/images/clinic.webp" alt="Jeewan Jyoti clinic" onError={() => setOk(false)} loading="lazy" />
-  return (
-    <div className="clinic-fallback">
-      <span className="cf-emoji">🏥</span>
-      <b>Jeewan Jyoti Ayurvedic Sansthan</b>
-      <small>स्वस्थ जीवन, हमारा संकल्प</small>
-    </div>
-  )
+  return null
 }
 
 function Welcome() {

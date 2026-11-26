@@ -771,7 +771,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Anxiety-Related Discharge"
     },
@@ -780,7 +780,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Nocturnal Discharge"
     },
@@ -789,7 +789,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Prostatitis-Related Discharge"
     },
@@ -798,7 +798,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Stress-Induced Symptoms"
     },

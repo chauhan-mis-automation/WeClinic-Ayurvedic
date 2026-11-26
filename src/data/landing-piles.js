@@ -37,14 +37,14 @@ export const LP = {
   treat: {
     title: b('What do we treat?', 'हम किन रोगों का उपचार करते हैं?'),
     items: [
-      { img: '/images/piles/treat-piles.webp', icon: '🌵', name: b('Piles (Bleeding & Non-Bleeding)', 'Piles (खूनी एवं बादी बवासीर)'), text: b('Lumps at the anus, swelling around the anus, bleeding with stool', 'मल द्वार पर मस्से होना, मल द्वार पर सूजन आना, मल के साथ खून आना'), slug: 'piles' },
-      { img: '/images/piles/treat-fistula.webp', icon: '🌵', name: b('Fistula', 'Fistula (भगन्दर)'), text: b('Pus / discharge / blood with stool, pain and burning while passing stool, swelling at the anus', 'मल के साथ पस / मवाद / रक्त का आना, मल त्याग के समय दर्द एवं जलन का होना, मल द्वार पर सूजन आना'), slug: 'fistula' },
-      { img: '/images/piles/treat-fissure.webp', icon: '🪴', name: b('Fissure', 'Fissure (फिशर)'), text: b('A cut at the anus with burning / itching', 'मल द्वार पर कट लग जाना एवं जलन / खुजली का होना'), slug: 'fissure' },
-      { img: '/images/piles/treat-constipation.webp', icon: '🫖', name: b('Constipation', 'Constipation (कब्ज)'), text: b('Stomach not clearing properly, sour burps, frequent urge to pass stool', 'पेट का साफ़ नहीं होना, खट्टी डकार आना, बार बार शौच जाने की इच्छा'), slug: 'constipation' },
-      { img: '/images/piles/treat-colitis.webp', icon: '🌿', name: b('Colitis', 'Colitis (कोलाइटिस)'), text: b('Swelling in the large intestine, sticky mucus with stool', 'बड़ी आंत में सूजन, मल के साथ चिपचिपा निकलना'), slug: 'colitis' },
-      { img: '/images/piles/treat-warts.webp', icon: '🔴', name: b('Warts (Anal Warts)', 'Warts (बवासीर मस्से)'), text: b('Warts at the anus', 'गुदाद्वार पर मस्से होना') },
-      { img: '/images/piles/treat-cut.webp', icon: '🩸', name: b('Anal Cut', 'Anal Cut (कट लगना)'), text: b('A cut at or beside the anus', 'गुदाद्वार या उसके बगल में कट लगा होना') },
-      { img: '/images/piles/treat-pus.webp', icon: '🟠', name: b('Anal Pus', 'Anal Pus (पस आना)'), text: b('Pus coming from the anus or the area beside it', 'गुदाद्वार या उसके बगल से पस निकलना') },
+      { img: '/images/piles/treat-piles.webp', icon: '', name: b('Piles (Bleeding & Non-Bleeding)', 'Piles (खूनी एवं बादी बवासीर)'), text: b('Lumps at the anus, swelling around the anus, bleeding with stool', 'मल द्वार पर मस्से होना, मल द्वार पर सूजन आना, मल के साथ खून आना'), slug: 'piles' },
+      { img: '/images/piles/treat-fistula.webp', icon: '', name: b('Fistula', 'Fistula (भगन्दर)'), text: b('Pus / discharge / blood with stool, pain and burning while passing stool, swelling at the anus', 'मल के साथ पस / मवाद / रक्त का आना, मल त्याग के समय दर्द एवं जलन का होना, मल द्वार पर सूजन आना'), slug: 'fistula' },
+      { img: '/images/piles/treat-fissure.webp', icon: '', name: b('Fissure', 'Fissure (फिशर)'), text: b('A cut at the anus with burning / itching', 'मल द्वार पर कट लग जाना एवं जलन / खुजली का होना'), slug: 'fissure' },
+      { img: '/images/piles/treat-constipation.webp', icon: '', name: b('Constipation', 'Constipation (कब्ज)'), text: b('Stomach not clearing properly, sour burps, frequent urge to pass stool', 'पेट का साफ़ नहीं होना, खट्टी डकार आना, बार बार शौच जाने की इच्छा'), slug: 'constipation' },
+      { img: '/images/piles/treat-colitis.webp', icon: '', name: b('Colitis', 'Colitis (कोलाइटिस)'), text: b('Swelling in the large intestine, sticky mucus with stool', 'बड़ी आंत में सूजन, मल के साथ चिपचिपा निकलना'), slug: 'colitis' },
+      { img: '/images/piles/treat-warts.webp', icon: '', name: b('Warts (Anal Warts)', 'Warts (बवासीर मस्से)'), text: b('Warts at the anus', 'गुदाद्वार पर मस्से होना') },
+      { img: '/images/piles/treat-cut.webp', icon: '', name: b('Anal Cut', 'Anal Cut (कट लगना)'), text: b('A cut at or beside the anus', 'गुदाद्वार या उसके बगल में कट लगा होना') },
+      { img: '/images/piles/treat-pus.webp', icon: '', name: b('Anal Pus', 'Anal Pus (पस आना)'), text: b('Pus coming from the anus or the area beside it', 'गुदाद्वार या उसके बगल से पस निकलना') },
     ],
     online: b('Our specialists are online... Call now...', 'हमारे विशेषज्ञ ऑनलाइन हैं ... अभी कॉल करें...'),
   },
@@ -64,10 +64,10 @@ export const LP = {
   why: {
     title: b('Why choose Jeewan Jyoti for treatment?', 'उपचार के लिए जीवन ज्योति क्यों चुनें?'),
     items: [
-      { icon: '🛡️', name: b('Completely Confidential', 'पूर्ण रूप से गुप्त'), text: b('We never share your personal information with any third party.', 'आपकी निजी जानकारी कभी किसी को नहीं दी जाती।') },
-      { icon: '📦', name: b('Home Delivery', 'घर तक डिलीवरी'), text: b('Medicines delivered in a discreet, secure box.', 'दवा सादे, सुरक्षित पैकेट में घर तक।') },
-      { icon: '📋', name: b('Complete Care Plan', 'सम्पूर्ण उपचार प्लान'), text: b('Medicine, diet chart and regular follow-up together.', 'दवा, डाइट चार्ट और नियमित फॉलो-अप एक साथ।') },
-      { icon: '💬', name: b('Online & Clinic Consultation', 'ऑनलाइन एवं क्लिनिक परामर्श'), text: b('Consult our doctors online or visit our clinic during treatment.', 'उपचार के दौरान ऑनलाइन परामर्श लें या क्लिनिक आएं।') },
+      { icon: '', name: b('Completely Confidential', 'पूर्ण रूप से गुप्त'), text: b('We never share your personal information with any third party.', 'आपकी निजी जानकारी कभी किसी को नहीं दी जाती।') },
+      { icon: '', name: b('Home Delivery', 'घर तक डिलीवरी'), text: b('Medicines delivered in a discreet, secure box.', 'दवा सादे, सुरक्षित पैकेट में घर तक।') },
+      { icon: '', name: b('Complete Care Plan', 'सम्पूर्ण उपचार प्लान'), text: b('Medicine, diet chart and regular follow-up together.', 'दवा, डाइट चार्ट और नियमित फॉलो-अप एक साथ।') },
+      { icon: '', name: b('Online & Clinic Consultation', 'ऑनलाइन एवं क्लिनिक परामर्श'), text: b('Consult our doctors online or visit our clinic during treatment.', 'उपचार के दौरान ऑनलाइन परामर्श लें या क्लिनिक आएं।') },
     ],
   },
   kits: {

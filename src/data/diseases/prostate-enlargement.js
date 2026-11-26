@@ -903,7 +903,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Mild BPH"
     },
@@ -912,7 +912,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Moderate BPH"
     },
@@ -921,7 +921,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Nighttime Urination (Nocturia)"
     },
@@ -930,7 +930,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Weak Urine Flow"
     },
@@ -939,7 +939,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Age-Related Prostate Enlargement"
     },

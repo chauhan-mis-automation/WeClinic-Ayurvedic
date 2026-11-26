@@ -815,7 +815,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Widespread Musculoskeletal Pain"
     },
@@ -824,7 +824,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Chronic Fatigue"
     },
@@ -833,7 +833,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Sleep Disturbance"
     },
@@ -842,7 +842,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Cognitive Difficulties (Fibro Fog)"
     },
@@ -851,7 +851,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Mood-Related Symptoms"
     },

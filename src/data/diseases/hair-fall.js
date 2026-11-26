@@ -24,12 +24,12 @@ export default {
     title: b('Types of Hair Fall We Treat', 'बाल झड़ने के प्रकार जिनका हम उपचार करते हैं'),
     sub: b('From temporary, stress-related shedding to long-standing pattern thinning, our doctors design a treatment plan for every cause.', 'तनाव से अस्थायी झड़ने से लेकर पुराने पैटर्न हेयर लॉस तक — हर कारण के लिए हमारे डॉक्टर प्लान बनाते हैं।'),
     items: [
-      { icon: '🧬', name: b('Androgenetic Alopecia', 'एंड्रोजेनेटिक एलोपेसिया'), desc: b('Genetic, hormone-driven pattern baldness', 'जेनेटिक, हार्मोन से जुड़ा पैटर्न गंजापन') },
-      { icon: '😟', name: b('Telogen Effluvium', 'टेलोजन एफ्लुवियम'), desc: b('Temporary shedding after stress or illness', 'तनाव या बीमारी के बाद अस्थायी झड़ना') },
-      { icon: '🤱', name: b('Postpartum Hair Loss', 'डिलीवरी के बाद बाल झड़ना'), desc: b('Hormonal shedding after childbirth', 'प्रसव के बाद हार्मोनल झड़ना') },
-      { icon: '🎀', name: b('Traction Alopecia', 'ट्रैक्शन एलोपेसिया'), desc: b('Loss from tight hairstyles or pulling', 'टाइट हेयरस्टाइल या खिंचाव से झड़ना') },
-      { icon: '❄️', name: b('Dandruff-Related Hair Fall', 'रूसी से बाल झड़ना'), desc: b('Shedding with an itchy, flaky scalp', 'खुजली, पपड़ी वाले सिर के साथ झड़ना') },
-      { icon: '🥗', name: b('Nutritional Hair Fall', 'पोषण की कमी से बाल झड़ना'), desc: b('Thinning from low iron, protein or vitamins', 'आयरन, प्रोटीन या विटामिन की कमी से') },
+      { icon: '', name: b('Androgenetic Alopecia', 'एंड्रोजेनेटिक एलोपेसिया'), desc: b('Genetic, hormone-driven pattern baldness', 'जेनेटिक, हार्मोन से जुड़ा पैटर्न गंजापन') },
+      { icon: '', name: b('Telogen Effluvium', 'टेलोजन एफ्लुवियम'), desc: b('Temporary shedding after stress or illness', 'तनाव या बीमारी के बाद अस्थायी झड़ना') },
+      { icon: '', name: b('Postpartum Hair Loss', 'डिलीवरी के बाद बाल झड़ना'), desc: b('Hormonal shedding after childbirth', 'प्रसव के बाद हार्मोनल झड़ना') },
+      { icon: '', name: b('Traction Alopecia', 'ट्रैक्शन एलोपेसिया'), desc: b('Loss from tight hairstyles or pulling', 'टाइट हेयरस्टाइल या खिंचाव से झड़ना') },
+      { icon: '', name: b('Dandruff-Related Hair Fall', 'रूसी से बाल झड़ना'), desc: b('Shedding with an itchy, flaky scalp', 'खुजली, पपड़ी वाले सिर के साथ झड़ना') },
+      { icon: '', name: b('Nutritional Hair Fall', 'पोषण की कमी से बाल झड़ना'), desc: b('Thinning from low iron, protein or vitamins', 'आयरन, प्रोटीन या विटामिन की कमी से') },
     ],
   },
 

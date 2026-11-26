@@ -767,7 +767,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Grade 1 Fatty Liver"
     },
@@ -776,7 +776,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Grade 2 Fatty Liver"
     },
@@ -785,7 +785,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Grade 3 Fatty Liver"
     },
@@ -794,7 +794,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "NAFLD"
     },
@@ -803,7 +803,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Alcohol-Related Fatty Liver"
     },

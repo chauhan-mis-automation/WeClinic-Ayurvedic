@@ -737,7 +737,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Delayed / Infrequent Periods"
     },
@@ -746,7 +746,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Absent Periods"
     },
@@ -755,7 +755,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Heavy Periods"
     },
@@ -764,7 +764,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Frequent Periods"
     },
@@ -773,7 +773,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Stress-Related Irregularity"
     },

@@ -24,12 +24,12 @@ export default {
     title: b('Piles, Fissure, Fistula & Related Problems', 'बवासीर, फिशर, भगंदर और जुड़ी समस्याएं'),
     sub: b('From bleeding piles to chronic constipation, our doctors design a confidential plan for every stage.', 'खूनी बवासीर से लेकर पुरानी कब्ज़ तक — हर स्टेज के लिए हमारे डॉक्टर गोपनीय प्लान बनाते हैं।'),
     items: [
-      { icon: '🩸', name: b('Bleeding Piles', 'खूनी बवासीर'), desc: b('Painless bright red bleeding with stools', 'मल के साथ बिना दर्द चमकीला लाल खून') },
-      { icon: '🌿', name: b('Non-Bleeding Piles', 'बादी बवासीर'), desc: b('Pain, itching & swollen lumps', 'दर्द, खुजली और सूजे मस्से') },
-      { icon: '✂️', name: b('Fissure', 'फिशर'), desc: b('Sharp pain during & after stools', 'शौच के समय व बाद तेज़ दर्द') },
-      { icon: '🩺', name: b('Fistula', 'भगंदर'), desc: b('Pus or discharge from an opening', 'छेद से मवाद या पानी रिसना') },
-      { icon: '🥗', name: b('Chronic Constipation', 'पुरानी कब्ज़'), desc: b('The most common root trigger', 'सबसे आम मूल कारण') },
-      { icon: '🤰', name: b('Piles in Pregnancy', 'गर्भावस्था में बवासीर'), desc: b('Gentle care under doctor guidance', 'डॉक्टर की देखरेख में सौम्य देखभाल') },
+      { icon: '', name: b('Bleeding Piles', 'खूनी बवासीर'), desc: b('Painless bright red bleeding with stools', 'मल के साथ बिना दर्द चमकीला लाल खून') },
+      { icon: '', name: b('Non-Bleeding Piles', 'बादी बवासीर'), desc: b('Pain, itching & swollen lumps', 'दर्द, खुजली और सूजे मस्से') },
+      { icon: '', name: b('Fissure', 'फिशर'), desc: b('Sharp pain during & after stools', 'शौच के समय व बाद तेज़ दर्द') },
+      { icon: '', name: b('Fistula', 'भगंदर'), desc: b('Pus or discharge from an opening', 'छेद से मवाद या पानी रिसना') },
+      { icon: '', name: b('Chronic Constipation', 'पुरानी कब्ज़'), desc: b('The most common root trigger', 'सबसे आम मूल कारण') },
+      { icon: '', name: b('Piles in Pregnancy', 'गर्भावस्था में बवासीर'), desc: b('Gentle care under doctor guidance', 'डॉक्टर की देखरेख में सौम्य देखभाल') },
     ],
   },
 

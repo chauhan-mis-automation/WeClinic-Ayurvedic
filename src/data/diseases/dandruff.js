@@ -792,7 +792,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Dry Scalp Dandruff"
     },
@@ -801,7 +801,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Oily Scalp Dandruff"
     },
@@ -810,7 +810,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Seborrheic Dermatitis"
     },
@@ -819,7 +819,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Fungal (Malassezia) Dandruff"
     },
@@ -828,7 +828,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Dandruff-Related Hair Fall"
     },
@@ -837,7 +837,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Scalp Psoriasis-Related Flaking"
     },

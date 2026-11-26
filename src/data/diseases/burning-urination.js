@@ -732,7 +732,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Infection-Related Burning"
     },
@@ -741,7 +741,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Irritation-Related Burning"
     },
@@ -750,7 +750,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Prostate-Related Burning (Men)"
     },
@@ -759,7 +759,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Dehydration-Related Symptoms"
     },
@@ -768,7 +768,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Recurrent Burning Urination"
     },

@@ -19,3 +19,8 @@ export const SITE = {
   googleRating: '4.6',
   googleReviews: '6,133',
 }
+
+// Landing page subdomains — is naam ke subdomain par khulte hi seedha landing page dikhega.
+// Jaise: piles.divyajeewan.com  →  Piles/Fistula/Fissure landing page
+// Naya naam chahiye to bas yahan badlo (aur Vercel + GoDaddy mein wahi naam jodo).
+export const LANDING_SUBDOMAINS = ['piles']

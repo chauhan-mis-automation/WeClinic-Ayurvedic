@@ -742,7 +742,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Hormonal Low Libido"
     },
@@ -751,7 +751,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Menopause-Related Low Libido"
     },
@@ -760,7 +760,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Stress-Related Low Libido"
     },
@@ -769,7 +769,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Post-Pregnancy Low Libido"
     },
@@ -778,7 +778,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Age-Related Changes in Desire"
     },

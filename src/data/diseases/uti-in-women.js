@@ -713,7 +713,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Acute UTI / Cystitis"
     },
@@ -722,7 +722,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Recurrent UTI"
     },
@@ -731,7 +731,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Urethritis"
     },
@@ -740,7 +740,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Menopause-Related UTI"
     },
@@ -749,7 +749,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Pregnancy-Related UTI"
     },

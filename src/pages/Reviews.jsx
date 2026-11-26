@@ -77,7 +77,7 @@ export default function Reviews() {
           </div>
 
           <Reveal className="rv-videos">
-            <h2 className="h2">{t({ en: 'Patient Video Stories', hi: 'मरीज़ों की वीडियो कहानियां' })} 🎥</h2>
+            <h2 className="h2">{t({ en: 'Patient Video Stories', hi: 'मरीज़ों की वीडियो कहानियां' })}</h2>
             <p className="body">{t({ en: `${VIDEOS.length} patients describe their own treatment journey on our YouTube channel.`, hi: `${VIDEOS.length} मरीज़ हमारे YouTube चैनल पर अपनी उपचार यात्रा बताते हैं।` })}</p>
             <a href={YOUTUBE_CHANNEL} target="_blank" rel="noopener noreferrer" className="btn btn-primary">▶ {t({ en: 'Watch on YouTube', hi: 'YouTube पर देखें' })}</a>
           </Reveal>

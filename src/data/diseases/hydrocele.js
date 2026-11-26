@@ -734,7 +734,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Congenital Hydrocele"
     },
@@ -743,7 +743,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Communicating Hydrocele"
     },
@@ -752,7 +752,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Non-Communicating Hydrocele"
     },
@@ -761,7 +761,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Adult-Onset Hydrocele"
     },

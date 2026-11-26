@@ -639,7 +639,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Sun Spots (Solar Lentigines)"
     },
@@ -648,7 +648,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Post-Inflammatory Hyperpigmentation"
     },
@@ -657,7 +657,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Age Spots"
     },
@@ -666,7 +666,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Freckles"
     },
@@ -675,7 +675,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Uneven Skin Tone"
     },
@@ -684,7 +684,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Suntan (Tanning)"
     },
@@ -693,7 +693,7 @@ export default {
     }
    },
    {
-    "icon": "🧬",
+    "icon": "",
     "name": {
      "en": "Dark Circles (Periorbital)"
     },

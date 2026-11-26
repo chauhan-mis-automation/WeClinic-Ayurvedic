@@ -1,6 +1,7 @@
 // Videos — files public/videos/ mein hain (MP4 + poster JPG).
 // Nayi video jodni ho: file public/videos/ mein daalo aur yahan ek line jodo.
 // vertical: true = reel/short (9:16) video.
+// youtube: 'VIDEO_ID' = YouTube video (file ki zaroorat nahi). Link youtube.com/shorts/VIDEO_ID se ID lo.
 
 const b = (en, hi) => ({ en, hi })
 
@@ -10,7 +11,9 @@ export const V = {
   constipationTalk: { tag: b('Doctor advice', 'डॉक्टर की सलाह'), desc: b('A conversation with our doctor about constipation and its Ayurvedic treatment.', 'हमारे डॉक्टर से कब्ज और उसके आयुर्वेदिक उपचार पर बातचीत।'), src: '/videos/constipation-doctor-talk.mp4', poster: '/videos/constipation-doctor-talk.jpg', title: b('Doctor on constipation & its care', 'कब्ज और उसकी देखभाल पर डॉक्टर की बात'), duration: '0:52' },
   pilesKillerInterview: { tag: b('Doctor interview', 'डॉक्टर से बातचीत'), desc: b('A conversation with our doctor about Piles Killer syrup & cream.', 'पाइल्स किलर सिरप और क्रीम के बारे में हमारे डॉक्टर से बातचीत।'), src: '/videos/piles-killer-interview.mp4', poster: '/videos/piles-killer-interview.jpg', title: b('Piles Killer Syrup & Cream — doctor interview', 'पाइल्स किलर सिरप और क्रीम — डॉक्टर से बातचीत'), duration: '2:28' },
   pilesKillerExplainer: { tag: b('Know more', 'जानकारी'), desc: b('Piles can affect both men and women. Learn about care at home and the habits that keep bowel movements regular.', 'बवासीर पुरुष और महिला दोनों को हो सकती है। जानें घर बैठे देखभाल और पेट साफ़ रखने की सही आदतें।'), src: '/videos/piles-killer-explainer.mp4', poster: '/videos/piles-killer-explainer.jpg', title: b('Piles treatment at home', 'घर बैठे बवासीर का उपचार'), duration: '0:50' },
-  pilesNews: { tag: b('Discussion', 'चर्चा'), desc: b('A doctor discusses the common symptoms of piles, fissure and fistula, and when to seek treatment.', 'डॉक्टर के साथ बवासीर, फिशर और फिस्टुला के आम लक्षणों और सही समय पर इलाज की चर्चा।'), src: '/videos/piles-news.mp4', poster: '/videos/piles-news.jpg', title: b('Piles, fissure & fistula — doctor discussion', 'बवासीर, फिशर, फिस्टुला — डॉक्टर से चर्चा'), duration: '2:24', square: true },
+  pilesNews: { tag: b('Full information', 'पूरी जानकारी'), desc: b('When to get tested and what the treatment involves — complete information.', 'कब कराएं जांच और कैसा होगा उपचार — पूरी जानकारी।'), youtube: 'p8GwNMowpJE', title: b('Piles, fissure & fistula — causes, tests and treatment', 'बवासीर, फिशर, फिस्टुला — कारण, जांच और उपचार'), vertical: true },
+  pilesSymptoms: { tag: b('Symptoms', 'लक्षण'), desc: b('Lumps coming out, bleeding, constipation, a boil, a cut or pus — know these signs of piles, fissure and fistula, and contact us for Ayurvedic consultation.', 'मस्से बाहर आना, खून निकलना, कब्ज़ रहना, फुंसी, कट लगना या मवाद निकलना — बवासीर, फिशर और फिस्टुला के इन लक्षणों को पहचानें और आयुर्वेदिक परामर्श के लिए संपर्क करें।'), src: '/videos/piles-symptoms-ad.mp4', poster: '/videos/piles-symptoms-ad.jpg', title: b('Piles, fissure & fistula — know the symptoms', 'बवासीर, फिशर, फिस्टुला — लक्षण पहचानें'), duration: '0:23', square: true },
+  pilesDoctorTalk: { tag: b('Doctor interview', 'डॉक्टर से बातचीत'), desc: b('A doctor talks about piles and its Ayurvedic treatment. For more information call 9711-766-755.', 'बवासीर और उसके आयुर्वेदिक इलाज पर डॉक्टर से बातचीत। ज़्यादा जानकारी के लिए 9711-766-755 पर कॉल करें।'), src: '/videos/piles-doctor-talk.mp4', poster: '/videos/piles-doctor-talk.jpg', title: b('Piles — talk with a doctor', 'बवासीर — डॉक्टर से बातचीत'), duration: '2:48', square: true },
   freeSalah: { tag: b('Free consultation', 'फ्री सलाह'), desc: b('Talk to our team for free — call +91 97117 66755.', 'हमारी टीम से मुफ़्त सलाह लें — कॉल करें +91 97117 66755'), src: '/videos/jj-free-salah.mp4', poster: '/videos/jj-free-salah.jpg', title: b('Free consultation — call today', 'फ्री सलाह — आज ही कॉल करें'), duration: '0:34', vertical: true },
   pilesReel: { tag: b('Reel', 'रील'), desc: b('Pain or a swelling? Know more about piles, fissure and fistula.', 'दर्द या फुंसी जैसी परेशानी? जानें बवासीर, फिशर और फिस्टुला के बारे में।'), src: '/videos/piles-reel.mp4', poster: '/videos/piles-reel.jpg', title: b('Piles, fissure, fistula — what to do?', 'बवासीर, फिशर, फिस्टुला — क्या करें?'), duration: '0:33', vertical: true },
 }
@@ -35,5 +38,5 @@ export const LP_INFO_VIDEOS = {
   eyebrow: b('Know more', 'और जानें'),
   title: b('Piles treatment explained in videos', 'वीडियो में जानें बवासीर का उपचार'),
   sub: b('Symptoms, home care and treatment options — explained simply by our doctors.', 'लक्षण, घर पर देखभाल और उपचार के विकल्प — हमारे डॉक्टरों से आसान भाषा में।'),
-  items: [V.freeSalah, V.pilesReel, V.pilesKillerExplainer, V.pilesKillerInterview, V.pilesNews],
+  items: [V.freeSalah, V.pilesReel, V.pilesSymptoms, V.pilesKillerExplainer, V.pilesDoctorTalk, V.pilesKillerInterview, V.pilesNews],
 }

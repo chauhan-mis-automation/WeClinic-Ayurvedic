@@ -24,10 +24,10 @@ export default {
     sub: b('From a single isolated patch to widespread, symmetrical white patches, our doctors design a treatment plan for every presentation.', 'एक अकेले दाग से लेकर पूरे शरीर पर दोनों तरफ़ फैले दागों तक — हर स्थिति के लिए हमारे डॉक्टर प्लान बनाते हैं।'),
     items: [
       { icon: '◐', name: b('Segmental Vitiligo', 'सेगमेंटल विटिलिगो'), desc: b('Patches on one side or segment of the body', 'शरीर के एक तरफ़ या एक हिस्से में दाग') },
-      { icon: '⚖️', name: b('Non-Segmental (Generalized) Vitiligo', 'नॉन-सेगमेंटल (सामान्य) विटिलिगो'), desc: b('Symmetrical patches on both sides of the body', 'शरीर के दोनों तरफ़ एक जैसे दाग') },
-      { icon: '⚪', name: b('Focal Vitiligo', 'फोकल विटिलिगो'), desc: b('One or a few isolated white patches', 'एक या कुछ अलग-अलग सफ़ेद दाग') },
-      { icon: '👧', name: b('Vitiligo in Children', 'बच्चों में सफ़ेद दाग'), desc: b('Early-onset patches needing gentle care', 'कम उम्र में शुरू हुए दाग, सौम्य देखभाल') },
-      { icon: '✋', name: b('Facial / Hand Vitiligo', 'चेहरे / हाथ के दाग'), desc: b('Visible patches on the face & hands', 'चेहरे और हाथों पर दिखने वाले दाग') },
+      { icon: '', name: b('Non-Segmental (Generalized) Vitiligo', 'नॉन-सेगमेंटल (सामान्य) विटिलिगो'), desc: b('Symmetrical patches on both sides of the body', 'शरीर के दोनों तरफ़ एक जैसे दाग') },
+      { icon: '', name: b('Focal Vitiligo', 'फोकल विटिलिगो'), desc: b('One or a few isolated white patches', 'एक या कुछ अलग-अलग सफ़ेद दाग') },
+      { icon: '', name: b('Vitiligo in Children', 'बच्चों में सफ़ेद दाग'), desc: b('Early-onset patches needing gentle care', 'कम उम्र में शुरू हुए दाग, सौम्य देखभाल') },
+      { icon: '', name: b('Facial / Hand Vitiligo', 'चेहरे / हाथ के दाग'), desc: b('Visible patches on the face & hands', 'चेहरे और हाथों पर दिखने वाले दाग') },
     ],
   },
 

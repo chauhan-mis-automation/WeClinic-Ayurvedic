@@ -713,7 +713,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Functional Constipation"
     },
@@ -722,7 +722,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Diet-Related Constipation"
     },
@@ -731,7 +731,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "IBS-Related Constipation"
     },
@@ -740,7 +740,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Laxative-Dependent Constipation"
     },
@@ -749,7 +749,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Constipation in Children"
     },

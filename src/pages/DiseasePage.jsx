@@ -96,8 +96,7 @@ function Plan({ d }) {
     <section className="section dz-plan">
       <div className="container welcome-grid">
         <Reveal className="photo-frame plan-photo" variant="left">
-          {ok ? <img src={PLAN.image} alt="" loading="lazy" onError={() => setOk(false)} />
-            : <div className="clinic-fallback"><span className="cf-emoji">🌿</span><b>Jeewan Jyoti Ayurvedic Sansthan</b><small>{t({ en: 'Complete healthcare, naturally & personally', hi: 'संपूर्ण स्वास्थ्य देखभाल, प्राकृतिक और व्यक्तिगत' })}</small></div>}
+          {ok ? <img src={PLAN.image} alt="" loading="lazy" onError={() => setOk(false)} /> : null}
         </Reveal>
         <div>
           <Reveal className="eyebrow-bar">{fill(t(PLAN.eyebrow), name)}</Reveal>

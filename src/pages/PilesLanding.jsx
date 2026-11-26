@@ -47,9 +47,9 @@ export default function PilesLanding() {
             <Reveal as="p" className="lp-sub" delay={80}>{t(H.sub)}</Reveal>
             <Reveal delay={140}><CallButton big /></Reveal>
             <Reveal className="lp-badges" delay={200}>
-              <span>🛡️ {t({ en: '100% confidential', hi: '100% गोपनीय' })}</span>
-              <span>🚚 {t({ en: 'Free home delivery', hi: 'फ्री होम डिलीवरी' })}</span>
-              <span>📋 {t({ en: 'Free diet chart', hi: 'फ्री डाइट चार्ट' })}</span>
+              <span>{t({ en: '100% confidential', hi: '100% गोपनीय' })}</span>
+              <span>{t({ en: 'Free home delivery', hi: 'फ्री होम डिलीवरी' })}</span>
+              <span>{t({ en: 'Free diet chart', hi: 'फ्री डाइट चार्ट' })}</span>
             </Reveal>
           </div>
           <Reveal className="hero-form-wrap" id="hero-form" variant="right">
@@ -62,7 +62,7 @@ export default function PilesLanding() {
       <section className="section">
         <div className="container welcome-grid">
           <Reveal className="welcome-media" variant="left">
-            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic" emoji="🏥" /></div>
+            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic" emoji="" /></div>
           </Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(O.kicker)}</Reveal>
@@ -103,7 +103,7 @@ export default function PilesLanding() {
             })}
             <Reveal className="lp-treat-card lp-online-card" delay={80}>
               <div className="lp-online-doc">
-                <SmartImg src="/images/call-doctor.png" alt="" emoji="👩‍⚕️" />
+                <SmartImg src="/images/call-doctor.png" alt="" emoji="" />
                 <span className="online-dot" />
               </div>
               <h3>{t({ en: 'Doctors are online', hi: 'डॉक्टर ऑनलाइन हैं' })}</h3>
@@ -119,7 +119,7 @@ export default function PilesLanding() {
       {/* 4. Plan */}
       <section className="section dz-plan">
         <div className="container welcome-grid">
-          <Reveal className="photo-frame plan-photo" variant="left"><SmartImg src={LP.plan.image} alt="Jeewan Jyoti doctors team" emoji="👩‍⚕️" /></Reveal>
+          <Reveal className="photo-frame plan-photo" variant="left"><SmartImg src={LP.plan.image} alt="Jeewan Jyoti doctors team" emoji="" /></Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(LP.plan.title)}</Reveal>
             <Reveal as="h2" className="h2">{t(LP.plan.sub)}</Reveal>
@@ -160,7 +160,7 @@ export default function PilesLanding() {
         <div className="container">
           {LP.kits.items.map((k, i) => (
             <Reveal key={k.title.en} className={`lp-kit ${i % 2 ? 'rev' : ''}`}>
-              <div className="lp-kit-img"><SmartImg src={LP.kits.image} alt={t(k.title)} emoji="💊" /></div>
+              <div className="lp-kit-img"><SmartImg src={LP.kits.image} alt={t(k.title)} emoji="" /></div>
               <div>
                 <h2 className="h3">{t(k.title)}</h2>
                 <p className="body">{t(LP.kits.text).replace('{name}', t(k.name))}</p>

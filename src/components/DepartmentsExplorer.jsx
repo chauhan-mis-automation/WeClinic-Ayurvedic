@@ -55,7 +55,7 @@ export default function DepartmentsExplorer() {
                 <h3>{t(dept.title)} <span className="count-badge">{dept.items.length} {t(DEPT_SECTION.treatments)}</span></h3>
                 <p>{t(dept.desc)}</p>
               </div>
-              <button className="btn btn-white" onClick={openAppointment}>📞 {t(DEPT_SECTION.ask)}</button>
+              <button className="btn btn-white" onClick={openAppointment}>{t(DEPT_SECTION.ask)}</button>
             </div>
             <div className="cond-grid" key={dept.id}>
               {dept.items.map((c, i) => (

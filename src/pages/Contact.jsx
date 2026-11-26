@@ -24,7 +24,7 @@ export default function Contact() {
         <div className="container contact-grid">
           <div className="contact-cards">
             <Reveal className="contact-card">
-              <span className="vi">📞</span>
+              <span className="vi"></span>
               <div>
                 <h3>{t(C.phonesTitle)}</h3>
                 <div className="phone-list">
@@ -33,15 +33,15 @@ export default function Contact() {
               </div>
             </Reveal>
             <Reveal className="contact-card" delay={120}>
-              <span className="vi">🕘</span>
+              <span className="vi"></span>
               <div><h3>{t(C.hoursTitle)}</h3><p>{t(C.hours)}</p></div>
             </Reveal>
             <Reveal className="contact-card" delay={180}>
-              <span className="vi">✉️</span>
+              <span className="vi"></span>
               <div><h3>{t(C.emailTitle)}</h3><p><a href={`mailto:${SITE.email}`}>{SITE.email}</a></p></div>
             </Reveal>
             <Reveal className="contact-card rating-card" delay={240}>
-              <span className="vi">⭐</span>
+              <span className="vi"></span>
               <div><h3>Google</h3><p><Link to="/reviews">{t(C.reviews)}</Link></p></div>
             </Reveal>
           </div>

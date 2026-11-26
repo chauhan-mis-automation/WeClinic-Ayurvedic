@@ -9,6 +9,7 @@ function VideoCard({ v }) {
   const [playing, setPlaying] = useState(false)
   const ref = useRef(null)
   const shape = v.vertical ? 'vg-vertical' : v.square ? 'vg-square' : ''
+  const poster = v.poster || (v.youtube ? `https://i.ytimg.com/vi/${v.youtube}/hqdefault.jpg` : '')
 
   const pauseOthers = () => {
     document.querySelectorAll('video.vg-video').forEach((el) => { if (el !== ref.current) el.pause() })
@@ -17,12 +18,20 @@ function VideoCard({ v }) {
   return (
     <figure className={`vg-card ${shape}`}>
       <div className="vg-frame">
-        {playing ? (
+        {playing && v.youtube ? (
+          <iframe
+            className="vg-video"
+            src={`https://www.youtube-nocookie.com/embed/${v.youtube}?autoplay=1&rel=0&playsinline=1&modestbranding=1`}
+            title={t(v.title)}
+            allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+            allowFullScreen
+          />
+        ) : playing ? (
           <video
             ref={ref}
             className="vg-video"
             src={v.src}
-            poster={v.poster}
+            poster={poster}
             controls
             autoPlay
             playsInline
@@ -31,7 +40,7 @@ function VideoCard({ v }) {
           />
         ) : (
           <button type="button" className="vg-poster" onClick={() => setPlaying(true)} aria-label={`${t({ en: 'Play video', hi: 'वीडियो चलाएं' })}: ${t(v.title)}`}>
-            <img src={v.poster} alt="" loading="lazy" />
+            <img src={poster} alt="" loading="lazy" />
             <span className="vg-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="30" height="30"><path d="M8 5v14l11-7z" fill="currentColor" /></svg></span>
             {v.tag && <span className="vg-tag">{t(v.tag)}</span>}
             {v.duration && <span className="vg-dur">▶ {v.duration}</span>}
@@ -61,12 +70,12 @@ export default function VideoGallery({ data, className = '' }) {
         </Reveal>
         {tall.length > 0 && (
           <div className="vg-tall">
-            {tall.map((v, i) => <Reveal key={v.src} delay={i * 80}><VideoCard v={v} /></Reveal>)}
+            {tall.map((v, i) => <Reveal key={v.src || v.youtube} delay={i * 80}><VideoCard v={v} /></Reveal>)}
           </div>
         )}
         {wide.length > 0 && (
           <div className="vg-grid">
-            {wide.map((v, i) => <Reveal key={v.src} delay={(i % 2) * 80}><VideoCard v={v} /></Reveal>)}
+            {wide.map((v, i) => <Reveal key={v.src || v.youtube} delay={(i % 2) * 80}><VideoCard v={v} /></Reveal>)}
           </div>
         )}
       </div>

@@ -56,12 +56,12 @@ export default {
       'कभी-कभार के व्हाइटहेड्स-ब्लैकहेड्स से लेकर पुराने, हार्मोन से जुड़े सिस्टिक मुंहासों तक — हर स्टेज के लिए हमारे डॉक्टर प्लान बनाते हैं।'
     ),
     items: [
-      { icon: '⚪', name: b('Whiteheads & Blackheads', 'व्हाइटहेड्स और ब्लैकहेड्स'), desc: b('Clogged, congested pores', 'बंद, भरे हुए रोमछिद्र') },
-      { icon: '🔴', name: b('Papules & Pustules', 'पैप्यूल्स और पस्ट्यूल्स'), desc: b('Inflamed, red or pus-filled bumps', 'सूजे, लाल या पस वाले दाने') },
-      { icon: '🟣', name: b('Cystic / Nodular Acne', 'सिस्टिक / नोड्यूलर एक्ने'), desc: b('Deep, painful lesions under the skin', 'त्वचा के अंदर गहरे, दर्द वाले दाने') },
-      { icon: '🌸', name: b('Hormonal Acne', 'हार्मोनल एक्ने'), desc: b('Jawline & chin breakouts tied to hormones', 'जबड़े और ठुड्डी पर हार्मोन से जुड़े मुंहासे') },
-      { icon: '🧑', name: b('Teenage Acne', 'किशोरावस्था के मुंहासे'), desc: b('Puberty-related oily skin & breakouts', 'किशोरावस्था में तैलीय त्वचा और मुंहासे') },
-      { icon: '👩', name: b('Adult Acne', 'वयस्कों के मुंहासे'), desc: b('Persistent or late-onset breakouts', 'लगातार या बड़ी उम्र में शुरू हुए मुंहासे') },
+      { icon: '', name: b('Whiteheads & Blackheads', 'व्हाइटहेड्स और ब्लैकहेड्स'), desc: b('Clogged, congested pores', 'बंद, भरे हुए रोमछिद्र') },
+      { icon: '', name: b('Papules & Pustules', 'पैप्यूल्स और पस्ट्यूल्स'), desc: b('Inflamed, red or pus-filled bumps', 'सूजे, लाल या पस वाले दाने') },
+      { icon: '', name: b('Cystic / Nodular Acne', 'सिस्टिक / नोड्यूलर एक्ने'), desc: b('Deep, painful lesions under the skin', 'त्वचा के अंदर गहरे, दर्द वाले दाने') },
+      { icon: '', name: b('Hormonal Acne', 'हार्मोनल एक्ने'), desc: b('Jawline & chin breakouts tied to hormones', 'जबड़े और ठुड्डी पर हार्मोन से जुड़े मुंहासे') },
+      { icon: '', name: b('Teenage Acne', 'किशोरावस्था के मुंहासे'), desc: b('Puberty-related oily skin & breakouts', 'किशोरावस्था में तैलीय त्वचा और मुंहासे') },
+      { icon: '', name: b('Adult Acne', 'वयस्कों के मुंहासे'), desc: b('Persistent or late-onset breakouts', 'लगातार या बड़ी उम्र में शुरू हुए मुंहासे') },
     ],
   },
 

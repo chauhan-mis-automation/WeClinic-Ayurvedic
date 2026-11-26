@@ -767,7 +767,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Body Ringworm (Tinea Corporis)"
     },
@@ -776,7 +776,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Scalp Ringworm (Tinea Capitis)"
     },
@@ -785,7 +785,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Recurring Ringworm"
     },
@@ -794,7 +794,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Ringworm in Children"
     },
@@ -803,7 +803,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Chronic / Resistant Ringworm"
     },

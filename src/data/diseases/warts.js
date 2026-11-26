@@ -759,7 +759,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Common Warts"
     },
@@ -768,7 +768,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Plantar (Foot) Warts"
     },
@@ -777,7 +777,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Flat Warts"
     },
@@ -786,7 +786,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Filiform Warts"
     },
@@ -795,7 +795,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Recurring / Multiple Warts"
     },

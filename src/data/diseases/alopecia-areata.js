@@ -723,7 +723,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Patchy Alopecia Areata"
     },
@@ -732,7 +732,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Alopecia Totalis"
     },
@@ -741,7 +741,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Alopecia Universalis"
     },
@@ -750,7 +750,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Ophiasis Pattern"
     },
@@ -759,7 +759,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Diffuse Alopecia Areata"
     },
@@ -768,7 +768,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Alopecia in Children"
     },

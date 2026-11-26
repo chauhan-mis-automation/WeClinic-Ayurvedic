@@ -716,7 +716,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Urticaria (Hives)"
     },
@@ -725,7 +725,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Allergic Contact Dermatitis"
     },
@@ -734,7 +734,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Angioedema"
     },
@@ -743,7 +743,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Food-Triggered Allergy"
     },
@@ -752,7 +752,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Drug-Induced Skin Allergy"
     },
@@ -761,7 +761,7 @@ export default {
     }
    },
    {
-    "icon": "⚡",
+    "icon": "",
     "name": {
      "en": "Seasonal/Weather Allergy"
     },

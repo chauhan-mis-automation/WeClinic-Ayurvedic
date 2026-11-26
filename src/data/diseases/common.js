@@ -20,10 +20,10 @@ export const WHY_CHOOSE = {
   eyebrow: { en: 'Why Jeewan Jyoti', hi: 'जीवन ज्योति क्यों' },
   title: { en: 'Why Choose Jeewan Jyoti for {name} Care?', hi: '{name} के लिए जीवन ज्योति क्यों चुनें?' },
   cards: [
-    { icon: '🛡️', title: { en: 'Completely Confidential', hi: 'पूरी तरह गोपनीय' }, text: { en: 'All the information you share with us stays completely private.', hi: 'आपकी दी हुई हर जानकारी पूरी तरह गोपनीय रहती है।' } },
-    { icon: '🛵', title: { en: 'Home Delivery', hi: 'होम डिलीवरी' }, text: { en: 'Your medicines are couriered to your doorstep in discreet, unmarked packaging.', hi: 'दवा बिना नाम वाले, गोपनीय पैकेट में आपके घर तक पहुंचती है।' } },
-    { icon: '🩺', title: { en: 'Personalised Treatment', hi: 'व्यक्तिगत उपचार' }, text: { en: 'Your plan is built around your history, lifestyle and triggers — not a one-size-fits-all pack.', hi: 'आपका प्लान आपकी हिस्ट्री, जीवनशैली और कारणों के अनुसार बनता है — सबके लिए एक जैसा पैक नहीं।' } },
-    { icon: '💬', title: { en: 'Online & Clinic Consultation', hi: 'ऑनलाइन और क्लिनिक परामर्श' }, text: { en: 'Consult our doctors online from anywhere, or visit our clinic in person.', hi: 'कहीं से भी ऑनलाइन परामर्श लें, या क्लिनिक में आकर मिलें।' } },
+    { icon: '', title: { en: 'Completely Confidential', hi: 'पूरी तरह गोपनीय' }, text: { en: 'All the information you share with us stays completely private.', hi: 'आपकी दी हुई हर जानकारी पूरी तरह गोपनीय रहती है।' } },
+    { icon: '', title: { en: 'Home Delivery', hi: 'होम डिलीवरी' }, text: { en: 'Your medicines are couriered to your doorstep in discreet, unmarked packaging.', hi: 'दवा बिना नाम वाले, गोपनीय पैकेट में आपके घर तक पहुंचती है।' } },
+    { icon: '', title: { en: 'Personalised Treatment', hi: 'व्यक्तिगत उपचार' }, text: { en: 'Your plan is built around your history, lifestyle and triggers — not a one-size-fits-all pack.', hi: 'आपका प्लान आपकी हिस्ट्री, जीवनशैली और कारणों के अनुसार बनता है — सबके लिए एक जैसा पैक नहीं।' } },
+    { icon: '', title: { en: 'Online & Clinic Consultation', hi: 'ऑनलाइन और क्लिनिक परामर्श' }, text: { en: 'Consult our doctors online from anywhere, or visit our clinic in person.', hi: 'कहीं से भी ऑनलाइन परामर्श लें, या क्लिनिक में आकर मिलें।' } },
   ],
   online: { en: 'Our specialists are online – Call Now', hi: 'हमारे विशेषज्ञ ऑनलाइन हैं – अभी कॉल करें' },
 }

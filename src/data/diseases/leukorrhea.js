@@ -780,7 +780,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Physiological (Normal) Discharge"
     },
@@ -789,7 +789,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Infection-Related Discharge"
     },
@@ -798,7 +798,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Hormonal Discharge"
     },
@@ -807,7 +807,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Recurrent Leukorrhea"
     },

@@ -702,7 +702,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Simple Fibroadenoma"
     },
@@ -711,7 +711,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Complex Fibroadenoma"
     },
@@ -720,7 +720,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Multiple Fibroadenomas"
     },
@@ -729,7 +729,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Fibroadenoma in Teenagers"
     },

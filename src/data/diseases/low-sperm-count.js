@@ -853,7 +853,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Mild Oligospermia"
     },
@@ -862,7 +862,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Moderate/Severe Oligospermia"
     },
@@ -871,7 +871,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Azoospermia"
     },
@@ -880,7 +880,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Lifestyle-Related Low Count"
     },

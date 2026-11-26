@@ -993,7 +993,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Ulcerative Colitis"
     },
@@ -1002,7 +1002,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Infectious Colitis"
     },
@@ -1011,7 +1011,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Ischemic Colitis"
     },
@@ -1020,7 +1020,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Mild-Moderate Colitis"
     },
@@ -1029,7 +1029,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Flare-Up Management"
     },

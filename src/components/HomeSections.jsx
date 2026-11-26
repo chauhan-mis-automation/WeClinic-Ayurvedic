@@ -13,7 +13,7 @@ import { useAppointment } from './AppointmentContext'
 function Photo({ src, alt, emoji, className = '' }) {
   const [ok, setOk] = useState(true)
   if (ok) return <img className={className} src={src} alt={alt} loading="lazy" onError={() => setOk(false)} />
-  return <div className={`photo-fallback ${className}`} aria-hidden="true"><span>{emoji}</span></div>
+  return null
 }
 
 export function NotSureBand() {
@@ -49,7 +49,7 @@ export function BuiltAroundYou() {
             <Reveal key={c.img} className="built-card" delay={i * 120}>
               <div className="built-media">
                 <Photo src={c.img} alt={t(c.title)} emoji={c.emoji} />
-                <span className="built-badge">{c.badgeIcon} {t(c.badge)}</span>
+                <span className="built-badge">{t(c.badge)}</span>
               </div>
               <div className="built-body">
                 <h3>{t(c.title)}</h3>
@@ -80,8 +80,8 @@ export function Awards() {
           {AWARDS.items.map((a, i) => (
             <Reveal key={a.img} className="award-card" delay={(i % 4) * 100}>
               <div className="award-media">
-                <Photo src={a.img} alt={t(a.title)} emoji="🏆" />
-                <span className="award-ribbon">🏆</span>
+                <Photo src={a.img} alt={t(a.title)} emoji="" />
+                <span className="award-ribbon"></span>
               </div>
               <div className="award-body">
                 <h3>{t(a.title)}</h3>
@@ -92,7 +92,7 @@ export function Awards() {
         </div>
         {AWARDS.closingTitle && (
           <Reveal className="awards-closing">
-            <h3>🏆 {t(AWARDS.closingTitle)}</h3>
+            <h3>{t(AWARDS.closingTitle)}</h3>
             <p>{t(AWARDS.closingText)}</p>
           </Reveal>
         )}
@@ -110,8 +110,8 @@ export function VisitUs() {
         <Reveal className="visit-copy" variant="left">
           <h2 className="h2">{t(VISIT.title)}</h2>
           <ul className="visit-list">
-            <li><span className="vi">🕘</span>{t(VISIT.hours)}</li>
-            <li><span className="vi">📞</span><a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
+            <li><span className="vi"></span>{t(VISIT.hours)}</li>
+            <li><span className="vi"></span><a href={`tel:${SITE.phone}`}>{SITE.phoneDisplay}</a></li>
           </ul>
           <div className="visit-actions">
             <a href={`tel:${SITE.phone}`} className="btn btn-primary btn-lg"><span className="ring"><PhoneIcon size={18} /></span> {t(UI.callNow)}</a>

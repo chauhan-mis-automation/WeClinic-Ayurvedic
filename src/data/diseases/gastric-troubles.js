@@ -752,7 +752,7 @@ export default {
   },
   "items": [
    {
-    "icon": "🌿",
+    "icon": "",
     "name": {
      "en": "Bloating & Gas"
     },
@@ -761,7 +761,7 @@ export default {
     }
    },
    {
-    "icon": "🩺",
+    "icon": "",
     "name": {
      "en": "Acidity & Heartburn"
     },
@@ -770,7 +770,7 @@ export default {
     }
    },
    {
-    "icon": "💧",
+    "icon": "",
     "name": {
      "en": "Indigestion"
     },
@@ -779,7 +779,7 @@ export default {
     }
    },
    {
-    "icon": "🔴",
+    "icon": "",
     "name": {
      "en": "Stress-Related Gastric Issues"
     },
@@ -788,7 +788,7 @@ export default {
     }
    },
    {
-    "icon": "🌸",
+    "icon": "",
     "name": {
      "en": "Chronic Gastric Trouble"
     },

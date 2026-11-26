@@ -61,7 +61,7 @@ export default function LeadForm({
         <input type="text" placeholder={t(FORM.name)} value={f.name} onChange={set('name')} autoComplete="name" />
       </label>
       <label className="field field-phone">
-        <span className="cc">🇮🇳 +91</span>
+        <span className="cc">+91</span>
         <span className="sr-only">{t(FORM.phone)}</span>
         <input type="tel" inputMode="numeric" maxLength={14} placeholder={t(FORM.phone)} value={f.phone} onChange={set('phone')} autoComplete="tel" />
       </label>
@@ -93,8 +93,8 @@ export default function LeadForm({
         {status.state === 'sending' ? t(FORM.sending) : <>{t(submitLabel)} <span className="arrow">→</span></>}
       </button>
       <div className="form-foot">
-        <span>🛡️ {t(FORM.private)}</span>
-        <span>⭐ {t(FORM.noSpam)}</span>
+        <span>{t(FORM.private)}</span>
+        <span>{t(FORM.noSpam)}</span>
       </div>
     </form>
   )

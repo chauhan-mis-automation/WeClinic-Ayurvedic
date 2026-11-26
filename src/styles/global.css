@@ -1009,3 +1009,55 @@ a.lp-treat-card:hover, .lp-treat-card:hover { transform: translateY(-5px); box-s
   .lp-check { width: 24px; height: 24px; font-size: 16px; }
   .lp-treat-v2 .lp-treat-card p { font-size: 16.5px; margin-top: 10px; }
 }
+
+/* ===== Video gallery (site + landing) ===== */
+.vg-tint { background: #fffaf0; }
+.vg .section-head { margin-bottom: 30px; }
+.vg-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px; max-width: 1180px; margin: 0 auto; }
+.vg-tall { display: flex; flex-wrap: wrap; justify-content: center; gap: 26px; margin: 0 auto 30px; }
+.vg-tall .vg-card { width: 300px; }
+.vg-card { margin: 0; }
+.vg-frame { position: relative; aspect-ratio: 16 / 9; border-radius: 16px; overflow: hidden; background: #111; box-shadow: 0 10px 28px rgba(0, 0, 0, .16); }
+.vg-vertical .vg-frame { aspect-ratio: 9 / 16; }
+.vg-square .vg-frame { aspect-ratio: 16 / 9; }
+.vg-square .vg-poster img, .vg-square .vg-video { object-fit: contain; }
+.vg-video { width: 100%; height: 100%; display: block; background: #000; }
+.vg-poster { all: unset; cursor: pointer; position: absolute; inset: 0; display: block; }
+.vg-poster img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .5s; background: #000; }
+.vg-poster::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0) 55%, rgba(0,0,0,.45)); }
+.vg-poster:hover img { transform: scale(1.04); }
+.vg-poster:focus-visible { outline: 3px solid var(--orange, #f97316); outline-offset: -3px; }
+.vg-play { position: absolute; left: 50%; top: 50%; z-index: 1; width: 70px; height: 70px; margin: -35px 0 0 -35px; border-radius: 50%; background: #ef4444; color: #fff; display: grid; place-items: center; box-shadow: 0 0 0 8px rgba(239, 68, 68, .28); transition: transform .25s; }
+.vg-play svg { margin-left: 4px; }
+.vg-poster:hover .vg-play { transform: scale(1.1); }
+.vg-dur { position: absolute; right: 10px; bottom: 10px; z-index: 1; background: rgba(0,0,0,.72); color: #fff; font-size: 13px; font-weight: 600; padding: 3px 8px; border-radius: 6px; }
+.vg-card figcaption { margin-top: 12px; font-weight: 600; font-size: 17px; color: var(--ink); text-align: center; line-height: 1.4; }
+@media (max-width: 768px) {
+  .vg-grid { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+  .vg-tall { gap: 14px; flex-wrap: nowrap; }
+  .vg-tall > * { flex: 1 1 0; min-width: 0; max-width: 260px; }
+  .vg-tall .vg-card { width: 100%; }
+  .vg-play { width: 56px; height: 56px; margin: -28px 0 0 -28px; }
+  .vg-card figcaption { font-size: 15px; }
+}
+.vg .eyebrow { color: var(--orange-d, #ea580c); }
+/* Video cards — description (v2) */
+.vg-sub { max-width: 720px; margin: 10px auto 0; color: var(--muted); }
+.vg-tag { position: absolute; left: 12px; top: 12px; z-index: 1; background: #fff; color: var(--green-d, #15803d); font-size: 13px; font-weight: 700; padding: 5px 11px; border-radius: 999px; box-shadow: 0 2px 8px rgba(0,0,0,.18); }
+.vg-card figcaption { text-align: left; margin-top: 14px; display: grid; gap: 6px; }
+.vg-title { font-size: 19px; font-weight: 700; color: var(--ink); line-height: 1.35; }
+.vg-desc { font-size: 15.5px; font-weight: 400; color: var(--muted); line-height: 1.55; }
+.vg-tall .vg-card figcaption { text-align: center; }
+.vg-tall .vg-title { font-size: 17px; }
+.vg-tall .vg-desc { font-size: 14.5px; }
+@media (max-width: 768px) {
+  .vg-title { font-size: 17px; }
+  .vg-desc { font-size: 14.5px; }
+  .vg-tall .vg-title { font-size: 14.5px; }
+  .vg-tall .vg-desc { font-size: 13px; }
+  .vg-tag { font-size: 11.5px; padding: 4px 9px; left: 8px; top: 8px; }
+}
+.vg .eyebrow { letter-spacing: .04em; }
+@media (min-width: 769px) {
+  .vg-grid > :last-child:nth-child(odd) { grid-column: 1 / -1; width: calc(50% - 13px); justify-self: center; }
+}

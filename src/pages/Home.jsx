@@ -9,6 +9,8 @@ import Reveal from '../components/Reveal'
 import CountUp from '../components/CountUp'
 import DepartmentsExplorer from '../components/DepartmentsExplorer'
 import { PhoneIcon } from '../components/CallBar'
+import VideoGallery from '../components/VideoGallery'
+import { HOME_VIDEOS } from '../data/videos'
 import { NotSureBand, BuiltAroundYou, Awards, VisitUs, Faq } from '../components/HomeSections'
 
 function Hero() {
@@ -153,6 +155,7 @@ export default function Home() {
       <TrustStrip />
       <Welcome />
       <WhyUs />
+      <VideoGallery data={HOME_VIDEOS} />
       <DepartmentsExplorer />
       <NotSureBand />
       <BuiltAroundYou />

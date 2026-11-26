@@ -8,6 +8,8 @@ import { DISEASE_LOADERS } from '../data/diseases'
 import Reveal from '../components/Reveal'
 import SmartImg from '../components/SmartImg'
 import LeadForm from '../components/LeadForm'
+import VideoGallery from '../components/VideoGallery'
+import { LP_STORY_VIDEOS, LP_INFO_VIDEOS } from '../data/videos'
 import MediaMentions from '../components/MediaMentions'
 import { PhoneIcon } from '../components/CallBar'
 
@@ -111,6 +113,9 @@ export default function PilesLanding() {
         </div>
       </section>
 
+      {/* Videos — patient stories */}
+      <VideoGallery data={LP_STORY_VIDEOS} className="vg-tint" />
+
       {/* 4. Plan */}
       <section className="section dz-plan">
         <div className="container welcome-grid">
@@ -143,6 +148,9 @@ export default function PilesLanding() {
           <div className="center-row"><CallButton big /></div>
         </div>
       </section>
+
+      {/* Videos — treatment info */}
+      <VideoGallery data={LP_INFO_VIDEOS} />
 
       {/* 6. Media */}
       <MediaMentions />

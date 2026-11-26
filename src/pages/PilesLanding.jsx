@@ -62,7 +62,7 @@ export default function PilesLanding() {
       <section className="section">
         <div className="container welcome-grid">
           <Reveal className="welcome-media" variant="left">
-            <div className="photo-frame"><SmartImg src={O.image} alt="Jeewan Jyoti clinic" emoji="" /></div>
+            <div className="photo-frame lp-ad-frame"><SmartImg src={O.image} alt="Jeewan Jyoti Ayurvedic Sansthan" emoji="" /></div>
           </Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(O.kicker)}</Reveal>
@@ -119,7 +119,7 @@ export default function PilesLanding() {
       {/* 4. Plan */}
       <section className="section dz-plan">
         <div className="container welcome-grid">
-          <Reveal className="photo-frame plan-photo" variant="left"><SmartImg src={LP.plan.image} alt="Jeewan Jyoti doctors team" emoji="" /></Reveal>
+          <Reveal className="photo-frame plan-photo lp-ad-frame" variant="left"><SmartImg src={LP.plan.image} alt="Jeewan Jyoti Ayurvedic Sansthan" emoji="" /></Reveal>
           <div>
             <Reveal className="eyebrow-bar">{t(LP.plan.title)}</Reveal>
             <Reveal as="h2" className="h2">{t(LP.plan.sub)}</Reveal>
@@ -160,7 +160,7 @@ export default function PilesLanding() {
         <div className="container">
           {LP.kits.items.map((k, i) => (
             <Reveal key={k.title.en} className={`lp-kit ${i % 2 ? 'rev' : ''}`}>
-              <div className="lp-kit-img"><SmartImg src={LP.kits.image} alt={t(k.title)} emoji="" /></div>
+              <div className="lp-kit-img"><SmartImg src={k.img || LP.kits.image} alt={t(k.title)} emoji="" /></div>
               <div>
                 <h2 className="h3">{t(k.title)}</h2>
                 <p className="body">{t(LP.kits.text).replace('{name}', t(k.name))}</p>

@@ -32,7 +32,7 @@ export const LP = {
       b('Free diet chart', 'फ्री डाइट चार्ट'),
       b('75,654+ satisfied patients', '75,654 से ज़्यादा संतुष्ट मरीज़'),
     ],
-    image: '/images/clinic.webp',
+    image: '/images/piles/kit-fissure.webp',
   },
   treat: {
     title: b('What do we treat?', 'हम किन रोगों का उपचार करते हैं?'),
@@ -59,7 +59,7 @@ export const LP = {
       b('Our team calls you regularly during treatment to track your progress.', 'उपचार के दौरान हमारी टीम आपको समय-समय पर कॉल करती रहेगी।'),
       b('For any problem during treatment, you can book an appointment with our doctors.', 'उपचार के दौरान किसी भी समस्या के लिए आप हमारे डॉक्टर्स के साथ अपॉइंटमेंट ले सकते हैं।'),
     ],
-    image: '/images/piles/doctors-team.webp',
+    image: '/images/piles/kit-fistula.webp',
   },
   why: {
     title: b('Why choose Jeewan Jyoti for treatment?', 'उपचार के लिए जीवन ज्योति क्यों चुनें?'),
@@ -73,9 +73,9 @@ export const LP = {
   kits: {
     image: '/images/piles/treatment-kit.webp',
     items: [
-      { title: b('Jeewan Jyoti Piles Treatment Kit', 'जीवन ज्योति बवासीर उपचार किट'), name: b('piles', 'बवासीर') },
-      { title: b('Jeewan Jyoti Fissure Treatment Kit', 'जीवन ज्योति फिशर उपचार किट'), name: b('fissure', 'फिशर') },
-      { title: b('Jeewan Jyoti Fistula Treatment Kit', 'जीवन ज्योति भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
+      { img: '/images/piles/kit-piles.webp', title: b('Jeewan Jyoti Piles Treatment Kit', 'जीवन ज्योति बवासीर उपचार किट'), name: b('piles', 'बवासीर') },
+      { img: '/images/piles/kit-fissure.webp', title: b('Jeewan Jyoti Fissure Treatment Kit', 'जीवन ज्योति फिशर उपचार किट'), name: b('fissure', 'फिशर') },
+      { img: '/images/piles/kit-fistula.webp', title: b('Jeewan Jyoti Fistula Treatment Kit', 'जीवन ज्योति भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
     ],
     text: b(
       'Care for {name} usually needs a course of about 3 to 4 months; the duration may be shorter or longer depending on severity. Taking the medicines regularly and following the diet chart and routine we give helps you see results sooner.',

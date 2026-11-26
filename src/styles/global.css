@@ -1103,3 +1103,11 @@ iframe.vg-video { border: 0; }
       #14532d;
   }
 }
+
+/* Landing kits — square ad images, poori dikhe (crop nahi) */
+.lp-kit-img:has(img) { aspect-ratio: 1 / 1; background: #fff; border: 1px solid var(--line); }
+.lp-kit-img:has(img) img { object-fit: contain; }
+@media (max-width: 768px) { .lp-kit, .lp-kit.rev { grid-template-columns: minmax(0, 1fr); } .lp-kit.rev .lp-kit-img { order: 0; } .lp-kit-img { max-width: 420px; width: 100%; margin: 0 auto; } }
+/* Landing: offer + plan me client ki square ad images (poori dikhe) */
+.lp-ad-frame { aspect-ratio: 1 / 1 !important; background: #fff; }
+.lp-ad-frame img { width: 100%; height: 100%; object-fit: contain; }

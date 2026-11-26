@@ -74,8 +74,8 @@ export const LP = {
     image: '/images/piles/treatment-kit.webp',
     items: [
       { img: '/images/piles/kit-piles.webp', title: b('Jeewan Jyoti Piles Treatment Kit', 'जीवन ज्योति बवासीर उपचार किट'), name: b('piles', 'बवासीर') },
-      { img: '/images/piles/kit-fissure.webp', title: b('Jeewan Jyoti Fissure Treatment Kit', 'जीवन ज्योति फिशर उपचार किट'), name: b('fissure', 'फिशर') },
-      { img: '/images/piles/kit-fistula.webp', title: b('Jeewan Jyoti Fistula Treatment Kit', 'जीवन ज्योति भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
+      { img: '/images/piles/kit-fissure-2.webp', title: b('Jeewan Jyoti Fissure Treatment Kit', 'जीवन ज्योति फिशर उपचार किट'), name: b('fissure', 'फिशर') },
+      { img: '/images/piles/kit-fistula-2.webp', title: b('Jeewan Jyoti Fistula Treatment Kit', 'जीवन ज्योति भगन्दर उपचार किट'), name: b('fistula', 'फिस्टुला') },
     ],
     text: b(
       'Care for {name} usually needs a course of about 3 to 4 months; the duration may be shorter or longer depending on severity. Taking the medicines regularly and following the diet chart and routine we give helps you see results sooner.',
